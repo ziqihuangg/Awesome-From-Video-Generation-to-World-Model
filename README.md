@@ -49,7 +49,7 @@
 [![Website](https://img.shields.io/badge/Website-9cf)](https://modelscope.cn/models/iic/text-to-video-synthesis/summary) 
 
 + [Diffusion Models for Video Prediction and Infilling](https://arxiv.org/abs/2206.07696) (2022-06-15) 
-[![Code](https://img.shields.io/github/stars/PTobi-r9/RaMViD.svg?style=social&label=Official)](https://github.com/Tobi-r9/RaMViD)
+[![Code](https://img.shields.io/github/stars/Tobi-r9/RaMViD.svg?style=social&label=Official)](https://github.com/Tobi-r9/RaMViD)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/video-diffusion-prediction)
 
 
