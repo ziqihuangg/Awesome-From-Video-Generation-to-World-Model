@@ -9,19 +9,19 @@
   - [1.2. DiT Based Video Generation](#1.2.)
   - [1.3. Autoregressive Based Video Generation](#1.3.)
   - [1.4. Other Based Video Generation](#1.4.)
-- [2.  Video Generation for World Model in Robotics](#2.)
+- [2. Video Generation for World Model in Robotics](#2.)
   - [2.1. Action Navigation World Model](#2.1.)
   - [2.2. Instruction Navigation World Model](#2.2.)
   - [2.3. Motion Navigation World Model](#2.3.)
   - [2.4. Other Navigation World Model](#2.4.)
-- [3.  Video Generation for World Model in Autonomous Driving](#3.)
+- [3. Video Generation for World Model in Autonomous Driving](#3.)
   - [3.1. Instruction Navigation World Model](#3.1.)
   - [3.2. Trajectory Navigation World Model](#3.2.)
   - [3.3. Action Navigation World Model](#3.3.)
   - [3.4. Layout Navigation World Model](#3.4.)
   - [3.5. Hybrid Navigation World Model](#3.5.)
   - [3.6.World Model without Navigation](#3.6.)
-- [4.  Video Generation for World Model in Gaming](#4.)
+- [4. Video Generation for World Model in Gaming](#4.)
   - [4.1. Action Navigation World Model](#4.1.)
   - [4.2. Instruction Navigation World Model](#4.2.)
   - [4.3. Other Navigation World Model](#4.3.)
@@ -150,12 +150,77 @@
 <a name="1.3."></a>
 ### 1.3. Autoregressive Based Video Generation
 
++ [Pre-Trained Video Generative Models as World Simulators](https://arxiv.org/abs/2502.07825) (2025-02-10)
+
 + [Cosmos World Foundation Model Platform for Physical AI](https://arxiv.org/abs/2501.03575) (2025-01-07) 
 [![Code](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-predict1.svg?style=social&label=Official)](https://github.com/nvidia-cosmos/cosmos-predict1)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-predict1/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/nvidia/cosmos-predict1-67c9d1b97678dbf7669c89a7)
 
++ [Owl-1: Omni World Model for Consistent Long Video Generation](https://arxiv.org/abs/2412.09600) (2024-12-12) 
+[![Code](https://img.shields.io/github/stars/huang-yh/Owl.svg?style=social&label=Official)](https://github.com/huang-yh/Owl)
+
 + [Pandora: Towards general world model with natural language actions and video states](https://arxiv.org/abs/2406.09455) (2024-06-12) 
 [![Code](https://img.shields.io/github/stars/maitrix-org/Pandora.svg?style=social&label=Official)](https://github.com/maitrix-org/Pandora)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-model.maitrix.org/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/maitrix-org/Pandora)
+
++ [MAGVIT:Masked Generative Video Transformer](https://arxiv.org/abs/2212.05199) (2022-12-10) 
+[![Code](https://img.shields.io/github/stars/google-research/magvit.svg?style=social&label=Official)](https://github.com/google-research/magvit)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://magvit.cs.cmu.edu/) 
+
+<a name="1.4."></a>
+### 1.4. Other Based Video Generation
+
++ [From Slow Bidirectional to Fast Autoregressive Video Diffusion Models](https://arxiv.org/abs/2412.07772) (2024-12-10) 
+[![Code](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Official)](https://github.com/tianweiy/CausVid)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/) 
+
++ [WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens](https://arxiv.org/abs/2401.09985) (2024-01-18) 
+[![Code](https://img.shields.io/github/stars/JeffWang987/WorldDreamer.svg?style=social&label=Official)](https://github.com/JeffWang987/WorldDreamer)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://world-dreamer.github.io/) 
+
+
+<a name="2."></a>
+## 2. Video Generation for World Model in Robotics
+<a name="2.1."></a>
+### 2.1. Action Navigation World Model
+
++ [Pre-Trained Video Generative Models as World Simulators](https://arxiv.org/abs/2502.07825) (2025-02-10)
+
++ [Navigation World Models](https://arxiv.org/abs/2412.03572) (2024-12-04)
+[![Code](https://img.shields.io/github/stars/facebookresearch/nwm.svg?style=social&label=Official)](https://github.com/facebookresearch/nwm/)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://www.amirbar.net/nwm/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/facebook/nwm)
+
++ [IRASim: Learning Interactive Real-Robot Action Simulators](https://arxiv.org/abs/2406.14540) (2024-06-20)
+[![Code](https://img.shields.io/github/stars/bytedance/IRASim.svg?style=social&label=Official)](https://github.com/bytedance/IRASim)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://gen-irasim.github.io/)
+
+<a name="2.2."></a>
+### 2.2. Instruction Navigation World Model
+
++ [SlowFast-VGen: Slow-Fast Learning for Action-driven Long Video Generation](https://arxiv.org/abs/2410.23277) (2024-10-30) 
+[![Code (to be released)](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen.svg?style=social&label=Official)](https://github.com/slowfast-vgen/slowfast-vgen)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://slowfast-vgen.github.io/) 
+
++ [EVA: An Embodied World Model for Future Video Anticipation](https://arxiv.org/abs/2410.15461) (2024-10-20) 
+
+
++ [Pandora: Towards general world model with natural language actions and video states](https://arxiv.org/abs/2406.09455) (2024-06-12) 
+[![Code](https://img.shields.io/github/stars/maitrix-org/Pandora.svg?style=social&label=Official)](https://github.com/maitrix-org/Pandora)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://world-model.maitrix.org/) 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/maitrix-org/Pandora)
+
+<a name="2.3."></a>
+### 2.3. Motion Navigation World Model
+
++ [Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression](https://arxiv.org/abs/2502.04296) (2025-02-06) 
+[![Code](https://img.shields.io/github/stars/liruiw/HMA.svg?style=social&label=Official)](https://github.com/liruiw/HMA)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://liruiw.github.io/hma/) 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/liruiw/hma-base-disc)
+
+
+
+<a name="2.4."></a>
+### 2.4.  Other Navigation World Model
