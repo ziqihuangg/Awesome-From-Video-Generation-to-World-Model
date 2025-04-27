@@ -20,7 +20,7 @@
   - [3.3. Action Navigation World Model](#3.3.)
   - [3.4. Layout Navigation World Model](#3.4.)
   - [3.5. Hybrid Navigation World Model](#3.5.)
-  - [3.6.World Model without Navigation](#3.6.)
+  - [3.6. World Model without Navigation](#3.6.)
 - [4. Video Generation for World Model in Gaming](#4.)
   - [4.1. Action Navigation World Model](#4.1.)
   - [4.2. Instruction Navigation World Model](#4.2.)
@@ -221,6 +221,98 @@
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/liruiw/hma-base-disc)
 
 
-
 <a name="2.4."></a>
 ### 2.4.  Other Navigation World Model
+
++ [TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation](https://arxiv.org/abs/2503.11423) (2025-03-14) 
+[![Code](https://img.shields.io/github/stars/GAP-LAB-CUHK-SZ/TASTE-Rob.svg?style=social&label=Official)](https://github.com/GAP-LAB-CUHK-SZ/TASTE-Rob)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://taste-rob.github.io/) 
+
++ [RoboDreamer: Learning Compositional World Models for Robot Imagination](https://arxiv.org/abs/2404.12377) (2024-04-18) 
+[![Code](https://img.shields.io/github/stars/rainbow979/robodreamer.svg?style=social&label=Official)](https://github.com/rainbow979/robodreamer)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://robovideo.github.io/) 
+
+<a name="3."></a>
+## 3. Video Generation for World Model in Autonomous Driving
+<a name="3.1."></a>
+### 3.1. Instruction Navigation World Model
+
++ [SlowFast-VGen: Slow-Fast Learning for Action-driven Long Video Generation](https://arxiv.org/abs/2410.23277) (2024-10-30) 
+[![Code (to be released)](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen.svg?style=social&label=Official)](https://github.com/slowfast-vgen/slowfast-vgen)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://slowfast-vgen.github.io/) 
+
++ [Pandora: Towards general world model with natural language actions and video states](https://arxiv.org/abs/2406.09455) (2024-06-12) 
+[![Code](https://img.shields.io/github/stars/maitrix-org/Pandora.svg?style=social&label=Official)](https://github.com/maitrix-org/Pandora)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://world-model.maitrix.org/) 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/maitrix-org/Pandora)
+
++ [WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens](https://arxiv.org/abs/2401.09985) (2024-01-18) 
+[![Code](https://img.shields.io/github/stars/JeffWang987/WorldDreamer.svg?style=social&label=Official)](https://github.com/JeffWang987/WorldDreamer)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://world-dreamer.github.io/)
+
+<a name="3.2."></a>
+### 3.2. Trajectory Navigation World Model
+
++ [Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies  Ego-Other Vehicle Trajectories in Video Latent Space](https://arxiv.org/abs/2503.09215) (2025-03-12) 
+
++ [Doe-1: Closed-Loop Autonomous Driving with Large World Model](https://arxiv.org/abs/2412.09627) (2024-12-12)
+[![Code](https://img.shields.io/github/stars/wzzheng/Doe.svg?style=social&label=Official)](https://github.com/wzzheng/Doe)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://wzzheng.net/Doe/)
+
++ [ACT-BENCH:Towards Action Controllable World Models for Autonomous Driving](https://arxiv.org/abs/2412.05337) (2024-12-06)
+
+<a name="3.3."></a>
+### 3.3. Action Navigation World Model
+
++ [DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers](https://arxiv.org/abs/2412.18607) (2024-12-24)
+
+<a name="3.4."></a>
+### 3.4. Layout Navigation World Model
+
++ [CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving](https://arxiv.org/abs/2503.22231) (2025-05-28)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://xiaomi-research.github.io/cogen/)
+
++ [UniScene: Unified Occupancy-centric Driving Scene Generation](https://arxiv.org/abs/2412.05435) (2024-12-06)
+[![Code](https://img.shields.io/github/stars/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation.svg?style=social&label=Official)](https://github.com/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://arlo0o.github.io/uniscene/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Arlolo0/UniScene/tree/main)
+
+<a name="3.5."></a>
+### 3.5. Hybrid Navigation World Model
+
++ [GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving](https://arxiv.org/abs/2503.20523) (2025-03-26)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://wayve.ai/thinking/gaia-2/)
+
++ [MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving](https://arxiv.org/abs/2503.15875) (2025-03-20)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://xiaomi-mlab.github.io/mila.github.io/) 
+
++ [MaskGWM: a Generalizable driving World Model embodied with Video Mask reconstruction](https://arxiv.org/abs/2502.11663) (2025-02-17)
+[![Code](https://img.shields.io/github/stars/SenseTime-FVG/OpenDWM.svg?style=social&label=Official)](https://github.com/SenseTime-FVG/OpenDWM)
+
++ [GEM:AGeneralizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control](https://arxiv.org/abs/2412.11198) (2024-12-15)
+[![Code](https://img.shields.io/github/stars/vita-epfl/GEM.svg?style=social&label=Official)](https://github.com/vita-epfl/GEM)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://vita-epfl.github.io/GEM.github.io/)
+
++ [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/abs/2309.09777) (2023-09-18)
+[![Code](https://img.shields.io/github/stars/JeffWang987/DriveDreamer.svg?style=social&label=Official)](https://drivedreamer.github.io/)
+
+<a name="3.6."></a>
+### 3.6. World Model without Navigation
+
++ [Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception](https://arxiv.org/abs/2503.13587) (2025-03-17)
+[![Code](https://img.shields.io/github/stars/dk-liang/UniFuture.svg?style=social&label=Official)](https://github.com/dk-liang/UniFuture)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://dk-liang.github.io/UniFuture/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
