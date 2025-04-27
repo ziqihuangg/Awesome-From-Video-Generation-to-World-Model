@@ -303,12 +303,14 @@
 [![Code](https://img.shields.io/github/stars/dk-liang/UniFuture.svg?style=social&label=Official)](https://github.com/dk-liang/UniFuture)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://dk-liang.github.io/UniFuture/)
 
+<a name="4."></a>
+## 4. Video Generation for World Model in Gaming
+<a name="4.1."></a>
+### 4.1. Action Navigation World Model
 
+### 4.2. Instruction Navigation World Model
 
-
-
-
-
+### 4.3. Instruction Navigation World Model
 
 
 
