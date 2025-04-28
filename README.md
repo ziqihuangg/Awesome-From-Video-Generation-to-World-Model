@@ -6,6 +6,8 @@
 
 We hope to support the research and industrial communities by systematically collecting and organizing influential works that drive progress in video generation for world modeling.
 
+![overall_structure](./fig_teaser.png)
+
 The field of video generation is undergoing a paradigm shift - from generating realistic and appealing visuals to constructing world models that can simulate interactive and navigable environments. These models are not just visual tools; they serve as testbeds for training and evaluating intelligent agents, such as robots, autonomous vehicles, or virtual avatars. A central goal is to enable agents to perceive, act, and plan within generated video scenarios as if they were interacting with the real world. We compile key works that push video generation toward actionable world modeling, focusing physical plausibility, and the capacity for agents to navigate, manipulate, and learn from these synthetic environments.
 
 
