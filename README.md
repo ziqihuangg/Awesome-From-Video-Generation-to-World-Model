@@ -326,7 +326,7 @@ This repository is updated periodically. If you have suggestions for additional 
 
 ### 4.2. Instruction Navigation World Model
 
-### 4.3. Instruction Navigation World Model
+### 4.3. Other Navigation World Model
 
 
 
