@@ -25,6 +25,7 @@
   - [4.1. Action Navigation World Model](#4.1.)
   - [4.2. Instruction Navigation World Model](#4.2.)
   - [4.3. Other Navigation World Model](#4.3.)
+
  
 <a name="1."></a>
 ## 1. Video Generation for World Model in General Scenes
