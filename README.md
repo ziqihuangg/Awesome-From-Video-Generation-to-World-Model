@@ -322,7 +322,10 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="4."></a>
 ## 4. Video Generation for World Model in Gaming
 <a name="4.1."></a>
-### 4.1. Action Navigation World Model
+### 4.1. Keyboard Navigation World Model
++ [Playable Video Generation](https://arxiv.org/abs/2101.12195) (2021-01-28)
+[![Code](https://img.shields.io/github/stars/willi-menapace/PlayableVideoGeneration.svg?style=social&label=Official)](https://github.com/willi-menapace/PlayableVideoGeneration)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-video-generation-website/)
 
 ### 4.2. Instruction Navigation World Model
 
