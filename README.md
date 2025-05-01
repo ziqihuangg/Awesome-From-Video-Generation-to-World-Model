@@ -60,7 +60,7 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code (to be released)](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen.svg?style=social&label=Official)](https://github.com/slowfast-vgen/slowfast-vgen)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://slowfast-vgen.github.io/)
 
-+ [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](https://arxiv.org/pdf/2405.14868) (2024-05-23)
++ [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](https://arxiv.org/abs/2405.14868) (2024-05-23)
 +   ><i>Note: with relative camera  extrinsics navigation</i>
 
 + [MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators](https://arxiv.org/abs/2404.05014) (2024-04-07) 
@@ -340,7 +340,7 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="3.7."></a>
 ### 3.7. Other Navigation World Model
 
-+ [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](https://arxiv.org/pdf/2405.14868) (2024-05-23)
++ [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](https://arxiv.org/abs/2405.14868) (2024-05-23)
 +   ><i>Note: with relative camera  extrinsics navigation</i>
 
 <a name="4."></a>
