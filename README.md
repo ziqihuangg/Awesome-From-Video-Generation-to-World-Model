@@ -277,6 +277,9 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/JeffWang987/WorldDreamer.svg?style=social&label=Official)](https://github.com/JeffWang987/WorldDreamer)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-dreamer.github.io/)
 
++ [Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2304.08818) (2023-04-18) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
+
 <a name="3.2."></a>
 ### 3.2. Trajectory Navigation World Model
 
