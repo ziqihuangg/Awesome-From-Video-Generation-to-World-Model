@@ -74,6 +74,11 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://doubiiu.github.io/projects/DynamiCrafter) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/papers/2310.12190)
 
++ [LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models](https://arxiv.org/abs/2309.15103) (2023-09-26) 
+[![Code](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Official)](https://github.com/Vchitect/LaVie)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/LaVie-project/) 
+
+
 + [ModelScope Text-to-Video Technical Report](https://arxiv.org/abs/2308.06571) (2023-8-12) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://modelscope.cn/models/iic/text-to-video-synthesis/summary)
 
