@@ -37,6 +37,7 @@ This repository is updated periodically. If you have suggestions for additional 
   - [3.4. Layout Navigation World Model](#3.4.)
   - [3.5. Hybrid Navigation World Model](#3.5.)
   - [3.6. World Model without Navigation](#3.6.)
+  - [3.7. Other Navigation World Model](#3.7.)
 - [4. Video Generation for World Model in Gaming](#4.)
   - [4.1. Action Navigation World Model](#4.1.)
   - [4.2. Instruction Navigation World Model](#4.2.)
@@ -59,7 +60,8 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code (to be released)](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen.svg?style=social&label=Official)](https://github.com/slowfast-vgen/slowfast-vgen)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://slowfast-vgen.github.io/)
 
-+ [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](https://arxiv.org/pdf/2405.14868) (2024-05-23) 
++ [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](https://arxiv.org/pdf/2405.14868) (2024-05-23)
++   ><i>Note: with relative camera  extrinsics navigation</i>
 
 + [MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators](https://arxiv.org/abs/2404.05014) (2024-04-07) 
 [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/MagicTime.svg?style=social&label=Official)](https://github.com/PKU-YuanGroup/MagicTime/tree/main)
@@ -334,6 +336,12 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception](https://arxiv.org/abs/2503.13587) (2025-03-17)
 [![Code](https://img.shields.io/github/stars/dk-liang/UniFuture.svg?style=social&label=Official)](https://github.com/dk-liang/UniFuture)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://dk-liang.github.io/UniFuture/)
+
+<a name="3.7."></a>
+### 3.7. Other Navigation World Model
+
++ [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](https://arxiv.org/pdf/2405.14868) (2024-05-23)
++   ><i>Note: with relative camera  extrinsics navigation</i>
 
 <a name="4."></a>
 ## 4. Video Generation for World Model in Gaming
