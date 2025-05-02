@@ -60,6 +60,10 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code (to be released)](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen.svg?style=social&label=Official)](https://github.com/slowfast-vgen/slowfast-vgen)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://slowfast-vgen.github.io/)
 
++ [Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention](https://arxiv.org/abs/2410.10774) (2024-10-14)
++ [![Website](https://img.shields.io/badge/Website-9cf)](https://ir1d.github.io/Cavia/) 
++   ><i>Note: with camera Plucker position navigation</i>
+
 + [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](https://arxiv.org/abs/2405.14868) (2024-05-23)
 +   ><i>Note: with relative camera  extrinsics navigation</i>
 
