@@ -219,6 +219,9 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-model.maitrix.org/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/maitrix-org/Pandora)
 
++ [VideoPoet: A Large Language Model for Zero-Shot Video Generation](https://arxiv.org/abs/2312.14125) (2023-12-21) 
+[![Website](https://img.shields.io/badge/Website-9cf)](http://sites.research.google/videopoet/) 
+
 + [MAGVIT:Masked Generative Video Transformer](https://arxiv.org/abs/2212.05199) (2022-12-10) 
 [![Code](https://img.shields.io/github/stars/google-research/magvit.svg?style=social&label=Official)](https://github.com/google-research/magvit)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://magvit.cs.cmu.edu/) 
