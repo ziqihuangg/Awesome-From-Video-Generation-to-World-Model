@@ -83,7 +83,11 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [DreamVideo: Composing Your Dream Videos with Customized Subject and Motion](https://arxiv.org/abs/2312.04433) (2023-12-07) 
 [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://dreamvideo-t2v.github.io/) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://dreamvideo-t2v.github.io/)
+
+ + [I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models](https://arxiv.org/abs/2311.04145) (2023-112-07) 
+[![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://i2vgen-xl.github.io/) 
 
 + [DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors](https://arxiv.org/abs/2310.12190) (2023-10-18) 
 [![Code](https://img.shields.io/github/stars/Doubiiu/DynamiCrafter.svg?style=social&label=Official)](https://github.com/Doubiiu/DynamiCrafter)
