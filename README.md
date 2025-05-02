@@ -75,7 +75,11 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://arxiv.org/abs/2312.12490) (2023-12-19) 
 [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://instructvideo.github.io/) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://instructvideo.github.io/)
+
++ [Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation](https://arxiv.org/abs/2312.04483) (2023-12-07)
++ [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://higen-t2v.github.io/)
 
 + [DreamVideo: Composing Your Dream Videos with Customized Subject and Motion](https://arxiv.org/abs/2312.04433) (2023-12-07) 
 [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
