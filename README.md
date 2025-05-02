@@ -180,6 +180,11 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Official)](https://github.com/THUDM/CogVideo) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/THUDM/CogVideoX-5B-Space)
 
++ [VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control](https://arxiv.org/abs/2407.12781) (2024-07-17) 
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Official)](https://github.com/snap-research/ac3d)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/vd3d/)
++   ><i>Note: with camera trajectory navigation</i>
+
 + [T2v-turbo: Breaking the quality bottleneck of video consistency model with mixed reward feedback](https://arxiv.org/abs/2405.18750) (2024-05-29)
 + [![Code](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Official)](https://github.com/Ji4chenLi/t2v-turbo)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo.github.io/)
@@ -213,6 +218,10 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [Owl-1: Omni World Model for Consistent Long Video Generation](https://arxiv.org/abs/2412.09600) (2024-12-12) 
 [![Code](https://img.shields.io/github/stars/huang-yh/Owl.svg?style=social&label=Official)](https://github.com/huang-yh/Owl)
+
++ [DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion](https://arxiv.org/abs/2411.04928) (2024-11-07)
++ [![Code](https://img.shields.io/github/stars/wenqsun/DimensionX.svg?style=social&label=Official)](https://github.com/wenqsun/DimensionX)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://chenshuo20.github.io/DimensionX/) 
 
 + [Pandora: Towards general world model with natural language actions and video states](https://arxiv.org/abs/2406.09455) (2024-06-12) 
 [![Code](https://img.shields.io/github/stars/maitrix-org/Pandora.svg?style=social&label=Official)](https://github.com/maitrix-org/Pandora)
