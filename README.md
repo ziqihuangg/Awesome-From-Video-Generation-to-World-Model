@@ -233,7 +233,10 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [MAGVIT:Masked Generative Video Transformer](https://arxiv.org/abs/2212.05199) (2022-12-10) 
 [![Code](https://img.shields.io/github/stars/google-research/magvit.svg?style=social&label=Official)](https://github.com/google-research/magvit)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://magvit.cs.cmu.edu/) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://magvit.cs.cmu.edu/)
+
++ [CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers](https://arxiv.org/abs/2408.06072) (2022-05-29) 
+[![Code](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Official)](https://github.com/THUDM/CogVideo) 
 
 <a name="1.4."></a>
 ### 1.4. Other Based Video Generation
