@@ -64,6 +64,11 @@ This repository is updated periodically. If you have suggestions for additional 
 + [![Website](https://img.shields.io/badge/Website-9cf)](https://ir1d.github.io/Cavia/) 
 +   ><i>Note: with camera Plucker position navigation</i>
 
++ [T2v-turbo: Breaking the quality bottleneck of video consistency model with mixed reward feedback](https://arxiv.org/abs/2405.18750) (2024-05-29)
++ [![Code](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Official)](https://github.com/Ji4chenLi/t2v-turbo)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TIGER-Lab/T2V-Turbo)
+
 + [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](https://arxiv.org/abs/2405.14868) (2024-05-23)
 +   ><i>Note: with relative camera  extrinsics navigation</i>
 
@@ -139,7 +144,7 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [Pre-Trained Video Generative Models as World Simulators](https://arxiv.org/abs/2502.07825) (2025-02-10)
 
-+ [IPO: Iterative Preference Optimization for Text-to-Video Generation](https://arxiv.org/abs/2502.02088) (2024-02-04) 
++ [IPO: Iterative Preference Optimization for Text-to-Video Generation](https://arxiv.org/abs/2502.02088) (2025-02-04) 
 [![Code](https://img.shields.io/github/stars/SAIS-FUXI/IPO.svg?style=social&label=Official)](https://github.com/SAIS-FUXI/IPO) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://yangxlarge.github.io/ipoc//)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Fudan-FUXI/IPOC-2B-v1.0)
