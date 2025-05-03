@@ -129,6 +129,11 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="1.2."></a>
 ### 1.2. DiT Based Video Generation
 
++ [AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset](https://arxiv.org/abs/2503.19462) (2025-03-25)
++ [![Code](https://img.shields.io/github/stars/aejion/AccVideo.svg?style=social&label=Official)](https://github.com/aejion/AccVideo)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://aejion.github.io/accvideo/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/aejion/AccVideo)
+
 + [AETHER: Geometric-Aware Unified World Modeling](https://arxiv.org/abs/2503.18945) (2025-03-24)
 + [![Code](https://img.shields.io/github/stars/OpenRobotLab/Aether.svg?style=social&label=Official)](https://github.com/OpenRobotLab/Aether)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://aether-world.github.io/) 
