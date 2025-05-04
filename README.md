@@ -73,6 +73,11 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TIGER-Lab/T2V-Turbo)
 
++ [Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control](https://arxiv.org/abs/2405.17414) (2024-05-27)
++ [![Code](https://img.shields.io/github/stars/CollaborativeVideoDiffusion/CVD.svg?style=social&label=Official)](https://github.com/CollaborativeVideoDiffusion/CVD)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://collaborativevideodiffusion.github.io/) 
++   ><i>Note: with camera trajectory navigation</i>
+
 + [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](https://arxiv.org/abs/2405.14868) (2024-05-23)
 +   ><i>Note: with relative camera  extrinsics navigation</i>
 
@@ -194,6 +199,11 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [Open-Sora Plan: Open-Source Large Video Generation Model](https://arxiv.org/abs/2412.00131) (2024-11-28) 
 [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Official)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
+
++ [AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers](https://arxiv.org/abs/2411.18673) (2024-11-27)
++ [![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Official)](https://github.com/snap-research/ac3d)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/ac3d/) 
++   ><i>Note: with camera trajectory navigation</i>
 
 + [Allegro: Open the black box of commercial-level video generation model](https://arxiv.org/abs/2410.15458) (2024-10-20)
 + [![Code](https://img.shields.io/github/stars/rhymes-ai/Allegro.svg?style=social&label=Official)](https://github.com/rhymes-ai/Allegro)
