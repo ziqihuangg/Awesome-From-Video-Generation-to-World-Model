@@ -39,8 +39,8 @@ This repository is updated periodically. If you have suggestions for additional 
   - [3.6. World Model without Navigation](#3.6.)
   - [3.7. Other Navigation World Model](#3.7.)
 - [4. Video Generation for World Model in Gaming](#4.)
-  - [4.1. Action Navigation World Model](#4.1.)
-  - [4.2. Instruction Navigation World Model](#4.2.)
+  - [4.1. Keyboard Navigation World Model (Interactive)](#4.1.)
+  - [4.2. Discrete Action Trajectory Navigation World Model](#4.2.)
   - [4.3. Other Navigation World Model](#4.3.)
  
 <a name="1."></a>
@@ -292,7 +292,10 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [From Slow Bidirectional to Fast Autoregressive Video Diffusion Models](https://arxiv.org/abs/2412.07772) (2024-12-10) 
 [![Code](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Official)](https://github.com/tianweiy/CausVid)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/)
+
++ [ViD-GPT: Introducing GPT-style Autoregressive Generation in Video Diffusion Models](https://arxiv.org/abs/2406.10981) (2024-06-16) 
+[![Code](https://img.shields.io/github/stars/Dawn-LX/CausalCache-VDM.svg?style=social&label=Official)](https://github.com/Dawn-LX/CausalCache-VDM)
 
 + [WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens](https://arxiv.org/abs/2401.09985) (2024-01-18) 
 [![Code](https://img.shields.io/github/stars/JeffWang987/WorldDreamer.svg?style=social&label=Official)](https://github.com/JeffWang987/WorldDreamer)
@@ -433,13 +436,24 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="4."></a>
 ## 4. Video Generation for World Model in Gaming
 <a name="4.1."></a>
-### 4.1. Keyboard Navigation World Model
+### 4.1. Keyboard Navigation World Model (Interactive)
++ [GameGen-X: Interactive Open-world Game Video Generation](https://arxiv.org/abs/2411.00769) (2024-11-01)
+[![Code](https://img.shields.io/github/stars/GameGen-X/GameGen-X.svg?style=social&label=Official)](https://github.com/GameGen-X/GameGen-X)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://gamegen-x.github.io/)
+
+
+
+<a name="4.2."></a>
+### 4.2. Discrete Action Trajectory Navigation World Model
+
++ [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/abs/2408.14837) (2024-08-27)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://gamengen.github.io/)
+
 + [Playable Video Generation](https://arxiv.org/abs/2101.12195) (2021-01-28)
 [![Code](https://img.shields.io/github/stars/willi-menapace/PlayableVideoGeneration.svg?style=social&label=Official)](https://github.com/willi-menapace/PlayableVideoGeneration)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-video-generation-website/)
 
-### 4.2. Instruction Navigation World Model
-
+<a name="4.3."></a>
 ### 4.3. Other Navigation World Model
 
 
