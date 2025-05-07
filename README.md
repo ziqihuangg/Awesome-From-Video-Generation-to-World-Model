@@ -21,7 +21,7 @@ This repository is updated periodically. If you have suggestions for additional 
 
 ### Table of Contents
 - [1. Video Generation for World Model in General Scenes](#1.)
-  - [1.1. Stable Diffusion Based Video Generation](#1.1.)
+  - [1.1. U-Net Based Video Generation](#1.1.)
   - [1.2. DiT Based Video Generation](#1.2.)
   - [1.3. Autoregressive Based Video Generation](#1.3.)
   - [1.4. Other Based Video Generation](#1.4.)
@@ -46,7 +46,7 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="1."></a>
 ## 1. Video Generation for World Model in General Scenes
 <a name="1.1."></a>
-### 1.1. Stable Diffusion Based Video Generation
+### 1.1. U-Net Based Video Generation
 
 + [GEM:AGeneralizable Ego-Vision Multimodal World Model for Fine-Grained
  Ego-Motion, Object Dynamics, and Scene Composition Control](https://arxiv.org/pdf/2412.11198) (2024-12-15) 
