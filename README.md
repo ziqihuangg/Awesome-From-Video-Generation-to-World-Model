@@ -53,30 +53,16 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/vita-epfl/GEM.svg?style=social&label=Official)](https://github.com/vita-epfl/GEM)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://vita-epfl.github.io/GEM.github.io/) 
 
-+ [ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning](https://arxiv.org/abs/2411.05003) (2024-11-07) 
-  ><i>Note: with camera trajectory navigation</i>
 
 + [SlowFast-VGen: Slow-Fast Learning for Action-driven Long Video Generation](https://arxiv.org/abs/2410.23277) (2024-10-30) 
 [![Code (to be released)](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen.svg?style=social&label=Official)](https://github.com/slowfast-vgen/slowfast-vgen)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://slowfast-vgen.github.io/)
-
-+ [Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention](https://arxiv.org/abs/2410.10774) (2024-10-14)
-+ [![Website](https://img.shields.io/badge/Website-9cf)](https://ir1d.github.io/Cavia/) 
-+   ><i>Note: with camera Plucker position navigation</i>
-
-+ [Training-free Camera Control for Video Generation](https://arxiv.org/abs/2406.10126) (2024-06-14)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://lifedecoder.github.io/CamTrol/)
-+   ><i>Note: with camera trajectory navigation</i>
 
 + [T2v-turbo: Breaking the quality bottleneck of video consistency model with mixed reward feedback](https://arxiv.org/abs/2405.18750) (2024-05-29)
 + [![Code](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Official)](https://github.com/Ji4chenLi/t2v-turbo)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TIGER-Lab/T2V-Turbo)
 
-+ [Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control](https://arxiv.org/abs/2405.17414) (2024-05-27)
-+ [![Code](https://img.shields.io/github/stars/CollaborativeVideoDiffusion/CVD.svg?style=social&label=Official)](https://github.com/CollaborativeVideoDiffusion/CVD)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://collaborativevideodiffusion.github.io/) 
-+   ><i>Note: with camera trajectory navigation</i>
 
 + [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](https://arxiv.org/abs/2405.14868) (2024-05-23)
 +   ><i>Note: with relative camera  extrinsics navigation</i>
