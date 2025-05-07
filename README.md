@@ -220,6 +220,8 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo-v2.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TIGER-Lab/T2V-Turbo)
 
++ [xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations](https://arxiv.org/abs/2408.12590) (2024-08-22) 
+
 + [Cogvideox:Text-to-video diffusion models with an expert transformer](https://arxiv.org/abs/2408.06072) (2024-08-12) 
 [![Code](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Official)](https://github.com/THUDM/CogVideo) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TIGER-Lab/T2V-Turbo-V2)
@@ -437,6 +439,11 @@ This repository is updated periodically. If you have suggestions for additional 
 ## 4. Video Generation for World Model in Gaming
 <a name="4.1."></a>
 ### 4.1. Keyboard Navigation World Model (Interactive)
+
++ [GameFactory: Creating New Games with Generative Interactive Videos](https://arxiv.org/abs/2501.08325) (2025-01-14)
+[![Code](https://img.shields.io/github/stars/KwaiVGI/GameFactory.svg?style=social&label=Official)](https://github.com/KwaiVGI/GameFactory)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://yujiwen.github.io/gamefactory/)
+
 + [GameGen-X: Interactive Open-world Game Video Generation](https://arxiv.org/abs/2411.00769) (2024-11-01)
 [![Code](https://img.shields.io/github/stars/GameGen-X/GameGen-X.svg?style=social&label=Official)](https://github.com/GameGen-X/GameGen-X)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gamegen-x.github.io/)
@@ -448,6 +455,10 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/abs/2408.14837) (2024-08-27)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gamengen.github.io/)
+
++ [Diffusion for World Modeling: Visual Details Matter in Atari](https://arxiv.org/abs/2405.12399) (2024-05-20)
+[![Code](https://img.shields.io/github/stars/eloialonso/diamond.svg?style=social&label=Official)](https://github.com/eloialonso/diamond)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://diamond-wm.github.io/)
 
 + [Playable Video Generation](https://arxiv.org/abs/2101.12195) (2021-01-28)
 [![Code](https://img.shields.io/github/stars/willi-menapace/PlayableVideoGeneration.svg?style=social&label=Official)](https://github.com/willi-menapace/PlayableVideoGeneration)
