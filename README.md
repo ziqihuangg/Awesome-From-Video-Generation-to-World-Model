@@ -39,9 +39,9 @@ This repository is updated periodically. If you have suggestions for additional 
   - [3.6. World Model without Navigation](#3.6.)
   - [3.7. Other Navigation World Model](#3.7.)
 - [4. Video Generation for World Model in Gaming](#4.)
-  - [4.1. Keyboard Navigation World Model (Interactive)](#4.1.)
-  - [4.2. Discrete Action Trajectory Navigation World Model](#4.2.)
-  - [4.3. Other Navigation World Model](#4.3.)
+  - [4.1. Game Controller Navigation World Model](#4.1.)
+  - [4.2. Keyboard Navigation World Model](#4.2.)
+  - [4.3. Keyboard & Mouse Navigation World Model](#4.3.)
  
 <a name="1."></a>
 ## 1. Video Generation for World Model in General Scenes
@@ -411,13 +411,20 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="4."></a>
 ## 4. Video Generation for World Model in Gaming
 <a name="4.1."></a>
-### 4.1. Keyboard Navigation World Model (Interactive)
+### 4.1. Game Controller Navigation World Model
 
-+ [GameFactory: Creating New Games with Generative Interactive Videos](https://arxiv.org/abs/2501.08325) (2025-01-14)
-[![Code](https://img.shields.io/github/stars/KwaiVGI/GameFactory.svg?style=social&label=Official)](https://github.com/KwaiVGI/GameFactory)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://yujiwen.github.io/gamefactory/)
++ [World and Human Action Models towards gameplay ideation](https://www.nature.com/articles/s41586-025-08600-3) (2025-02-19)
++ [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/microsoft/wham)
 
-+ [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) (2024-12-04)
++ [Genie: Generative Interactive Environmentsl](https://arxiv.org/abs/2402.15391) (2024-02-23)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/genie-2024/?pli=1)
+
++ [Playable Video Generation](https://arxiv.org/abs/2101.12195) (2021-01-28)
+[![Code](https://img.shields.io/github/stars/willi-menapace/PlayableVideoGeneration.svg?style=social&label=Official)](https://github.com/willi-menapace/PlayableVideoGeneration)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-video-generation-website/)
+
+<a name="4.2."></a>
+### 4.2. Keyboard Navigation World Model
 
 + [The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control](https://arxiv.org/abs/2412.03568) (2024-12-04)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://thematrix1999.github.io/)
@@ -426,13 +433,17 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/GameGen-X/GameGen-X.svg?style=social&label=Official)](https://github.com/GameGen-X/GameGen-X)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gamegen-x.github.io/)
 
++ [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/abs/2408.14837) (2024-08-27)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://gamengen.github.io/)
 
+<a name="4.3."></a>
+### 4.2. Keyboard & Mouse Navigation World Model
 
-<a name="4.2."></a>
-### 4.2. Discrete Action Trajectory Navigation World Model
++ [GameFactory: Creating New Games with Generative Interactive Videos](https://arxiv.org/abs/2501.08325) (2025-01-14)
+[![Code](https://img.shields.io/github/stars/KwaiVGI/GameFactory.svg?style=social&label=Official)](https://github.com/KwaiVGI/GameFactory)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://yujiwen.github.io/gamefactory/)
 
-+ [World and Human Action Models towards gameplay ideation](https://www.nature.com/articles/s41586-025-08600-3) (2025-02-19)
-+ [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/microsoft/wham)
++ [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) (2024-12-04)
 
 + [Playable Game Generation](https://arxiv.org/abs/2412.00887) (2024-12-01)
 [![Code](https://img.shields.io/github/stars/GreatX3/Playable-Game-Generation.svg?style=social&label=Official)](https://github.com/GreatX3/Playable-Game-Generation)
@@ -442,26 +453,9 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://oasis-model.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Etched/oasis-500m)
 
-+ [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/abs/2408.14837) (2024-08-27)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://gamengen.github.io/)
-
 + [Diffusion for World Modeling: Visual Details Matter in Atari](https://arxiv.org/abs/2405.12399) (2024-05-20)
 [![Code](https://img.shields.io/github/stars/eloialonso/diamond.svg?style=social&label=Official)](https://github.com/eloialonso/diamond)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://diamond-wm.github.io/)
-
-+ [Genie: Generative Interactive Environmentsl](https://arxiv.org/abs/2402.15391) (2024-02-23)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/genie-2024/?pli=1)
-
-+ [Playable Video Generation](https://arxiv.org/abs/2101.12195) (2021-01-28)
-[![Code](https://img.shields.io/github/stars/willi-menapace/PlayableVideoGeneration.svg?style=social&label=Official)](https://github.com/willi-menapace/PlayableVideoGeneration)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-video-generation-website/)
-
-
-<a name="4.3."></a>
-### 4.3. Other Navigation World Model
-
-
-
 
 
 
