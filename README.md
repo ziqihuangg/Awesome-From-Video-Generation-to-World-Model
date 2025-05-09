@@ -316,6 +316,14 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/video-language-planning/vlp_code.svg?style=social&label=Official)](https://github.com/video-language-planning/vlp_code)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://video-language-planning.github.io/) 
 
++ [Compositional Foundation Models for Hierarchical Planning](https://arxiv.org/abs/2309.08587) (2023-09-15) 
+[![Code](https://img.shields.io/github/stars/anuragajay/hip.svg?style=social&label=Official)](https://github.com/anuragajay/hip/)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://hierarchical-planning-foundation-model.github.io/)
+
++ [Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/abs/2302.00111) (2023-01-31) 
+[![Code](https://img.shields.io/github/stars/flow-diffusion/AVDC.svg?style=social&label=Official)](https://github.com/flow-diffusion/AVDC)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://universal-policy.github.io/unipi/)
+
 
 <a name="2.3."></a>
 ### 2.3.  Other Navigation World Model
