@@ -441,7 +441,7 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gamengen.github.io/)
 
 <a name="4.3."></a>
-### 4.2. Keyboard & Mouse Navigation World Model
+### 4.3. Keyboard & Mouse Navigation World Model
 
 + [GameFactory: Creating New Games with Generative Interactive Videos](https://arxiv.org/abs/2501.08325) (2025-01-14)
 [![Code](https://img.shields.io/github/stars/KwaiVGI/GameFactory.svg?style=social&label=Official)](https://github.com/KwaiVGI/GameFactory)
