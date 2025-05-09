@@ -417,7 +417,7 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/KwaiVGI/GameFactory.svg?style=social&label=Official)](https://github.com/KwaiVGI/GameFactory)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://yujiwen.github.io/gamefactory/)
 
-+ [The MatrGenie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) (2024-12-04)
++ [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) (2024-12-04)
 
 + [The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control](https://arxiv.org/abs/2412.03568) (2024-12-04)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://thematrix1999.github.io/)
@@ -430,6 +430,8 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="4.2."></a>
 ### 4.2. Discrete Action Trajectory Navigation World Model
+
++ [World and Human Action Models towards gameplay ideation](https://www.nature.com/articles/s41586-025-08600-3) (2025-02-19)
 
 + [Playable Game Generation](https://arxiv.org/abs/2412.00887) (2024-12-01)
 [![Code](https://img.shields.io/github/stars/GreatX3/Playable-Game-Generation.svg?style=social&label=Official)](https://github.com/GreatX3/Playable-Game-Generation)
@@ -445,6 +447,9 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Diffusion for World Modeling: Visual Details Matter in Atari](https://arxiv.org/abs/2405.12399) (2024-05-20)
 [![Code](https://img.shields.io/github/stars/eloialonso/diamond.svg?style=social&label=Official)](https://github.com/eloialonso/diamond)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://diamond-wm.github.io/)
+
++ [Genie: Generative Interactive Environmentsl](https://arxiv.org/abs/2402.15391) (2024-02-23)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/genie-2024/?pli=1)
 
 + [Playable Video Generation](https://arxiv.org/abs/2101.12195) (2021-01-28)
 [![Code](https://img.shields.io/github/stars/willi-menapace/PlayableVideoGeneration.svg?style=social&label=Official)](https://github.com/willi-menapace/PlayableVideoGeneration)
