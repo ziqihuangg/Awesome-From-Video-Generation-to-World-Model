@@ -417,6 +417,8 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/KwaiVGI/GameFactory.svg?style=social&label=Official)](https://github.com/KwaiVGI/GameFactory)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://yujiwen.github.io/gamefactory/)
 
++ [The MatrGenie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) (2024-12-04)
+
 + [The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control](https://arxiv.org/abs/2412.03568) (2024-12-04)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://thematrix1999.github.io/)
 
