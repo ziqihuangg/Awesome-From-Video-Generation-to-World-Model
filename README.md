@@ -28,8 +28,7 @@ This repository is updated periodically. If you have suggestions for additional 
 - [2. Video Generation for World Model in Robotics](#2.)
   - [2.1. Action Navigation World Model](#2.1.)
   - [2.2. Instruction Navigation World Model](#2.2.)
-  - [2.3. Motion Navigation World Model](#2.3.)
-  - [2.4. Other Navigation World Model](#2.4.)
+  - [2.3. Other Navigation World Model](#2.3.)
 - [3. Video Generation for World Model in Autonomous Driving](#3.)
   - [3.1. Instruction Navigation World Model](#3.1.)
   - [3.2. Trajectory Navigation World Model](#3.2.)
@@ -283,6 +282,11 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [Pre-Trained Video Generative Models as World Simulators](https://arxiv.org/abs/2502.07825) (2025-02-10)
 
++ [Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression](https://arxiv.org/abs/2502.04296) (2025-02-06) 
+[![Code](https://img.shields.io/github/stars/liruiw/HMA.svg?style=social&label=Official)](https://github.com/liruiw/HMA)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://liruiw.github.io/hma/) 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/liruiw/hma-base-disc)
+
 + [Navigation World Models](https://arxiv.org/abs/2412.03572) (2024-12-04)
 [![Code](https://img.shields.io/github/stars/facebookresearch/nwm.svg?style=social&label=Official)](https://github.com/facebookresearch/nwm/)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://www.amirbar.net/nwm/)
@@ -291,6 +295,7 @@ This repository is updated periodically. If you have suggestions for additional 
 + [IRASim: Learning Interactive Real-Robot Action Simulators](https://arxiv.org/abs/2406.14540) (2024-06-20)
 [![Code](https://img.shields.io/github/stars/bytedance/IRASim.svg?style=social&label=Official)](https://github.com/bytedance/IRASim)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gen-irasim.github.io/)
+
 
 <a name="2.2."></a>
 ### 2.2. Instruction Navigation World Model
@@ -307,17 +312,13 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-model.maitrix.org/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/maitrix-org/Pandora)
 
++ [Video Language Planning](https://arxiv.org/abs/2310.10625) (2023-10-16) 
+[![Code](https://img.shields.io/github/stars/video-language-planning/vlp_code.svg?style=social&label=Official)](https://github.com/video-language-planning/vlp_code)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://video-language-planning.github.io/) 
+
+
 <a name="2.3."></a>
-### 2.3. Motion Navigation World Model
-
-+ [Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression](https://arxiv.org/abs/2502.04296) (2025-02-06) 
-[![Code](https://img.shields.io/github/stars/liruiw/HMA.svg?style=social&label=Official)](https://github.com/liruiw/HMA)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://liruiw.github.io/hma/) 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/liruiw/hma-base-disc)
-
-
-<a name="2.4."></a>
-### 2.4.  Other Navigation World Model
+### 2.3.  Other Navigation World Model
 
 + [TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation](https://arxiv.org/abs/2503.11423) (2025-03-14) 
 [![Code](https://img.shields.io/github/stars/GAP-LAB-CUHK-SZ/TASTE-Rob.svg?style=social&label=Official)](https://github.com/GAP-LAB-CUHK-SZ/TASTE-Rob)
