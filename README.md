@@ -42,6 +42,8 @@ This repository is updated periodically. If you have suggestions for additional 
   - [4.1. Game Controller Navigation World Model](#4.1.)
   - [4.2. Keyboard Navigation World Model](#4.2.)
   - [4.3. Keyboard & Mouse Navigation World Model](#4.3.)
+  - [4.4. Action Trajectory Navigation World Model](#4.3.)
+
  
 <a name="1."></a>
 ## 1. Video Generation for World Model in General Scenes
@@ -138,8 +140,6 @@ This repository is updated periodically. If you have suggestions for additional 
 + [![Code](https://img.shields.io/github/stars/360CVGroup/WISA.svg?style=social&label=Official)](https://github.com/360CVGroup/WISA)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://360cvgroup.github.io/WISA/)]
 
-+ [Pre-Trained Video Generative Models as World Simulators](https://arxiv.org/abs/2502.07825) (2025-02-10)
-
 + [IPO: Iterative Preference Optimization for Text-to-Video Generation](https://arxiv.org/abs/2502.02088) (2025-02-04) 
 [![Code](https://img.shields.io/github/stars/SAIS-FUXI/IPO.svg?style=social&label=Official)](https://github.com/SAIS-FUXI/IPO) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://yangxlarge.github.io/ipoc//)
@@ -232,8 +232,6 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="1.3."></a>
 ### 1.3. Autoregressive Based Video Generation
-
-+ [Pre-Trained Video Generative Models as World Simulators](https://arxiv.org/abs/2502.07825) (2025-02-10)
 
 + [Cosmos World Foundation Model Platform for Physical AI](https://arxiv.org/abs/2501.03575) (2025-01-07) 
 [![Code](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-predict1.svg?style=social&label=Official)](https://github.com/nvidia-cosmos/cosmos-predict1)
@@ -461,6 +459,9 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/eloialonso/diamond.svg?style=social&label=Official)](https://github.com/eloialonso/diamond)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://diamond-wm.github.io/)
 
+<a name="4.4."></a>
+### 4.4. Action Trajectory Navigation World Model
 
++ [Pre-Trained Video Generative Models as World Simulators](https://arxiv.org/abs/2502.07825) (2025-02-10)
 
 
