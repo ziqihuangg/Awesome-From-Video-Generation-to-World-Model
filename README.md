@@ -42,8 +42,8 @@ This repository is updated periodically. If you have suggestions for additional 
   - [4.1. Game Controller Navigation World Model](#4.1.)
   - [4.2. Keyboard Navigation World Model](#4.2.)
   - [4.3. Keyboard & Mouse Navigation World Model](#4.3.)
-  - [4.4. Action Trajectory Navigation World Model](#4.3.)
-
+  - [4.4. Action Trajectory Navigation World Model](#4.4.)
+  - [4.5. Multiple Navigation World Model](#4.5.)
  
 <a name="1."></a>
 ## 1. Video Generation for World Model in General Scenes
@@ -438,15 +438,15 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/abs/2408.14837) (2024-08-27)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gamengen.github.io/)
 
-+ [Playable Environments: Video Manipulation in Space and Time](https://arxiv.org/abs/2203.01914) (2022-03-03)
-[![Code](https://img.shields.io/github/stars/willi-menapace/PlayableEnvironments.svg?style=social&label=Official)](https://github.com/willi-menapace/PlayableEnvironments)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-environments-website/)
-
 + [Learning to Simulate Dynamic Environments with GameGAN](https://arxiv.org/abs/2005.12126) (2020-05-25)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/gameGAN/)
 
 <a name="4.3."></a>
 ### 4.3. Keyboard & Mouse Navigation World Model
+
++ [MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft](https://arxiv.org/abs/2504.08388) (2025-04-11)
+[![Code](https://img.shields.io/github/stars/microsoft/MineWorld.svg?style=social&label=Official)](https://github.com/microsoft/MineWorld)
+
 
 + [GameFactory: Creating New Games with Generative Interactive Videos](https://arxiv.org/abs/2501.08325) (2025-01-14)
 [![Code](https://img.shields.io/github/stars/KwaiVGI/GameFactory.svg?style=social&label=Official)](https://github.com/KwaiVGI/GameFactory)
@@ -472,3 +472,13 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Pre-Trained Video Generative Models as World Simulators](https://arxiv.org/abs/2502.07825) (2025-02-10)
 
 
+<a name="4.5."></a>
+### 4.5. Multiple Navigation World Model
+
++ [Promptable Game Models: Text-Guided Game Simulation via Masked Diffusion Models](https://arxiv.org/abs/2303.13472) (2023-03-23)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/promptable-game-models/)
+
+
++ [Playable Environments: Video Manipulation in Space and Time](https://arxiv.org/abs/2203.01914) (2022-03-03)
+[![Code](https://img.shields.io/github/stars/willi-menapace/PlayableEnvironments.svg?style=social&label=Official)](https://github.com/willi-menapace/PlayableEnvironments)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-environments-website/)
