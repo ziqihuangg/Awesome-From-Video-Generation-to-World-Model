@@ -417,6 +417,9 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/KwaiVGI/GameFactory.svg?style=social&label=Official)](https://github.com/KwaiVGI/GameFactory)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://yujiwen.github.io/gamefactory/)
 
++ [The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control](https://arxiv.org/abs/2412.03568) (2024-12-04)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://thematrix1999.github.io/)
+
 + [GameGen-X: Interactive Open-world Game Video Generation](https://arxiv.org/abs/2411.00769) (2024-11-01)
 [![Code](https://img.shields.io/github/stars/GameGen-X/GameGen-X.svg?style=social&label=Official)](https://github.com/GameGen-X/GameGen-X)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gamegen-x.github.io/)
@@ -425,6 +428,14 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="4.2."></a>
 ### 4.2. Discrete Action Trajectory Navigation World Model
+
++ [Playable Game Generation](https://arxiv.org/abs/2412.00887) (2024-12-01)
+[![Code](https://img.shields.io/github/stars/GreatX3/Playable-Game-Generation.svg?style=social&label=Official)](https://github.com/GreatX3/Playable-Game-Generation)
+
++ [Oasis: A Universe in a Transformer](https://oasis-model.github.io/) (2024-10-31)
+[![Code](https://img.shields.io/github/stars/etched-ai/open-oasis.svg?style=social&label=Official)](https://github.com/etched-ai/open-oasis)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://oasis-model.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Etched/oasis-500m)
 
 + [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/abs/2408.14837) (2024-08-27)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gamengen.github.io/)
@@ -436,6 +447,7 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Playable Video Generation](https://arxiv.org/abs/2101.12195) (2021-01-28)
 [![Code](https://img.shields.io/github/stars/willi-menapace/PlayableVideoGeneration.svg?style=social&label=Official)](https://github.com/willi-menapace/PlayableVideoGeneration)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-video-generation-website/)
+
 
 <a name="4.3."></a>
 ### 4.3. Other Navigation World Model
