@@ -432,6 +432,7 @@ This repository is updated periodically. If you have suggestions for additional 
 ### 4.2. Discrete Action Trajectory Navigation World Model
 
 + [World and Human Action Models towards gameplay ideation](https://www.nature.com/articles/s41586-025-08600-3) (2025-02-19)
++ [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/microsoft/wham)
 
 + [Playable Game Generation](https://arxiv.org/abs/2412.00887) (2024-12-01)
 [![Code](https://img.shields.io/github/stars/GreatX3/Playable-Game-Generation.svg?style=social&label=Official)](https://github.com/GreatX3/Playable-Game-Generation)
