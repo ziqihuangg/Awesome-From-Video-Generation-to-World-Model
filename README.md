@@ -44,6 +44,7 @@ This repository is updated periodically. If you have suggestions for additional 
   - [4.3. Keyboard & Mouse Navigation World Model](#4.3.)
   - [4.4. Action Trajectory Navigation World Model](#4.4.)
   - [4.5. Multiple Navigation World Model](#4.5.)
+  - [4.6. Other Navigation World Model](#4.6.)
  
 <a name="1."></a>
 ## 1. Video Generation for World Model in General Scenes
@@ -411,6 +412,8 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="4.1."></a>
 ### 4.1. Game Controller Navigation World Model
 
++ [Model as a Game: On Numerical and Spatial Consistency for Generative Games](https://arxiv.org/abs/2503.21172) (2025-03-27)
+
 + [World and Human Action Models towards gameplay ideation](https://www.nature.com/articles/s41586-025-08600-3) (2025-02-19)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/microsoft/wham)
 
@@ -482,3 +485,15 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Playable Environments: Video Manipulation in Space and Time](https://arxiv.org/abs/2203.01914) (2022-03-03)
 [![Code](https://img.shields.io/github/stars/willi-menapace/PlayableEnvironments.svg?style=social&label=Official)](https://github.com/willi-menapace/PlayableEnvironments)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-environments-website/)
+
+
+<a name="4.6."></a>
+### 4.6. Other Navigation World Model
+
++ [AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938) (2025-03-24)
+[![Code](https://img.shields.io/github/stars/Little-Podi/AdaWorld.svg?style=social&label=Official)](https://github.com/Little-Podi/AdaWorld)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://adaptable-world-model.github.io/)
+
+
+
+
