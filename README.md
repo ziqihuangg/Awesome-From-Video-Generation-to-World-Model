@@ -438,6 +438,9 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/abs/2408.14837) (2024-08-27)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gamengen.github.io/)
 
++ [Learning to Simulate Dynamic Environments with GameGAN](https://arxiv.org/abs/2005.12126) (2020-05-25)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/gameGAN/)
+
 <a name="4.3."></a>
 ### 4.3. Keyboard & Mouse Navigation World Model
 
