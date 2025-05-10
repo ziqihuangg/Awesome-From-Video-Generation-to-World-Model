@@ -446,6 +446,10 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/shalfun/DrivingDiffusion.svg?style=social&label=Official)](https://github.com/shalfun/DrivingDiffusion)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://drivingdiffusion.github.io/)
 
++ [MagicDrive: Street View Generation with Diverse 3D Geometry Control](https://arxiv.org/abs/2310.02601) (2023-10-04) 
+[![Code](https://img.shields.io/github/stars/cure-lab/MagicDrive.svg?style=social&label=Official)](https://github.com/cure-lab/MagicDrive)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://gaoruiyuan.com/magicdrive/)
+
 <a name="3.5."></a>
 ### 3.5. Hybrid Navigation World Model
 
@@ -466,6 +470,12 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/OpenDriveLab/DriveAGI.svg?style=social&label=Official)](https://github.com/OpenDriveLab/DriveAGI)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://opendrivelab.com/Vista/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/OpenDriveLab/Vista)
+
++ [MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes](https://arxiv.org/abs/2405.14475) (2024-05-23)
+[![Code](https://img.shields.io/github/stars/flymin/MagicDrive3D.svg?style=social&label=Official)](https://github.com/flymin/MagicDrive3D)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://gaoruiyuan.com/magicdrive3d/)
+
+
 
 + [GenAD: Generalized Predictive Model for Autonomous Driving](https://arxiv.org/abs/2403.09630) (2024-03-14)
 [![Code](https://img.shields.io/github/stars/OpenDriveLab/DriveAGI.svg?style=social&label=Official)](https://github.com/OpenDriveLab/DriveAGI)
