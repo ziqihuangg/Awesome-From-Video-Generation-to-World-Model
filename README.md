@@ -28,7 +28,8 @@ This repository is updated periodically. If you have suggestions for additional 
 - [2. Video Generation for World Model in Robotics](#2.)
   - [2.1. Action Navigation World Model](#2.1.)
   - [2.2. Instruction Navigation World Model](#2.2.)
-  - [2.3. Other Navigation World Model](#2.3.)
+  - [2.3. Goal Navigation World Model](#2.3.)
+  - [2.4. Other Navigation World Model](#2.4.)
 - [3. Video Generation for World Model in Autonomous Driving](#3.)
   - [3.1. Instruction Navigation World Model](#3.1.)
   - [3.2. Trajectory Navigation World Model](#3.2.)
@@ -332,13 +333,17 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/anuragajay/hip.svg?style=social&label=Official)](https://github.com/anuragajay/hip/)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hierarchical-planning-foundation-model.github.io/)
 
+
+<a name="2.3."></a>
+### 2.3.  Goal Navigation World Model
+
+
 + [Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/abs/2302.00111) (2023-01-31) 
 [![Code](https://img.shields.io/github/stars/flow-diffusion/AVDC.svg?style=social&label=Official)](https://github.com/flow-diffusion/AVDC)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://universal-policy.github.io/unipi/)
 
-
-<a name="2.3."></a>
-### 2.3.  Other Navigation World Model
+<a name="2.4."></a>
+### 2.4.  Other Navigation World Model
 
 + [TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation](https://arxiv.org/abs/2503.11423) (2025-03-14) 
 [![Code](https://img.shields.io/github/stars/GAP-LAB-CUHK-SZ/TASTE-Rob.svg?style=social&label=Official)](https://github.com/GAP-LAB-CUHK-SZ/TASTE-Rob)
