@@ -281,6 +281,10 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="2.1."></a>
 ### 2.1. Action Navigation World Model
 
++ [Unified Video Action Model](https://arxiv.org/abs/2503.00200) (2025-02-28)
+[![Code](https://img.shields.io/github/stars/ShuangLI59/unified_video_action.svg?style=social&label=Official)](https://github.com/ShuangLI59/unified_video_action)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://unified-video-action-model.github.io/)
+
 + [Pre-Trained Video Generative Models as World Simulators](https://arxiv.org/abs/2502.07825) (2025-02-10)
 
 + [Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression](https://arxiv.org/abs/2502.04296) (2025-02-06) 
@@ -337,6 +341,9 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="2.3."></a>
 ### 2.3.  Goal Navigation World Model
 
++ [Grounding Video Models to Actions through Goal Conditioned Exploration](https://arxiv.org/abs/2411.07223) (2024-11-11) 
+[![Code](https://img.shields.io/github/stars/video-to-action/v2a-video-model-release.svg?style=social&label=Official)](https://github.com/video-to-action/v2a-video-model-release)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://video-to-action.github.io/)
 
 + [Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/abs/2302.00111) (2023-01-31) 
 [![Code](https://img.shields.io/github/stars/flow-diffusion/AVDC.svg?style=social&label=Official)](https://github.com/flow-diffusion/AVDC)
@@ -389,6 +396,11 @@ This repository is updated periodically. If you have suggestions for additional 
 ### 3.3. Action Navigation World Model
 
 + [DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers](https://arxiv.org/abs/2412.18607) (2024-12-24)
+
++ [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080) (2023-09-29)
+
+
++ [DriveGAN: Towards a Controllable High-Quality Neural Simulation](https://arxiv.org/abs/2104.15060) (2021-04-30)
 
 <a name="3.4."></a>
 ### 3.4. Layout Navigation World Model
