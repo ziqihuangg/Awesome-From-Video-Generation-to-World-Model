@@ -37,6 +37,7 @@ This repository is updated periodically. If you have suggestions for additional 
   - [3.4. Layout Navigation world Model](#3.4.)
   - [3.5. Hybrid Navigation World Model](#3.5.)
   - [3.6. Other Navigation World Model](#3.6.)
+  - [3.7. World Model Without Navigation](#3.6.)
 - [4. Video Generation for World Model in Gaming](#4.)
   - [4.1. Game Controller Navigation World Model](#4.1.)
   - [4.2. Keyboard Navigation World Model](#4.2.)
@@ -406,6 +407,9 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers](https://arxiv.org/abs/2412.18607) (2024-12-24)
 
++ [InfinityDrive: Breaking Time Limits in Driving World Models](https://arxiv.org/abs/2412.01522) (2024-12-02)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html)
+
 + [WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation](https://arxiv.org/abs/2312.02934) (2023-12-05)
 [![Code](https://img.shields.io/github/stars/fudan-zvg/WoVoGen.svg?style=social&label=Official)](https://github.com/fudan-zvg/WoVoGen)
 
@@ -414,7 +418,6 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://drive-wm.github.io/)
 
 + [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080) (2023-09-29)
-
 
 + [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/abs/2309.09777) (2023-09-18)
 [![Code](https://img.shields.io/github/stars/JeffWang987/DriveDreamer.svg?style=social&label=Official)](https://drivedreamer.github.io/)
@@ -440,6 +443,10 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [MyGo: Consistent and Controllable Multi-View Driving Video Generation with Camera Control](https://arxiv.org/abs/2409.06189) (2024-09-10) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://metadrivescape.github.io/papers_project/MyGo/page.html)
+
++ [DreamForge: Motion-Aware Autoregressive Video Generation for Multi-View Driving Scenes](https://arxiv.org/abs/2409.04003) (2024-09-06) 
+[![Code](https://img.shields.io/github/stars/PJLab-ADG/DriveArena.svg?style=social&label=Official)](https://github.com/PJLab-ADG/DriveArena)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://pjlab-adg.github.io/DriveArena/dreamforge/)
 
 + [DiVE: DiT-based Video Generation with Enhanced Control](https://arxiv.org/abs/2409.01595) (2024-09-03) 
 [![Code (to be released)](https://img.shields.io/github/stars/LiAutoAD/DIVE.svg?style=social&label=Official)](https://github.com/LiAutoAD/DIVE)
@@ -483,6 +490,9 @@ This repository is updated periodically. If you have suggestions for additional 
 + [MagicDriveDiT: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control](https://arxiv.org/abs/2411.13807v1) (2024-11-21)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gaoruiyuan.com/magicdrive-v2/)
 
++ [DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation](https://arxiv.org/abs/2409.05463) (2024-09-09)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://metadrivescape.github.io/papers_project/drivescapev1/index.html)
+
 + [Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability](https://arxiv.org/abs/2405.17398) (2024-05-27)
 [![Code](https://img.shields.io/github/stars/OpenDriveLab/DriveAGI.svg?style=social&label=Official)](https://github.com/OpenDriveLab/DriveAGI)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://opendrivelab.com/Vista/)
@@ -506,9 +516,24 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/dk-liang/UniFuture.svg?style=social&label=Official)](https://github.com/dk-liang/UniFuture)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://dk-liang.github.io/UniFuture/)
 
++ [Physical Informed Driving World Model](https://arxiv.org/abs/2412.08410) (2024-12-11)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://metadrivescape.github.io/papers_project/DrivePhysica/page.html)
+
 + [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](https://arxiv.org/abs/2405.14868) (2024-05-23)
 +   ><i>Note: with relative camera  extrinsics navigation</i>
 
+
+<a name="3.7."></a>
+### 3.7. World Model Without Navigation
+
++ [VaViM and VaVAM:Autonomous Driving through Video Generative Modeling](https://arxiv.org/abs/2502.15672) (2025-02-21)
+[![Code](https://img.shields.io/github/stars/valeoai/VideoActionModel.svg?style=social&label=Official)](https://github.com/valeoai/VideoActionModel)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://valeoai.github.io/vavim-vavam/)
+
++ [GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model](https://arxiv.org/abs/2408.15868) (2024-08-28)
+
+
++ [Jointly Predicting Future Sequence and Steering Angles for Dynamic Driving Scenes](https://ieeexplore.ieee.org/abstract/document/8682300) (2019-04-17)
 
 <a name="4."></a>
 ## 4. Video Generation for World Model in Gaming
