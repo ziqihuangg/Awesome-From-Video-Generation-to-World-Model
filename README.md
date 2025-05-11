@@ -252,6 +252,11 @@ This repository is updated periodically. If you have suggestions for additional 
 + [![Code](https://img.shields.io/github/stars/wenqsun/DimensionX.svg?style=social&label=Official)](https://github.com/wenqsun/DimensionX)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://chenshuo20.github.io/DimensionX/) 
 
++ [StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text](https://arxiv.org/abs/2403.14773) (2024-03-21) 
+[![Code](https://img.shields.io/github/stars/Picsart-AI-Research/StreamingT2V.svg?style=social&label=Official)](https://github.com/Picsart-AI-Research/StreamingT2V)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://streamingt2v.github.io/) 
+
+
 + [Pandora: Towards general world model with natural language actions and video states](https://arxiv.org/abs/2406.09455) (2024-06-12) 
 [![Code](https://img.shields.io/github/stars/maitrix-org/Pandora.svg?style=social&label=Official)](https://github.com/maitrix-org/Pandora)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-model.maitrix.org/) 
@@ -312,6 +317,10 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/bytedance/IRASim.svg?style=social&label=Official)](https://github.com/bytedance/IRASim)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gen-irasim.github.io/)
 
++ [iVideoGPT: Interactive VideoGPTs are Scalable World Models](https://arxiv.org/abs/2405.15223) (2024-05-24)
+[![Code](https://img.shields.io/github/stars/thuml/iVideoGPT.svg?style=social&label=Official)](https://github.com/thuml/iVideoGPT)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://thuml.github.io/iVideoGPT/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/thuml/ivideogpt-674c59cae32231024d82d6c5)
 
 <a name="2.2."></a>
 ### 2.2. Instruction Navigation World Model
@@ -360,6 +369,10 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/video-to-action/v2a-video-model-release.svg?style=social&label=Official)](https://github.com/video-to-action/v2a-video-model-release)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://video-to-action.github.io/)
 
++ [Learning to Act from Actionless Videos through Dense Correspondences](https://arxiv.org/abs/2310.08576) (2023-10-12) 
+[![Code](https://img.shields.io/github/stars/flow-diffusion/AVDC.svg?style=social&label=Official)](https://github.com/flow-diffusion/AVDC)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://flow-diffusion.github.io/)
+
 + [Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/abs/2302.00111) (2023-01-31) 
 [![Code](https://img.shields.io/github/stars/flow-diffusion/AVDC.svg?style=social&label=Official)](https://github.com/flow-diffusion/AVDC)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://universal-policy.github.io/unipi/)
@@ -369,7 +382,11 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation](https://arxiv.org/abs/2503.11423) (2025-03-14) 
 [![Code](https://img.shields.io/github/stars/GAP-LAB-CUHK-SZ/TASTE-Rob.svg?style=social&label=Official)](https://github.com/GAP-LAB-CUHK-SZ/TASTE-Rob)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://taste-rob.github.io/) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://taste-rob.github.io/)
+
++ [This&That: Language-Gesture Controlled Video Generation for Robot Planning](https://arxiv.org/abs/2407.05530) (2024-07-08) 
+[![Code](https://img.shields.io/github/stars/Kiteretsu77/This_and_That_VDM.svg?style=social&label=Official)](https://github.com/Kiteretsu77/This_and_That_VDM)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://cfeng16.github.io/this-and-that/) 
 
 + [RoboDreamer: Learning Compositional World Models for Robot Imagination](https://arxiv.org/abs/2404.12377) (2024-04-18) 
 [![Code](https://img.shields.io/github/stars/rainbow979/robodreamer.svg?style=social&label=Official)](https://github.com/rainbow979/robodreamer)
