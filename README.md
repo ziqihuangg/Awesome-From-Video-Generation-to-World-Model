@@ -76,6 +76,12 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://animatelcm.github.io/) 
 [![Hugging Face Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/wangfuyun/AnimateLCM-SVD)
 
+
+
++ [Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions](https://arxiv.org/abs/2401.01827) (2024-01-03) 
+[![Code](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Official)](https://github.com/salesforce/LAVIS)
+
+
 + [InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://arxiv.org/abs/2312.12490) (2023-12-19) 
 [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://instructvideo.github.io/)
@@ -271,6 +277,11 @@ This repository is updated periodically. If you have suggestions for additional 
 + [ViD-GPT: Introducing GPT-style Autoregressive Generation in Video Diffusion Models](https://arxiv.org/abs/2406.10981) (2024-06-16) 
 [![Code](https://img.shields.io/github/stars/Dawn-LX/CausalCache-VDM.svg?style=social&label=Official)](https://github.com/Dawn-LX/CausalCache-VDM)
 
++ [InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions](https://arxiv.org/abs/2402.03040) (2024-02-05) 
+[![Code](https://img.shields.io/github/stars/invictus717/InteractiveVideo.svg?style=social&label=Official)](https://github.com/invictus717/InteractiveVideo)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://invictus717.github.io/InteractiveVideo/)
+
+
 + [WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens](https://arxiv.org/abs/2401.09985) (2024-01-18) 
 [![Code](https://img.shields.io/github/stars/JeffWang987/WorldDreamer.svg?style=social&label=Official)](https://github.com/JeffWang987/WorldDreamer)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-dreamer.github.io/) 
@@ -325,6 +336,10 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/UMass-Embodied-AGI/COMBO.svg?style=social&label=Official)](https://github.com/UMass-Embodied-AGI/COMBO)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://umass-embodied-agi.github.io/COMBO/) 
 
+
++ [Learning an Actionable Discrete Diffusion Policy via Large-Scale Actionless Video Pre-Training](https://arxiv.org/abs/2402.14407) (2024-02-22) 
+[![Code](https://img.shields.io/github/stars/tinnerhrhe/VPDD.svg?style=social&label=Official)](https://github.com/tinnerhrhe/VPDD)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://video-diff.github.io/) 
 
 + [Video Language Planning](https://arxiv.org/abs/2310.10625) (2023-10-16) 
 [![Code](https://img.shields.io/github/stars/video-language-planning/vlp_code.svg?style=social&label=Official)](https://github.com/video-language-planning/vlp_code)
