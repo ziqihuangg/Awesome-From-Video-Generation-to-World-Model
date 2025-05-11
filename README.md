@@ -34,10 +34,9 @@ This repository is updated periodically. If you have suggestions for additional 
   - [3.1. Instruction Navigation World Model](#3.1.)
   - [3.2. Trajectory Navigation World Model](#3.2.)
   - [3.3. Action Navigation World Model](#3.3.)
-  - [3.4. Layout Navigation World Model](#3.4.)
-  - [3.5. Hybrid Navigation World Model](#3.5.)
-  - [3.6. World Model without Navigation](#3.6.)
-  - [3.7. Other Navigation World Model](#3.7.)
+  - [3.4. Hybrid Navigation World Model](#3.5.)
+  - [3.5. World Model without Navigation](#3.6.)
+  - [3.6. Other Navigation World Model](#3.7.)
 - [4. Video Generation for World Model in Gaming](#4.)
   - [4.1. Game Controller Navigation World Model](#4.1.)
   - [4.2. Keyboard Navigation World Model](#4.2.)
@@ -390,7 +389,11 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="3.2."></a>
 ### 3.2. Trajectory Navigation World Model
 
-+ [Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies  Ego-Other Vehicle Trajectories in Video Latent Space](https://arxiv.org/abs/2503.09215) (2025-03-12) 
++ [Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies  Ego-Other Vehicle Trajectories in Video Latent Space](https://arxiv.org/abs/2503.09215) (2025-03-12)
+
++ [DrivingWorld: Constructing World Model for Autonomous Driving via Video GPT](https://arxiv.org/abs/2412.19505) (2024-12-27)
+[![Code](https://img.shields.io/github/stars/YvanYin/DrivingWorld.svg?style=social&label=Official)](https://github.com/YvanYin/DrivingWorld)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://huxiaotaostasy.github.io/DrivingWorld/index.html)
 
 + [Doe-1: Closed-Loop Autonomous Driving with Large World Model](https://arxiv.org/abs/2412.09627) (2024-12-12)
 [![Code](https://img.shields.io/github/stars/wzzheng/Doe.svg?style=social&label=Official)](https://github.com/wzzheng/Doe)
@@ -420,38 +423,10 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [Learning a Driving Simulator](https://arxiv.org/abs/1608.01230) (2016-08-03)
 
+
+
 <a name="3.4."></a>
-### 3.4. Layout Navigation World Model
-
-+ [CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving](https://arxiv.org/abs/2503.22231) (2025-03-28)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://xiaomi-research.github.io/cogen/)
-
-+ [UniScene: Unified Occupancy-centric Driving Scene Generation](https://arxiv.org/abs/2412.05435) (2024-12-06)
-[![Code](https://img.shields.io/github/stars/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation.svg?style=social&label=Official)](https://github.com/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://arlo0o.github.io/uniscene/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Arlolo0/UniScene/tree/main)
-
-+ [Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention](https://arxiv.org/abs/2412.03520) (2024-12-04)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://luhannan.github.io/CogDrivingPage/)
-
-+ [DiVE: DiT-based Video Generation with Enhanced Control](https://arxiv.org/abs/2409.01595) (2024-09-03) 
-[![Code (to be released)](https://img.shields.io/github/stars/LiAutoAD/DIVE.svg?style=social&label=Official)](https://github.com/LiAutoAD/DIVE)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://liautoad.github.io/DIVE/)
-
-+ [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2311.16813) (2023-11-28) 
-[![Code](https://img.shields.io/github/stars/wenyuqing/panacea.svg?style=social&label=Official)](https://github.com/wenyuqing/panacea)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://panacea-ad.github.io/)
-
-+ [DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model](https://arxiv.org/abs/2310.07771) (2023-10-11) 
-[![Code](https://img.shields.io/github/stars/shalfun/DrivingDiffusion.svg?style=social&label=Official)](https://github.com/shalfun/DrivingDiffusion)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://drivingdiffusion.github.io/)
-
-+ [MagicDrive: Street View Generation with Diverse 3D Geometry Control](https://arxiv.org/abs/2310.02601) (2023-10-04) 
-[![Code](https://img.shields.io/github/stars/cure-lab/MagicDrive.svg?style=social&label=Official)](https://github.com/cure-lab/MagicDrive)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://gaoruiyuan.com/magicdrive/)
-
-<a name="3.5."></a>
-### 3.5. Hybrid Navigation World Model
+### 3.4. Hybrid Navigation World Model
 
 + [GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving](https://arxiv.org/abs/2503.20523) (2025-03-26)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://wayve.ai/thinking/gaia-2/)
@@ -481,15 +456,45 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/OpenDriveLab/DriveAGI.svg?style=social&label=Official)](https://github.com/OpenDriveLab/DriveAGI)
 
 
-<a name="3.6."></a>
-### 3.6. World Model without Navigation
+<a name="3.5."></a>
+### 3.5. World Model without Navigation
+
++ [CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving](https://arxiv.org/abs/2503.22231) (2025-03-28)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://xiaomi-research.github.io/cogen/)
 
 + [Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception](https://arxiv.org/abs/2503.13587) (2025-03-17)
 [![Code](https://img.shields.io/github/stars/dk-liang/UniFuture.svg?style=social&label=Official)](https://github.com/dk-liang/UniFuture)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://dk-liang.github.io/UniFuture/)
 
-<a name="3.7."></a>
-### 3.7. Other Navigation World Model
++ [UniScene: Unified Occupancy-centric Driving Scene Generation](https://arxiv.org/abs/2412.05435) (2024-12-06)
+[![Code](https://img.shields.io/github/stars/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation.svg?style=social&label=Official)](https://github.com/Arlo0o/UniScene-Unified-Occupancy-centric-Driving-Scene-Generation)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://arlo0o.github.io/uniscene/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Arlolo0/UniScene/tree/main)
+
++ [Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention](https://arxiv.org/abs/2412.03520) (2024-12-04)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://luhannan.github.io/CogDrivingPage/)
+
++ [MyGo: Consistent and Controllable Multi-View Driving Video Generation with Camera Control](https://arxiv.org/abs/2409.06189) (2024-09-10) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://metadrivescape.github.io/papers_project/MyGo/page.html)
+
++ [DiVE: DiT-based Video Generation with Enhanced Control](https://arxiv.org/abs/2409.01595) (2024-09-03) 
+[![Code (to be released)](https://img.shields.io/github/stars/LiAutoAD/DIVE.svg?style=social&label=Official)](https://github.com/LiAutoAD/DIVE)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://liautoad.github.io/DIVE/)
+
++ [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2311.16813) (2023-11-28) 
+[![Code](https://img.shields.io/github/stars/wenyuqing/panacea.svg?style=social&label=Official)](https://github.com/wenyuqing/panacea)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://panacea-ad.github.io/)
+
++ [DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model](https://arxiv.org/abs/2310.07771) (2023-10-11) 
+[![Code](https://img.shields.io/github/stars/shalfun/DrivingDiffusion.svg?style=social&label=Official)](https://github.com/shalfun/DrivingDiffusion)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://drivingdiffusion.github.io/)
+
++ [MagicDrive: Street View Generation with Diverse 3D Geometry Control](https://arxiv.org/abs/2310.02601) (2023-10-04) 
+[![Code](https://img.shields.io/github/stars/cure-lab/MagicDrive.svg?style=social&label=Official)](https://github.com/cure-lab/MagicDrive)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://gaoruiyuan.com/magicdrive/)
+
+<a name="3.6."></a>
+### 3.6. Other Navigation World Model
 
 + [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](https://arxiv.org/abs/2405.14868) (2024-05-23)
 +   ><i>Note: with relative camera  extrinsics navigation</i>
