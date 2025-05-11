@@ -445,6 +445,13 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code (to be released)](https://img.shields.io/github/stars/LiAutoAD/DIVE.svg?style=social&label=Official)](https://github.com/LiAutoAD/DIVE)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://liautoad.github.io/DIVE/)
 
++ [Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation](https://arxiv.org/abs/2406.01349) (2024-06-03)
+[![Code (to be released)](https://img.shields.io/github/stars/westlake-autolab/Delphi.svg?style=social&label=Official)](https://github.com/westlake-autolab/Delphi)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://westlake-autolab.github.io/delphi.github.io/)
+
++ [SubjectDrive: Scaling Generative Data in Autonomous Driving via Subject Control](https://arxiv.org/abs/2403.19438) (2024-03-28) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://subjectdrive.github.io/)
+
 + [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2311.16813) (2023-11-28) 
 [![Code](https://img.shields.io/github/stars/wenyuqing/panacea.svg?style=social&label=Official)](https://github.com/wenyuqing/panacea)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://panacea-ad.github.io/)
@@ -472,6 +479,9 @@ This repository is updated periodically. If you have suggestions for additional 
 + [GEM:AGeneralizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control](https://arxiv.org/abs/2412.11198) (2024-12-15)
 [![Code](https://img.shields.io/github/stars/vita-epfl/GEM.svg?style=social&label=Official)](https://github.com/vita-epfl/GEM)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://vita-epfl.github.io/GEM.github.io/)
+
++ [MagicDriveDiT: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control](https://arxiv.org/abs/2411.13807v1) (2024-11-21)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://gaoruiyuan.com/magicdrive-v2/)
 
 + [Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability](https://arxiv.org/abs/2405.17398) (2024-05-27)
 [![Code](https://img.shields.io/github/stars/OpenDriveLab/DriveAGI.svg?style=social&label=Official)](https://github.com/OpenDriveLab/DriveAGI)
