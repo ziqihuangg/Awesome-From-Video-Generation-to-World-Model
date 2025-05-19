@@ -27,9 +27,7 @@ This repository is updated periodically. If you have suggestions for additional 
     - [1.1.3. Autoregressive Based Video Generation](#1.1.3.)
     - [1.1.4. Other Based Video Generation](#1.1.4.)
   - [1.2 Video Generation as World Model in Autonomous Driving](#1.2.)
-
 - [2. Video Generation Moddel with Condition Prior as World Model](#2.)
-  
 - [3. Video Generation Moddel with Navigation Mode as World Model](#3.)
   - [3.1. Video Generation as World Model in Robotics](#3.1.)
     - [3.1.1. Action Navigation World Model](#3.1.1.)
