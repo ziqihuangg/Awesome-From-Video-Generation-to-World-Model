@@ -670,6 +670,15 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://xizaoqu.github.io/worldmem/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/yslan/worldmem)
 
++ [Mastering Atari with Discrete World Models](https://arxiv.org/abs/2010.02193) (2020-10-05)
+[![Code](https://img.shields.io/github/stars/danijar/dreamerv2.svg?style=social&label=Official)](https://github.com/danijar/dreamerv2)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://danijar.com/project/dreamerv2/)
+
++ [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603) (2019-12-03)
+[![Code](https://img.shields.io/github/stars/danijar/dreamer.svg?style=social&label=Official)](https://github.com/danijar/dreamer)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://danijar.com/project/dreamer/)
+
+
 + [Recurrent Environment Simulators](https://arxiv.org/abs/1704.02254) (2017-04-07)
 
 
