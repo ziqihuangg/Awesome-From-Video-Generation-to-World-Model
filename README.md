@@ -138,6 +138,11 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2304.08818) (2023-04-18) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
 
++ [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://arxiv.org/abs/2303.13439) (2023-03-23)
+[![Code](https://img.shields.io/github/stars/Picsart-AI-Research/Text2Video-Zero.svg?style=social&label=Official)](https://github.com/Picsart-AI-Research/Text2Video-Zero)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://text2video-zero.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/PAIR/Text2Video-Zero)
+
 + [Structure and Content-Guided Video Synthesis with Diffusion Models
 ](https://arxiv.org/abs/2302.03011) (2023-02-06) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/gen-1)
@@ -669,6 +674,14 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/xizaoqu/WorldMem.svg?style=social&label=Official)](https://github.com/xizaoqu/WorldMem)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://xizaoqu.github.io/worldmem/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/yslan/worldmem)
+
++ [Transformer-based World Models Are Happy With 100k Interactions](https://arxiv.org/abs/2303.07109) (2023-03-13)
+[![Code](https://img.shields.io/github/stars/jrobine/twm.svg?style=social&label=Official)](https://github.com/jrobine/twm)
+
+
++ [Transformers are Sample-Efficient World Models](https://arxiv.org/abs/2209.00588) (2022-09-05)
+[![Code](https://img.shields.io/github/stars/eloialonso/iris.svg?style=social&label=Official)](https://github.com/eloialonso/iris)
+
 
 + [Mastering Atari with Discrete World Models](https://arxiv.org/abs/2010.02193) (2020-10-05)
 [![Code](https://img.shields.io/github/stars/danijar/dreamerv2.svg?style=social&label=Official)](https://github.com/danijar/dreamerv2)
