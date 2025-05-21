@@ -47,8 +47,9 @@ This repository is updated periodically. If you have suggestions for additional 
     - [3.3.2. Keyboard Navigation World Model](#3.3.2.)
     - [3.3.3. Keyboard & Mouse Navigation World Model](#3.3.3.)
     - [3.3.4. Action Trajectory Navigation World Model](#3.3.4.)
-    - [3.3.5. Multiple Navigation World Model](#3.3.5.)
-    - [3.3.6. Other Navigation World Model](#3.3.6.)
+    - [3.3.5. Signal Command Navigation World Model](#3.3.5.)
+    - [3.3.6. Multiple Navigation World Model](#3.3.6.)
+    - [3.3.7. Other Navigation World Model](#3.3.7.)
   - [3.4. General Video Generation as World Model](#3.4.)
     - [3.4.1. 3D Navigation World Model](#3.4.1.) 
  
@@ -358,6 +359,9 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://thuml.github.io/iVideoGPT/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/thuml/ivideogpt-674c59cae32231024d82d6c5)
 
++ [Model-Based Reinforcement Learning for Atari](https://arxiv.org/abs/1903.00374) (2019-03-01)
+
+
 <a name="3.1.2."></a>
 ### 3.1.2. Instruction Navigation World Model
 
@@ -658,9 +662,19 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [Pre-Trained Video Generative Models as World Simulators](https://arxiv.org/abs/2502.07825) (2025-02-10)
 
-
 <a name="3.3.5."></a>
-### 3.3.5. Multiple Navigation World Model
+### 3.3.5. Signal Command Navigation World Model
+
++ [WORLDMEM: Long-term Consistent World Simulation with Memory](https://arxiv.org/abs/2504.12369) (2025-04-16)
+[![Code](https://img.shields.io/github/stars/xizaoqu/WorldMem.svg?style=social&label=Official)](https://github.com/xizaoqu/WorldMem)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://xizaoqu.github.io/worldmem/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/yslan/worldmem)
+
++ [Recurrent Environment Simulators](https://arxiv.org/abs/1704.02254) (2017-04-07)
+
+
+<a name="3.3.6."></a>
+### 3.3.6. Multiple Navigation World Model
 
 + [Promptable Game Models: Text-Guided Game Simulation via Masked Diffusion Models](https://arxiv.org/abs/2303.13472) (2023-03-23)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/promptable-game-models/)
@@ -671,8 +685,8 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-environments-website/)
 
 
-<a name="3.3.6."></a>
-### 3.3.6. Other Navigation World Model
+<a name="3.3.7."></a>
+### 3.3.7. Other Navigation World Model
 
 + [AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938) (2025-03-24)
 [![Code](https://img.shields.io/github/stars/Little-Podi/AdaWorld.svg?style=social&label=Official)](https://github.com/Little-Podi/AdaWorld)
