@@ -51,7 +51,9 @@ This repository is updated periodically. If you have suggestions for additional 
     - [3.3.6. Multiple Navigation World Model](#3.3.6.)
     - [3.3.7. Other Navigation World Model](#3.3.7.)
   - [3.4. General Video Generation as World Model](#3.4.)
-    - [3.4.1. 3D Navigation World Model](#3.4.1.) 
+    - [3.4.1. 3D Navigation World Model](#3.4.1.)
+    - [3.4.2. Geometry Navigation World Model](#3.4.2.) 
+ 
  
 <a name="1."></a>
 # 1. Pre-trained Video Generation as World Model
@@ -85,7 +87,8 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://animatelcm.github.io/) 
 [![Hugging Face Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/wangfuyun/AnimateLCM-SVD)
 
-
++ [MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation](https://arxiv.org/abs/2401.04468) (2024-01-09) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://magicvideov2.github.io/) 
 
 + [Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions](https://arxiv.org/abs/2401.01827) (2024-01-03) 
 [![Code](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Official)](https://github.com/salesforce/LAVIS)
@@ -135,6 +138,11 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://animatediff.github.io/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/guoyww/AnimateDiff)
 
++ [Any-to-Any Generation via Composable Diffusion](https://arxiv.org/abs/2305.11846) (2023-05-19)
++ [![Code](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Official)](https://github.com/microsoft/i-Code)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://codi-gen.github.io/)
+
+
 + [Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2304.08818) (2023-04-18) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
 
@@ -148,7 +156,11 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/gen-1)
 
 + [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/abs/2209.14792) (2022-09-29) 
-+ [![Code](https://img.shields.io/github/stars/lucidrains/make-a-video-pytorch.svg?style=social&label=Official)](https://github.com/lucidrains/make-a-video-pytorch)
+[![Code](https://img.shields.io/github/stars/lucidrains/make-a-video-pytorch.svg?style=social&label=Official)](https://github.com/lucidrains/make-a-video-pytorch)
+
++ [MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853) (2022-05-19)
+[![Code](https://img.shields.io/github/stars/voletiv/mcvd-pytorch.svg?style=social&label=Official)](https://github.com/voletiv/mcvd-pytorch)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://mask-cond-video-diffusion.github.io/)
 
 <a name="1.1.2."></a>
 ### 1.1.2. DiT Based Video Generation
@@ -229,6 +241,11 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo-v2.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TIGER-Lab/T2V-Turbo)
 
++ [Emu3: Next-Token Prediction is All You Need](https://arxiv.org/abs/2409.18869) (2024-09-27) 
+[![Code](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Official)](https://github.com/baaivision/Emu3) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://emu.baai.ac.cn/about)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/BAAI/emu3-66f4e64f70850ff358a2e60f)
+
 + [xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations](https://arxiv.org/abs/2408.12590) (2024-08-22) 
 
 + [Cogvideox:Text-to-video diffusion models with an expert transformer](https://arxiv.org/abs/2408.06072) (2024-08-12) 
@@ -287,7 +304,12 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/maitrix-org/Pandora)
 
 + [VideoPoet: A Large Language Model for Zero-Shot Video Generation](https://arxiv.org/abs/2312.14125) (2023-12-21) 
-[![Website](https://img.shields.io/badge/Website-9cf)](http://sites.research.google/videopoet/) 
+[![Website](https://img.shields.io/badge/Website-9cf)](http://sites.research.google/videopoet/)
+
++ [Generative Multimodal Models are In-Context Learners](https://arxiv.org/abs/2312.13286) (2023-12-20)
+[![Code](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Official)](https://github.com/baaivision/Emu)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://baaivision.github.io/emu2/) 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/BAAI/Emu2)
 
 + [MAGVIT:Masked Generative Video Transformer](https://arxiv.org/abs/2212.05199) (2022-12-10) 
 [![Code](https://img.shields.io/github/stars/google-research/magvit.svg?style=social&label=Official)](https://github.com/google-research/magvit)
@@ -723,4 +745,8 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/IGL-HKUST/DiffusionAsShader.svg?style=social&label=Official)](https://github.com/IGL-HKUST/DiffusionAsShader)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://igl-hkust.github.io/das/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/EXCAI/Diffusion-As-Shader)
+
+<a name="3.4.2."></a>
+### 3.4.2. Geometry Navigation World Model
++ [ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation](https://arxiv.org/abs/2310.07697) (2023-10-11)
 
