@@ -52,7 +52,8 @@ This repository is updated periodically. If you have suggestions for additional 
     - [3.3.7. Other Navigation World Model](#3.3.7.)
   - [3.4. General Video Generation as World Model](#3.4.)
     - [3.4.1. 3D Navigation World Model](#3.4.1.)
-    - [3.4.2. Geometry Navigation World Model](#3.4.2.) 
+    - [3.4.2. Geometry Navigation World Model](#3.4.2.)
+    - [3.4.3. Trajectory Navigation World Model](#3.4.2.) 
  
  
 <a name="1."></a>
@@ -749,4 +750,14 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="3.4.2."></a>
 ### 3.4.2. Geometry Navigation World Model
 + [ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation](https://arxiv.org/abs/2310.07697) (2023-10-11)
+
++ [ControlVideo: Training-free Controllable Text-to-Video Generation](https://arxiv.org/abs/2305.13077) (2023-05-22)
+[![Code](https://img.shields.io/github/stars/YBYBZhang/ControlVideo.svg?style=social&label=Official)](https://github.com/YBYBZhang/ControlVideo)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://controlvideov1.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Yabo/ControlVideo)
+
+<a name="3.4.3."></a>
+### 3.4.3. Trajectory Navigation World Model
++ [Fine-grained Controllable Video Generation via Object Appearance and Context](https://arxiv.org/abs/2312.02919) (2023-12-05)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://hhsinping.github.io/factor/)
 
