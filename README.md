@@ -778,7 +778,7 @@ This repository is updated periodically. If you have suggestions for additional 
 
 
 + [TrailBlazer: Trajectory Control for Diffusion-Based Video Generation](https://arxiv.org/abs/2401.00896) (2023-12-21)
-[![Code](https://img.shields.io/github/stars/hohonu-vicml/Trailblaze.svg?style=social&label=Official)](https://github.com/hohonu-vicml/Trailblazer)
+[![Code](https://img.shields.io/github/stars/hohonu-vicml/Trailblazer.svg?style=social&label=Official)](https://github.com/hohonu-vicml/Trailblazer)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hohonu-vicml.github.io/Trailblazer.Page/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/hohonu-vicml/Trailblazer)
 
