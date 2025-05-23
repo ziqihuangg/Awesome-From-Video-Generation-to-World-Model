@@ -28,6 +28,9 @@ This repository is updated periodically. If you have suggestions for additional 
     - [1.1.4. Other Based Video Generation](#1.1.4.)
   - [1.2 Video Generation as World Model in Autonomous Driving](#1.2.)
 - [2. Video Generation Moddel with Condition Prior as World Model](#2.)
+  - [2.1 Video Generation as World Model in General Scenes](#1.1)
+    - [2.1.1 Geometry Condition Prior World Model](#1.1.1)
+  - [2.2 Video Generation as World Model in Autonomous Driving](#1.2.)
 - [3. Video Generation Moddel with Navigation Mode as World Model](#3.)
   - [3.1. Video Generation as World Model in Robotics](#3.1.)
     - [3.1.1. Action Navigation World Model](#3.1.1.)
@@ -353,6 +356,16 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="2."></a>
 # 2. Video Generation Moddel with Condition Prior as World Model
+<a name="2.1."></a>
+## 2.1. Video Generation as World Model in General Scenes
+<a name="2.1.1."></a>
+### 2.1.1. Geometry Condition Prior World Model
++ [Control-A-Video: Controllable Text-to-Video Diffusion Models with Motion Prior and Reward Feedback Learning](https://arxiv.org/abs/2305.13840) (2023-05-23)
+[![Code](https://img.shields.io/github/stars/Weifeng-Chen/control-a-video.svg?style=social&label=Official)](https://github.com/Weifeng-Chen/control-a-video)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://controlavideo.github.io/)
+
+<a name="2.2."></a>
+## 2.2. Video Generation as World Model in Autonomous Driving
 
 <a name="3."></a>
 # 3. Video Generation Moddel with Navigation Mode as World Model
@@ -758,6 +771,22 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="3.4.3."></a>
 ### 3.4.3. Trajectory Navigation World Model
+
++ [SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation](https://arxiv.org/abs/2411.04989) (2024-11-07)
+[![Code](https://img.shields.io/github/stars/Kmcode1/SG-I2V.svg?style=social&label=Official)](https://github.com/Kmcode1/SG-I2V)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://kmcode1.github.io/Projects/SG-I2V/)
+
+
++ [TrailBlazer: Trajectory Control for Diffusion-Based Video Generation](https://arxiv.org/abs/2401.00896) (2023-12-21)
+[![Code](https://img.shields.io/github/stars/hohonu-vicml/Trailblaze.svg?style=social&label=Official)](https://github.com/hohonu-vicml/Trailblazer)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://hohonu-vicml.github.io/Trailblazer.Page/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/hohonu-vicml/Trailblazer)
+
++ [PEEKABOO: Interactive Video Generation via Masked-Diffusion](https://arxiv.org/abs/2312.07509) (2023-12-12)
+[![Code](https://img.shields.io/github/stars/microsoft/Peekaboo.svg?style=social&label=Official)](https://github.com/microsoft/Peekaboo)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://yash-jain.com/projects/Peekaboo/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/anshuln/peekaboo-demo)
+
 + [Fine-grained Controllable Video Generation via Object Appearance and Context](https://arxiv.org/abs/2312.02919) (2023-12-05)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hhsinping.github.io/factor/)
 
