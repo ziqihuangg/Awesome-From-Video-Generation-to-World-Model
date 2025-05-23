@@ -56,7 +56,8 @@ This repository is updated periodically. If you have suggestions for additional 
     - [3.3.7. Other Navigation World Model](#3.3.7.)
   - [3.4. General Video Generation as World Model](#3.4.)
     - [3.4.1. Geometry Navigation World Model](#3.4.1.)
-    - [3.4.2. Trajectory Navigation World Model](#3.4.2.) 
+    - [3.4.2. Trajectory Navigation World Model](#3.4.2.)
+    - [3.4.3. Camera Motion Navigation World Model](#3.4.2.)
  
  
 <a name="1."></a>
@@ -371,6 +372,11 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/IGL-HKUST/DiffusionAsShader.svg?style=social&label=Official)](https://github.com/IGL-HKUST/DiffusionAsShader)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://igl-hkust.github.io/das/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/EXCAI/Diffusion-As-Shader)
+
++ [GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking](https://arxiv.org/abs/2501.02690) (2025-01-05)
+[![Code (to be released)](https://img.shields.io/github/stars/wkbian/GS-DiT.svg?style=social&label=Official)](https://github.com/wkbian/GS-DiT)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://wkbian.github.io/Projects/GS-DiT/)
+
 <a name="2.2."></a>
 ## 2.2. Video Generation as World Model in Autonomous Driving
 
@@ -769,13 +775,24 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://controlvideov1.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Yabo/ControlVideo)
 
-<a name="3.4.12."></a>
+<a name="3.4.2."></a>
 ### 3.4.2. Trajectory Navigation World Model
++ [Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise](https://arxiv.org/abs/2501.08331) (2025-01-14)
++ [![Code](https://img.shields.io/github/stars/Eyeline-Research/Go-with-the-Flow.svg?style=social&label=Official)](https://github.com/Eyeline-Research/Go-with-the-Flow)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://eyeline-research.github.io/Go-with-the-Flow/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Eyeline-Research/Go-with-the-Flow/tree/main)
+
++ [Motion Prompting: Controlling Video Generation with Motion Trajectories](https://arxiv.org/abs/2412.02700) (2024-12-03)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://motion-prompting.github.io/)
 
 + [SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation](https://arxiv.org/abs/2411.04989) (2024-11-07)
 [![Code](https://img.shields.io/github/stars/Kmcode1/SG-I2V.svg?style=social&label=Official)](https://github.com/Kmcode1/SG-I2V)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://kmcode1.github.io/Projects/SG-I2V/)
 
++ [Image Conductor: Precision Control for Interactive Video Synthesis](https://arxiv.org/abs/2406.15339) (2024-06-21)
+[![Code](https://img.shields.io/github/stars/liyaowei-stu/ImageConductor.svg?style=social&label=Official)](https://github.com/liyaowei-stu/ImageConductor)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://liyaowei-stu.github.io/project/ImageConductor/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TencentARC/ImageConductor)
 
 + [TrailBlazer: Trajectory Control for Diffusion-Based Video Generation](https://arxiv.org/abs/2401.00896) (2023-12-21)
 [![Code](https://img.shields.io/github/stars/hohonu-vicml/Trailblazer.svg?style=social&label=Official)](https://github.com/hohonu-vicml/Trailblazer)
@@ -790,3 +807,19 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Fine-grained Controllable Video Generation via Object Appearance and Context](https://arxiv.org/abs/2312.02919) (2023-12-05)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hhsinping.github.io/factor/)
 
+<a name="3.4.3."></a>
+### 3.4.3. Camera Motion Navigation World Model
+
++ [Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise](https://arxiv.org/abs/2501.08331) (2025-01-14)
++ [![Code](https://img.shields.io/github/stars/Eyeline-Research/Go-with-the-Flow.svg?style=social&label=Official)](https://github.com/Eyeline-Research/Go-with-the-Flow)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://eyeline-research.github.io/Go-with-the-Flow/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Eyeline-Research/Go-with-the-Flow/tree/main)
+
++ [GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking](https://arxiv.org/abs/2501.02690) (2025-01-05)
+[![Code (to be released)](https://img.shields.io/github/stars/wkbian/GS-DiT.svg?style=social&label=Official)](https://github.com/wkbian/GS-DiT)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://wkbian.github.io/Projects/GS-DiT/)
+
++ [Image Conductor: Precision Control for Interactive Video Synthesis](https://arxiv.org/abs/2406.15339) (2024-06-21)
+[![Code](https://img.shields.io/github/stars/liyaowei-stu/ImageConductor.svg?style=social&label=Official)](https://github.com/liyaowei-stu/ImageConductor)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://liyaowei-stu.github.io/project/ImageConductor/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TencentARC/ImageConductor)
