@@ -163,6 +163,8 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/abs/2209.14792) (2022-09-29) 
 [![Code](https://img.shields.io/github/stars/lucidrains/make-a-video-pytorch.svg?style=social&label=Official)](https://github.com/lucidrains/make-a-video-pytorch)
 
++ [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/abs/2205.11495) (2022-05-23)
+
 + [MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853) (2022-05-19)
 [![Code](https://img.shields.io/github/stars/voletiv/mcvd-pytorch.svg?style=social&label=Official)](https://github.com/voletiv/mcvd-pytorch)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://mask-cond-video-diffusion.github.io/)
@@ -235,6 +237,10 @@ This repository is updated periodically. If you have suggestions for additional 
 + [![Code](https://img.shields.io/github/stars/rhymes-ai/Allegro.svg?style=social&label=Official)](https://github.com/rhymes-ai/Allegro)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://rhymes.ai/allegro_gallery)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/rhymes-ai/Allegro)
+
++ [Movie Gen: A Cast of Media Foundation Models](https://arxiv.org/abs/2410.13720) (2024-10-17)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://ai.meta.com/blog/movie-gen-media-foundation-models-generative-ai-video/)
+
 
 + [Pyramidal Flow Matching for Efficient Video Generative Modeling](https://arxiv.org/abs/2410.05954) (2024-10-08)
 + [![Code](https://img.shields.io/github/stars/jy0205/Pyramid-Flow.svg?style=social&label=Official)](https://github.com/jy0205/Pyramid-Flow)
@@ -364,6 +370,9 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Control-A-Video: Controllable Text-to-Video Diffusion Models with Motion Prior and Reward Feedback Learning](https://arxiv.org/abs/2305.13840) (2023-05-23)
 [![Code](https://img.shields.io/github/stars/Weifeng-Chen/control-a-video.svg?style=social&label=Official)](https://github.com/Weifeng-Chen/control-a-video)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://controlavideo.github.io/)
+
++ [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) (2023-02-10)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/lllyasviel/ControlNet)
 
 <a name="2.1.2."></a>
 ### 2.1.2. 3D Condition Prior World Model
@@ -697,6 +706,11 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/KwaiVGI/GameFactory.svg?style=social&label=Official)](https://github.com/KwaiVGI/GameFactory)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://yujiwen.github.io/gamefactory/)
 
++ [3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation](https://arxiv.org/abs/2412.07759) (2024-12-10)
+[![Code](https://img.shields.io/github/stars/KwaiVGI/3DTrajMaster.svg?style=social&label=Official)](https://github.com/KwaiVGI/3DTrajMaster)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://fuxiao0719.github.io/projects/3dtrajmaster/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/360Motion-Dataset)
+
 + [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) (2024-12-04)
 
 + [Playable Game Generation](https://arxiv.org/abs/2412.00887) (2024-12-01)
@@ -818,6 +832,9 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="3.4.3."></a>
 ### 3.4.3. Camera Motion Navigation World Model
++ [CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models](https://arxiv.org/abs/2503.10592) (2025-03-13)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://hehao13.github.io/Projects-CameraCtrl-II/)
+
 
 + [Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise](https://arxiv.org/abs/2501.08331) (2025-01-14)
 + [![Code](https://img.shields.io/github/stars/Eyeline-Research/Go-with-the-Flow.svg?style=social&label=Official)](https://github.com/Eyeline-Research/Go-with-the-Flow)
@@ -827,6 +844,10 @@ This repository is updated periodically. If you have suggestions for additional 
 + [GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking](https://arxiv.org/abs/2501.02690) (2025-01-05)
 [![Code (to be released)](https://img.shields.io/github/stars/wkbian/GS-DiT.svg?style=social&label=Official)](https://github.com/wkbian/GS-DiT)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://wkbian.github.io/Projects/GS-DiT/)
+
++ [AKiRa: Augmentation Kit on Rays for optical video generation](https://arxiv.org/abs/2412.14158) (2024-12-18)
+[![Code (to be released)](https://img.shields.io/github/stars/Triocrossing/AKiRa.svg?style=social&label=Official)](https://github.com/Triocrossing/AKiRa)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://www.lix.polytechnique.fr/vista/projects/2024_akira_wang/)
 
 
 + [Image Conductor: Precision Control for Interactive Video Synthesis](https://arxiv.org/abs/2406.15339) (2024-06-21)
