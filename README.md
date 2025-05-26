@@ -112,7 +112,11 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamvideo-t2v.github.io/)
 
 + [Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets](https://arxiv.org/abs/2311.15127) (2023-11-25) 
-+ [![Code](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Official)](https://github.com/Stability-AI/generative-models)
+[![Code](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Official)](https://github.com/Stability-AI/generative-models)
+
+ + [Make Pixels Dance: High-Dynamic Video Generation](https://arxiv.org/abs/2311.10982) (2023-11-18) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://makepixelsdance.github.io/) 
+
 
  + [Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning](https://arxiv.org/abs/2311.10709) (2023-11-17) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://emu-video.metademolab.com/) 
@@ -159,6 +163,9 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Structure and Content-Guided Video Synthesis with Diffusion Models
 ](https://arxiv.org/abs/2302.03011) (2023-02-06) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/gen-1)
+
++ [Imagen Video: High Definition Video Generation with Diffusion Models](https://arxiv.org/abs/2210.02303) (2022-10-05) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://imagen.research.google/video/)
 
 + [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/abs/2209.14792) (2022-09-29) 
 [![Code](https://img.shields.io/github/stars/lucidrains/make-a-video-pytorch.svg?style=social&label=Official)](https://github.com/lucidrains/make-a-video-pytorch)
@@ -284,7 +291,10 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [Latte: Latent Diffusion Transformer for Video Generation](https://arxiv.org/abs/2401.03048) (2024-01-05) 
 [![Code](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Official)](https://github.com/hpcaitech/Open-Sora) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://hpcaitech.github.io/Open-Sora/) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://hpcaitech.github.io/Open-Sora/)
+
++ [Photorealistic Video Generation with Diffusion Models](https://arxiv.org/abs/2312.06662) (2023-12-11) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://walt-video-diffusion.github.io/)
 
 + [Videocrafter1: Open diffusion models for high-quality video generation](https://arxiv.org/abs/2310.19512) (2023-10-30) 
 [![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Official)](https://github.com/AILab-CVC/VideoCrafter)
@@ -557,6 +567,14 @@ This repository is updated periodically. If you have suggestions for additional 
 + [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/abs/2309.09777) (2023-09-18)
 [![Code](https://img.shields.io/github/stars/JeffWang987/DriveDreamer.svg?style=social&label=Official)](https://drivedreamer.github.io/)
 
++ [Model-Based Imitation Learning for Urban Driving](https://arxiv.org/abs/2210.07729) (2022-10-14)
+[![Code](https://img.shields.io/github/stars/wayveai/mile.svg?style=social&label=Official)](https://github.com/wayveai/mile)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://wayve.ai/thinking/learning-a-world-model-and-a-driving-policy/)
+
++ [Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model](https://arxiv.org/abs/2210.04017) (2022-10-08)
+
++ [Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models](https://arxiv.org/abs/2205.13817) (2022-05-27)
+
 + [DriveGAN: Towards a Controllable High-Quality Neural Simulation](https://arxiv.org/abs/2104.15060) (2021-04-30)
 
 + [Learning a Driving Simulator](https://arxiv.org/abs/1608.01230) (2016-08-03)
@@ -741,6 +759,9 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Transformer-based World Models Are Happy With 100k Interactions](https://arxiv.org/abs/2303.07109) (2023-03-13)
 [![Code](https://img.shields.io/github/stars/jrobine/twm.svg?style=social&label=Official)](https://github.com/jrobine/twm)
 
++ [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104) (2023-01-10)
+[![Code](https://img.shields.io/github/stars/danijar/dreamerv3.svg?style=social&label=Official)](https://github.com/danijar/dreamerv3)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://danijar.com/project/dreamerv3/)
 
 + [Transformers are Sample-Efficient World Models](https://arxiv.org/abs/2209.00588) (2022-09-05)
 [![Code](https://img.shields.io/github/stars/eloialonso/iris.svg?style=social&label=Official)](https://github.com/eloialonso/iris)
