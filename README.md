@@ -49,13 +49,13 @@ This repository is updated periodically. If you have suggestions for additional 
     - [2.2.4 Other Navigation World Model](#2.2.4.)
   
   - [2.3 Video Generation as World Model in Autonomous Driving](#2.3.)
-    - [2.3.1 Instruction Navigation World Model](#2.3.1.)
-    - [2.3.2 Trajectory Navigation World Model](#2.3.2.)
-    - [2.3.3 Action Navigation World Model](#2.3.3.)
-    - [2.3.4 Layout Navigation world Model](#2.3.4.)
+    - [2.3.1 Layout Prior World Model](#2.3.1.)
+    - [2.3.1 Instruction Navigation World Model](#2.3.2.)
+    - [2.3.2 Trajectory Navigation World Model](#2.3.3.)
+    - [2.3.3 Action Navigation World Model](#2.3.4.)
     - [2.3.5 Hybrid Navigation World Model](#2.3.5.)
     - [2.3.6 Other Navigation World Model](#2.3.6.)
-    - [2.3.7 World Model Without Navigation](#2.3.7.)
+
       
   - [2.4 Video Generation as World Model in Gaming](#2.4.)
     - [2.4.1 Game Controller Navigation World Model](#2.4.1.)
