@@ -39,8 +39,9 @@ This repository is updated periodically. If you have suggestions for additional 
     - [2.1.2 3D Prior World Model](#2.1.2.)
     - [2.1.3 Physical Prior World Model](#2.1.3.)
     - [2.1.4 Geometry Navigation World Model](#2.1.4.)
-    - [2.1.5Trajectory Navigation World Model](#2.1.5.)
+    - [2.1.5 Trajectory Navigation World Model](#2.1.5.)
     - [2.1.6 Camera Motion Navigation World Model](#2.1.6.)
+    - [2.1.7 Human-Scene Interaction World Model](#2.1.7.)
 
   - [2.2 Video Generation as World Model in Robotics](#2.2.)
     - [2.2.1 Action Navigation World Model](#2.2.1.)
@@ -67,14 +68,17 @@ This repository is updated periodically. If you have suggestions for additional 
     - [2.4.7 Other Navigation World Model](#2.4.7.)
     
 - [3. Generation-3: Intrinsic Planning](#3.)
-  - [3.1. Macroscopic Planning World Model](#3.1.)
-  - [3.2. Physical-Aligned Planning World Model](#3.2.)
-  - [3.3. Microscopic Planning World Model](#3.3.)
+  - [3.1 Macroscopic Planning World Model](#3.1.)
+  - [3.2 Physical-Aligned Planning World Model](#3.2.)
+  - [3.3 Microscopic Planning World Model](#3.3.)
 
 - [4. Generation-4: Black Swan Modeling](#4.)
 
 
 - [5. Evaluation Metrics of World Model](#5.)
+
+- [6. Study and Rethinking](#6.)
+    - [6.1 Survey](#6.1.)
  
 <a name="1."></a>
 # 1. Generation-1: Hyperrealism
@@ -192,6 +196,10 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="1.2."></a>
 ## 1.2 DiT Based Video Generation
++ [Training-Free Efficient Video Generation via Dynamic Token Carving](https://arxiv.org/abs/2505.16864) (2025-05-22)
+[![Code](https://img.shields.io/github/stars/dvlab-research/Jenga.svg?style=social&label=Official)](https://github.com/dvlab-research/Jenga/)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://julianjuaner.github.io/projects/jenga/)
+
 
 + [AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset](https://arxiv.org/abs/2503.19462) (2025-03-25)
 [![Code](https://img.shields.io/github/stars/aejion/AccVideo.svg?style=social&label=Official)](https://github.com/aejion/AccVideo)
@@ -326,7 +334,11 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion](https://arxiv.org/abs/2411.04928) (2024-11-07)
 + [![Code](https://img.shields.io/github/stars/wenqsun/DimensionX.svg?style=social&label=Official)](https://github.com/wenqsun/DimensionX)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://chenshuo20.github.io/DimensionX/) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://chenshuo20.github.io/DimensionX/)
+
++ [VideoTetris: Towards Compositional Text-to-Video Generation](https://arxiv.org/abs/2406.04277) (2024-06-06)
++ [![Code](https://img.shields.io/github/stars/YangLing0818/VideoTetris.svg?style=social&label=Official)](https://github.com/YangLing0818/VideoTetris)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://videotetris.github.io/) 
 
 + [StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text](https://arxiv.org/abs/2403.14773) (2024-03-21) 
 [![Code](https://img.shields.io/github/stars/Picsart-AI-Research/StreamingT2V.svg?style=social&label=Official)](https://github.com/Picsart-AI-Research/StreamingT2V)
@@ -392,6 +404,10 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="2.1.2."></a>
 ### 2.1.2 3D Condition Prior World Model
 
++ [CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](https://arxiv.org/abs/2502.08639) (2025-02-12)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://cinemaster-dev.github.io/)
+
+
 + [Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control](https://arxiv.org/abs/2501.03847) (2025-01-07)
 [![Code](https://img.shields.io/github/stars/IGL-HKUST/DiffusionAsShader.svg?style=social&label=Official)](https://github.com/IGL-HKUST/DiffusionAsShader)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://igl-hkust.github.io/das/)
@@ -407,6 +423,11 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="2.1.4."></a>
 ### 2.1.4 Geometry Navigation World Model
+
++ [SketchVideo: Sketch-based Video Generation and Editing](https://arxiv.org/abs/2503.23284) (2025-03-30)
+[![Code](https://img.shields.io/github/stars/IGLICT/SketchVideo.svg?style=social&label=Official)](https://github.com/IGLICT/SketchVideo)
+[![Website](https://img.shields.io/badge/Website-9cf)](http://geometrylearning.com/SketchVideo/)
+  
 + [ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation](https://arxiv.org/abs/2310.07697) (2023-10-11)
 
 + [ControlVideo: Training-free Controllable Text-to-Video Generation](https://arxiv.org/abs/2305.13077) (2023-05-22)
@@ -437,6 +458,11 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://liyaowei-stu.github.io/project/ImageConductor/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TencentARC/ImageConductor)
 
++ [Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion](https://arxiv.org/abs/2402.03162) (2024-02-05)
+[![Code](https://img.shields.io/github/stars/ysy31415/direct_a_video.svg?style=social&label=Official)](https://github.com/ysy31415/direct_a_video)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://direct-a-video.github.io/)
+
+
 + [TrailBlazer: Trajectory Control for Diffusion-Based Video Generation](https://arxiv.org/abs/2401.00896) (2023-12-21)
 [![Code](https://img.shields.io/github/stars/hohonu-vicml/Trailblazer.svg?style=social&label=Official)](https://github.com/hohonu-vicml/Trailblazer)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hohonu-vicml.github.io/Trailblazer.Page/)
@@ -457,12 +483,22 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="2.1.6."></a>
 ### 2.1.6 Camera Motion Navigation World Model
+
++ [FullDiT: Multi-Task Video Generative Foundation Model with Full Attention](https://arxiv.org/abs/2503.19907) (2025-03-25)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://fulldit.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/FullBench)
+
++ [ReCamMaster: Camera-Controlled Generative Rendering from A Single Video](https://arxiv.org/abs/2503.11647) (2025-03-14)
+[![Code](https://img.shields.io/github/stars/KwaiVGI/ReCamMaster.svg?style=social&label=Official)](https://github.com/KwaiVGI/ReCamMaster)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://jianhongbai.github.io/ReCamMaster/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/MultiCamVideo-Dataset)
+
 + [CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models](https://arxiv.org/abs/2503.10592) (2025-03-13)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hehao13.github.io/Projects-CameraCtrl-II/)
 
 
 + [Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise](https://arxiv.org/abs/2501.08331) (2025-01-14)
-+ [![Code](https://img.shields.io/github/stars/Eyeline-Research/Go-with-the-Flow.svg?style=social&label=Official)](https://github.com/Eyeline-Research/Go-with-the-Flow)
+[![Code](https://img.shields.io/github/stars/Eyeline-Research/Go-with-the-Flow.svg?style=social&label=Official)](https://github.com/Eyeline-Research/Go-with-the-Flow)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://eyeline-research.github.io/Go-with-the-Flow/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Eyeline-Research/Go-with-the-Flow/tree/main)
 
@@ -474,6 +510,11 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code (to be released)](https://img.shields.io/github/stars/Triocrossing/AKiRa.svg?style=social&label=Official)](https://github.com/Triocrossing/AKiRa)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://www.lix.polytechnique.fr/vista/projects/2024_akira_wang/)
 
++ [SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints](https://arxiv.org/abs/2412.07760) (2024-12-10)
+[![Code (to be released)](https://img.shields.io/github/stars/KwaiVGI/SynCamMaster.svg?style=social&label=Official)](https://github.com/KwaiVGI/SynCamMaster)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://jianhongbai.github.io/SynCamMaster/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/SynCamVideo-Dataset)
+
 
 + [Image Conductor: Precision Control for Interactive Video Synthesis](https://arxiv.org/abs/2406.15339) (2024-06-21)
 [![Code](https://img.shields.io/github/stars/liyaowei-stu/ImageConductor.svg?style=social&label=Official)](https://github.com/liyaowei-stu/ImageConductor)
@@ -484,6 +525,12 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/TencentARC/MotionCtrl.svg?style=social&label=Official)](https://github.com/TencentARC/MotionCtrl)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://wzhouxiff.github.io/projects/MotionCtrl/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TencentARC/MotionCtrl)
+
+<a name="2.1.7."></a>
+### 2.1.7  Human-Scene Interaction  World Model
+
++ [ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation](https://arxiv.org/abs/2412.18600) (2024-12-24)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://awfuact.github.io/zerohsi/)
 
 
 <a name="2.2."></a>
@@ -905,3 +952,16 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://haoyi-duan.github.io/WorldScore/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard)
 
+
++ [FullDiT: Multi-Task Video Generative Foundation Model with Full Attention](https://arxiv.org/abs/2503.19907) (2025-03-25)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://fulldit.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/FullBench)
+<a name="6."></a>
+# 6. Study and Rethinking
+<a name="6.1."></a>
+## 6.1 Survey
+
++ [A Survey of Interactive Generative Video](https://arxiv.org/abs/2504.21853) (2025-04-30)
+
+  
++ [Position: Interactive Generative Video as Next-Generation Game Engine](https://arxiv.org/abs/2503.17359) (2025-03-21)
