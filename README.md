@@ -48,7 +48,7 @@ This repository is updated periodically. If you have suggestions for additional 
     - [2.2.2 Instruction Navigation World Model](#2.2.2.)
     - [2.2.3 Goal Navigation World Model](#2.2.3.)
     - [2.2.4 Other Navigation World Model](#2.2.4.)
-    - 
+  
   - [2.3 Video Generation as World Model in Autonomous Driving](#2.3.)
     - [2.3.1 Instruction Navigation World Model](#2.3.1.)
     - [2.3.2 Trajectory Navigation World Model](#2.3.2.)
@@ -75,11 +75,9 @@ This repository is updated periodically. If you have suggestions for additional 
 - [4. Generation-4: Black Swan Modeling](#4.)
  
 <a name="1."></a>
-# 1. Pre-trained Video Generation as World Model
+# 1. Generation-1: Hyperrealism
 <a name="1.1."></a>
-## 1.1. Video Generation as World Model in General Scenes
-<a name="1.1.1."></a>
-### 1.1.1. U-Net Based Video Generation
+## 1.1 U-Net Based Video Generation
 
 + [GEM:AGeneralizable Ego-Vision Multimodal World Model for Fine-Grained
  Ego-Motion, Object Dynamics, and Scene Composition Control](https://arxiv.org/pdf/2412.11198) (2024-12-15) 
@@ -190,8 +188,8 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/voletiv/mcvd-pytorch.svg?style=social&label=Official)](https://github.com/voletiv/mcvd-pytorch)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://mask-cond-video-diffusion.github.io/)
 
-<a name="1.1.2."></a>
-### 1.1.2. DiT Based Video Generation
+<a name="1.2."></a>
+### 1.2. DiT Based Video Generation
 
 + [AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset](https://arxiv.org/abs/2503.19462) (2025-03-25)
 [![Code](https://img.shields.io/github/stars/aejion/AccVideo.svg?style=social&label=Official)](https://github.com/aejion/AccVideo)
