@@ -72,6 +72,9 @@ This repository is updated periodically. If you have suggestions for additional 
   - [3.3. Microscopic Planning World Model](#3.3.)
 
 - [4. Generation-4: Black Swan Modeling](#4.)
+
+
+- [5. Evaluation Metrics of World Model](#5.)
  
 <a name="1."></a>
 # 1. Generation-1: Hyperrealism
@@ -893,3 +896,12 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="4."></a>
 # 4. Generation-4: Black Swan Modeling
+
+<a name="5."></a>
+# 5. Evaluation Metrics of World Model
+
++ [WorldScore: A Unified Evaluation Benchmark for World Generation](https://arxiv.org/abs/2504.00983) (2025-04-01)
+[![Code](https://img.shields.io/github/stars/haoyi-duan/WorldScore.svg?style=social&label=Official)](https://github.com/haoyi-duan/WorldScore)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://haoyi-duan.github.io/WorldScore/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard)
+
