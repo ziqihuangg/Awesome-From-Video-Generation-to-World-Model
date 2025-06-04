@@ -7,6 +7,8 @@
 
 ## Overview
 
+This repository currently contains a temporary version of the paper list. We will release the final handout notes within one week.
+
 ### What You'll Find Here
 
 We hope to support the research and industrial communities by systematically collecting and organizing influential works that drive progress in video generation for world modeling.
