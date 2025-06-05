@@ -1,5 +1,11 @@
 # Awesome From Video Generation to World Model
 
+
+![overall_structure](./fig_teaser.png)
+
+The field of video generation is undergoing a paradigm shift - from generating realistic and appealing visuals to constructing world models that can simulate interactive and navigable environments. These models are not just visual tools; they serve as testbeds for training and evaluating intelligent agents, such as robots, autonomous vehicles, or virtual avatars. A central goal is to enable agents to perceive, act, and plan within generated video scenarios as if they were interacting with the real world. We compile key works that push video generation toward actionable world modeling, focusing physical plausibility, and the capacity for agents to navigate, manipulate, and learn from these synthetic environments.
+
+
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ziqihuangg.Awesome-From-Video-Generation-to-World-Model)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model/pulls)
@@ -7,33 +13,31 @@
 
 ## Overview
 
-This repository currently contains a temporary version of the paper list. We will release the final handout notes within one week.
+This repository currently contains the paper list for "Video Generation towards World Model".
 
 ### What You'll Find Here
 
 We hope to support the research and industrial communities by systematically collecting and organizing influential works that drive progress in video generation for world modeling.
 
-![overall_structure](./fig_teaser.png)
-
-The field of video generation is undergoing a paradigm shift - from generating realistic and appealing visuals to constructing world models that can simulate interactive and navigable environments. These models are not just visual tools; they serve as testbeds for training and evaluating intelligent agents, such as robots, autonomous vehicles, or virtual avatars. A central goal is to enable agents to perceive, act, and plan within generated video scenarios as if they were interacting with the real world. We compile key works that push video generation toward actionable world modeling, focusing physical plausibility, and the capacity for agents to navigate, manipulate, and learn from these synthetic environments.
-
+### News :fire: 
+- [06/2025] We are hosting CVPR 2025 Tutorial [From Video Generation to World Model](https://world-model-tutorial.github.io) on June 11!
 
 ### Updates
 
 This repository is updated periodically. If you have suggestions for additional resources, updates on methodologies, or fixes for expiring links, please feel free to do any of the following:
 - raise an [Issue](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model/issues),
 - nominate awesome related works with [Pull Requests](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model/pulls),
-- For other queries: email both `yuejingtong137 at gmail dot com` and `ZIQI002 at e dot ntu dot edu dot sg`.
+- For other queries: email both Ziqi `ZIQI002 at e dot ntu dot edu dot sg` and Jingtong `yuejingtong137 at gmail dot com`.
 
 
 ### Table of Contents
-- [1. Generation-1: Hyperrealism](#1.)
+- [1. Generation 1: Faithfulness - Accurate Simulation of the Real World](#1.)
     - [1.1 U-Net Based Video Generation](#1.1.1)
     - [1.2 DiT Based Video Generation](#1.1.2.)
     - [1.3 Autoregressive Based Video Generation](#1.1.3.)
     - [1.4 Other Based Video Generation](#1.1.4.)
 
-- [2. Generation-2: Lawful Interaction](#2.)
+- [2. Generation 2: Interactiveness - Controllability and Interactive Dynamics](#2.)
   - [2.1 Video Generation as World Model in General Scene](#2.1)
     - [2.1.1 Geometry Condition Prior World Model](#2.1.1)
     - [2.1.2 3D Prior World Model](#2.1.2.)
@@ -67,21 +71,21 @@ This repository is updated periodically. If you have suggestions for additional 
     - [2.4.6 Multiple Navigation World Model](#2.4.6.)
     - [2.4.7 Other Navigation World Model](#2.4.7.)
     
-- [3. Generation-3: Intrinsic Planning](#3.)
+- [3. Generation 3: Planning - Modeling the Future Evolution of Complex Systems](#3.)
   - [3.1 Macroscopic Planning World Model](#3.1.)
   - [3.2 Physical-Aligned Planning World Model](#3.2.)
   - [3.3 Microscopic Planning World Model](#3.3.)
 
-- [4. Generation-4: Black Swan Modeling](#4.)
+- [4. Generation 4: Counterfactual and Outlier Modeling](#4.)
 
 
-- [5. Evaluation Metrics of World Model](#5.)
+- [5. Evaluation and Datasets](#5.)
 
 - [6. Study and Rethinking](#6.)
     - [6.1 Survey](#6.1.)
  
 <a name="1."></a>
-# 1. Generation-1: Hyperrealism
+# 1. Generation 1: Faithfulness - Accurate Simulation of the Real World
 <a name="1.1."></a>
 ## 1.1 U-Net Based Video Generation
 
@@ -389,7 +393,7 @@ This repository is updated periodically. If you have suggestions for additional 
 
 
 <a name="2."></a>
-# 2. Generation-2: Lawful Interaction
+# 2. Generation 2: Interactiveness - Controllability and Interactive Dynamics
 <a name="2.1."></a>
 ## 2.1 Video Generation as World Model in General Scenes
 <a name="2.1.1."></a>
@@ -943,7 +947,7 @@ This repository is updated periodically. If you have suggestions for additional 
 
 
 <a name="3."></a>
-# 3. Generation-3: Intrinsic Planning
+# 3. Generation 3: Planning - Modeling the Future Evolution of Complex Systems
 <a name="3.1."></a>
 ## 3.1 Macroscopic planning World Model
 <a name="3.2."></a>
@@ -952,10 +956,10 @@ This repository is updated periodically. If you have suggestions for additional 
 ## 3.3 Microscopic planning World Model
 
 <a name="4."></a>
-# 4. Generation-4: Black Swan Modeling
+# 4. Generation 4: Counterfactual and Outlier Modeling
 
 <a name="5."></a>
-# 5. Evaluation Metrics of World Model
+# 5. Evaluation and Datasets
 
 + [WorldScore: A Unified Evaluation Benchmark for World Generation](https://arxiv.org/abs/2504.00983) (2025-04-01)
 [![Code](https://img.shields.io/github/stars/haoyi-duan/WorldScore.svg?style=social&label=Official)](https://github.com/haoyi-duan/WorldScore)
