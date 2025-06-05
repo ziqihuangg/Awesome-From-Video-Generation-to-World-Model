@@ -42,10 +42,9 @@ This repository is updated periodically. If you have suggestions for additional 
     - [2.1.1 Geometry Condition Prior World Model](#2.1.1.)
     - [2.1.2 3D Prior World Model](#2.1.2.)
     - [2.1.3 Physical Prior World Model](#2.1.3.)
-    - [2.1.4 Geometry Navigation World Model](#2.1.4.)
-    - [2.1.5 Trajectory Navigation World Model](#2.1.5.)
-    - [2.1.6 Camera Motion Navigation World Model](#2.1.6.)
-    - [2.1.7 Internal Interaction World Model](#2.1.7.)
+    - [2.1.4 Trajectory Navigation World Model](#2.1.5.)
+    - [2.1.5 Camera Motion Navigation World Model](#2.1.6.)
+    - [2.1.6 Internal Interaction World Model](#2.1.7.)
 
   - [2.2 Video Generation as World Model in Robotics](#2.2.)
     - [2.2.1 Action Navigation World Model](#2.2.1.)
@@ -404,9 +403,22 @@ This repository is updated periodically. If you have suggestions for additional 
 ## 2.1 Video Generation as World Model in General Scenes
 <a name="2.1.1."></a>
 ### 2.1.1 Geometry Condition Prior World Model
+
++ [SketchVideo: Sketch-based Video Generation and Editing](https://arxiv.org/abs/2503.23284) (2025-03-30)
+[![Code](https://img.shields.io/github/stars/IGLICT/SketchVideo.svg?style=social&label=Official)](https://github.com/IGLICT/SketchVideo)
+[![Website](https://img.shields.io/badge/Website-9cf)](http://geometrylearning.com/SketchVideo/)
+  
++ [ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation](https://arxiv.org/abs/2310.07697) (2023-10-11)
+
+
 + [Control-A-Video: Controllable Text-to-Video Diffusion Models with Motion Prior and Reward Feedback Learning](https://arxiv.org/abs/2305.13840) (2023-05-23)
 [![Code](https://img.shields.io/github/stars/Weifeng-Chen/control-a-video.svg?style=social&label=Official)](https://github.com/Weifeng-Chen/control-a-video)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://controlavideo.github.io/)
+
++ [ControlVideo: Training-free Controllable Text-to-Video Generation](https://arxiv.org/abs/2305.13077) (2023-05-22)
+[![Code](https://img.shields.io/github/stars/YBYBZhang/ControlVideo.svg?style=social&label=Official)](https://github.com/YBYBZhang/ControlVideo)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://controlvideov1.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Yabo/ControlVideo)
 
 + [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) (2023-02-10)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/lllyasviel/ControlNet)
@@ -431,22 +443,10 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="2.1.3."></a>
 ### 2.1.3 Physical Prior World Model
 
+
+
 <a name="2.1.4."></a>
-### 2.1.4 Geometry Navigation World Model
-
-+ [SketchVideo: Sketch-based Video Generation and Editing](https://arxiv.org/abs/2503.23284) (2025-03-30)
-[![Code](https://img.shields.io/github/stars/IGLICT/SketchVideo.svg?style=social&label=Official)](https://github.com/IGLICT/SketchVideo)
-[![Website](https://img.shields.io/badge/Website-9cf)](http://geometrylearning.com/SketchVideo/)
-  
-+ [ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation](https://arxiv.org/abs/2310.07697) (2023-10-11)
-
-+ [ControlVideo: Training-free Controllable Text-to-Video Generation](https://arxiv.org/abs/2305.13077) (2023-05-22)
-[![Code](https://img.shields.io/github/stars/YBYBZhang/ControlVideo.svg?style=social&label=Official)](https://github.com/YBYBZhang/ControlVideo)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://controlvideov1.github.io/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Yabo/ControlVideo)
-
-<a name="2.1.5."></a>
-### 2.1.5 Trajectory Navigation World Model
+### 2.1.4 Trajectory Navigation World Model
 + [Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise](https://arxiv.org/abs/2501.08331) (2025-01-14)
 + [![Code](https://img.shields.io/github/stars/Eyeline-Research/Go-with-the-Flow.svg?style=social&label=Official)](https://github.com/Eyeline-Research/Go-with-the-Flow)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://eyeline-research.github.io/Go-with-the-Flow/)
@@ -491,8 +491,8 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Fine-grained Controllable Video Generation via Object Appearance and Context](https://arxiv.org/abs/2312.02919) (2023-12-05)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hhsinping.github.io/factor/)
 
-<a name="2.1.6."></a>
-### 2.1.6 Camera Motion Navigation World Model
+<a name="2.1.5."></a>
+### 2.1.5 Camera Motion Navigation World Model
 
 + [Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](https://arxiv.org/abs/2506.03141) (2025-06-03)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://context-as-memory.github.io/)
@@ -539,8 +539,8 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://wzhouxiff.github.io/projects/MotionCtrl/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TencentARC/MotionCtrl)
 
-<a name="2.1.7."></a>
-### 2.1.7 Internal Interaction  World Model
+<a name="2.1.6."></a>
+### 2.1.6 Internal Interaction  World Model
 
 + [Introducing Multiverse: The First AI Multiplayer World Model](https://enigma-labs.io/blog) (2025-05-08)
 [![Code](https://img.shields.io/github/stars/EnigmaLabsAI/multiverse.svg?style=social&label=Official)](https://github.com/EnigmaLabsAI/multiverse)
