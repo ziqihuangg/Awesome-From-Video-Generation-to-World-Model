@@ -952,10 +952,31 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://haoyi-duan.github.io/WorldScore/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard)
 
-
 + [FullDiT: Multi-Task Video Generative Foundation Model with Full Attention](https://arxiv.org/abs/2503.19907) (2025-03-25)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://fulldit.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/FullBench)
+
++ [VideoPhy-2: A Challenging Action-Centric Physical Commonsense Evaluation in Video Generation](https://arxiv.org/abs/2503.06800) (2025-03-09)
+[![Code](https://img.shields.io/github/stars/Hritikbansal/videophy.svg?style=social&label=Official)](https://github.com/Hritikbansal/videophy/)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://videophy2.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/videophysics/videophy_2_auto)
+
++ [WorldModelBench: Judging Video Generation Models As World Models](https://arxiv.org/abs/2502.20694) (2025-02-28)
+[![Code](https://img.shields.io/github/stars/WorldModelBench-Team/WorldModelBench.svg?style=social&label=Official)](https://github.com/WorldModelBench-Team/WorldModelBench/)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://worldmodelbench-team.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/Efficient-Large-Model/worldmodelbench)
+
++ [WorldSimBench: Towards Video Generation Models as World Simulators](https://arxiv.org/abs/2410.18072) (2024-10-23)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://iranqin.github.io/WorldSimBench.github.io/)
+
++ [Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation](https://arxiv.org/abs/2410.05363) (2024-10-07)
+[![Code](https://img.shields.io/github/stars/OpenGVLab/PhyGenBench.svg?style=social&label=Official)](https://github.com/OpenGVLab/PhyGenBench)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://phygenbench123.github.io/)
+
++ [VideoPhy: Evaluating Physical Commonsense for Video Generation](https://arxiv.org/abs/2406.03520) (2024-06-05)
+[![Code](https://img.shields.io/github/stars/Hritikbansal/videophy.svg?style=social&label=Official)](https://github.com/Hritikbansal/videophy)
+
+
 <a name="6."></a>
 # 6. Study and Rethinking
 <a name="6.1."></a>
@@ -963,5 +984,4 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [A Survey of Interactive Generative Video](https://arxiv.org/abs/2504.21853) (2025-04-30)
 
-  
 + [Position: Interactive Generative Video as Next-Generation Game Engine](https://arxiv.org/abs/2503.17359) (2025-03-21)
