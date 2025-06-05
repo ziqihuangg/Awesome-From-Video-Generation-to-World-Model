@@ -344,8 +344,18 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="2.1.3."></a>
 ### 2.1.3 Physical Prior World Model
-
-
++ [WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation](https://arxiv.org/abs/2503.08153) (2025-03-11)
+[![Code](https://img.shields.io/github/stars/360CVGroup/WISA.svg?style=social&label=Official)](https://github.com/360CVGroup/WISA)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://360cvgroup.github.io/WISA/)
++ [Synthetic Video Enhances Physical Fidelity in Video Synthesis](https://arxiv.org/abs/2503.20822) (2025-03-26)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://simulation.seaweed.video/)
++ [PISA Experiments: Exploring Physics Post-Training for Video Diffusion Models by Watching Stuff Drop](https://arxiv.org/abs/2503.09595) (2025-03-12)
+[![Code](https://img.shields.io/github/stars/vision-x-nyu/pisa-experiments.svg?style=social&label=Official)](https://github.com/vision-x-nyu/pisa-experiments)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://vision-x-nyu.github.io/pisa-experiments.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/nyu-visionx/pisa-experiments)
++ [Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback](https://arxiv.org/abs/2412.02617) (2024-12-03)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/aif-dynamic-t2v/)
++ [PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation](https://arxiv.org/abs/2412.00596) (2024-11-30)
 
 <a name="2.1.4."></a>
 ### 2.1.4 Trajectory Navigation World Model
