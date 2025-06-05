@@ -39,7 +39,7 @@ This repository is updated periodically. If you have suggestions for additional 
 
 - [2. Generation 2: Interactiveness - Controllability and Interactive Dynamics](#2.)
   - [2.1 Video Generation as World Model in General Scene](#2.1.)
-    - [2.1.1 Geometry Condition Prior World Model](#2.1.1.)
+    - [2.1.1 Geometry Prior World Model](#2.1.1.)
     - [2.1.2 3D Prior World Model](#2.1.2.)
     - [2.1.3 Physical Prior World Model](#2.1.3.)
     - [2.1.4 Trajectory Navigation World Model](#2.1.5.)
@@ -75,11 +75,13 @@ This repository is updated periodically. If you have suggestions for additional 
   - [3.2 Physical-Aligned Planning World Model](#3.2.)
   - [3.3 Microscopic Planning World Model](#3.3.)
 
-- [4. Generation 4: Counterfactual and Outlier Modeling](#4.)
-
+- [4. Generation 4: Randomness - Outlier Modeling](#4.)
 
 - [5. Evaluation and Datasets](#5.)
-
+    - [5.1 Evaluation Metrics of Video Generation](#5.1.)
+    - [5.2 Evaluation Metrics of World Model](#5.2.)
+    - [5.3 Datasets](#5.3.)
+    
 - [6. Study and Rethinking](#6.)
     - [6.1 Survey](#6.1.)
     - [6.2 Position](#6.2.)
