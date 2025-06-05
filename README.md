@@ -83,6 +83,7 @@ This repository is updated periodically. If you have suggestions for additional 
 
 - [6. Study and Rethinking](#6.)
     - [6.1 Survey](#6.1.)
+    - [6.2 Position](#6.2.)
  
 <a name="1."></a>
 # 1. Generation 1: Faithfulness - Accurate Simulation of the Real World
@@ -537,6 +538,11 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="2.1.7."></a>
 ### 2.1.7 Internal Interaction  World Model
+
++ [Introducing Multiverse: The First AI Multiplayer World Model](https://enigma-labs.io/blog) (2025-05-08)
+[![Code](https://img.shields.io/github/stars/EnigmaLabsAI/multiverse.svg?style=social&label=Official)](https://github.com/EnigmaLabsAI/multiverse)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://enigma-labs.io/blog)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Enigma-AI)
 
 + [ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation](https://arxiv.org/abs/2412.18600) (2024-12-24)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://awfuact.github.io/zerohsi/)
@@ -1016,5 +1022,11 @@ This repository is updated periodically. If you have suggestions for additional 
 ## 6.1 Survey
 
 + [A Survey of Interactive Generative Video](https://arxiv.org/abs/2504.21853) (2025-04-30)
+
+
+<a name="6.2."></a>
+## 6.2 Position
+
++ [General agents need world models](https://arxiv.org/abs/2506.01622) (2025-06-02)
 
 + [Position: Interactive Generative Video as Next-Generation Game Engine](https://arxiv.org/abs/2503.17359) (2025-03-21)
