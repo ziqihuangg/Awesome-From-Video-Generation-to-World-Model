@@ -41,7 +41,7 @@ This repository is updated periodically. If you have suggestions for additional 
     - [2.1.4 Geometry Navigation World Model](#2.1.4.)
     - [2.1.5 Trajectory Navigation World Model](#2.1.5.)
     - [2.1.6 Camera Motion Navigation World Model](#2.1.6.)
-    - [2.1.7 Human-Scene Interaction World Model](#2.1.7.)
+    - [2.1.7 Internal Interaction World Model](#2.1.7.)
 
   - [2.2 Video Generation as World Model in Robotics](#2.2.)
     - [2.2.1 Action Navigation World Model](#2.2.1.)
@@ -527,11 +527,13 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TencentARC/MotionCtrl)
 
 <a name="2.1.7."></a>
-### 2.1.7  Human-Scene Interaction  World Model
+### 2.1.7 Internal Interaction  World Model
 
 + [ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation](https://arxiv.org/abs/2412.18600) (2024-12-24)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://awfuact.github.io/zerohsi/)
 
++ [Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback](https://arxiv.org/abs/2412.02617) (2024-12-03)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/aif-dynamic-t2v/)
 
 <a name="2.2."></a>
 ## 2.2 Video Generation as World Model in Robotics
@@ -576,7 +578,11 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code (to be released)](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen.svg?style=social&label=Official)](https://github.com/slowfast-vgen/slowfast-vgen)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://slowfast-vgen.github.io/) 
 
-+ [EVA: An Embodied World Model for Future Video Anticipation](https://arxiv.org/abs/2410.15461) (2024-10-20) 
++ [EVA: An Embodied World Model for Future Video Anticipation](https://arxiv.org/abs/2410.15461) (2024-10-20)
+  
++ [VideoAgent: Self-Improving Video Generation](https://arxiv.org/abs/2410.10076) (2024-10-14) 
+[![Code](https://img.shields.io/github/stars/Video-as-Agent/VideoAgent.svg?style=social&label=Official)](https://github.com/Video-as-Agent/VideoAgent)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://video-as-agent.github.io/)
 
 
 + [Pandora: Towards general world model with natural language actions and video states](https://arxiv.org/abs/2406.09455) (2024-06-12) 
@@ -896,9 +902,13 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/danijar/dreamerv3.svg?style=social&label=Official)](https://github.com/danijar/dreamerv3)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://danijar.com/project/dreamerv3/)
 
++ [Learning General World Models in a Handful of Reward-Free Deployments](https://arxiv.org/abs/2210.12719) (2022-10-23)
+[![Code](https://img.shields.io/github/stars/facebookresearch/cascade.svg?style=social&label=Official)](https://github.com/facebookresearch/cascade)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://ycxuyingchen.github.io/cascade/)
+
 + [Transformers are Sample-Efficient World Models](https://arxiv.org/abs/2209.00588) (2022-09-05)
 [![Code](https://img.shields.io/github/stars/eloialonso/iris.svg?style=social&label=Official)](https://github.com/eloialonso/iris)
-
+[![Website](https://img.shields.io/badge/Website-9cf)](https://danijar.com/project/dreamerv3/)
 
 + [Mastering Atari with Discrete World Models](https://arxiv.org/abs/2010.02193) (2020-10-05)
 [![Code](https://img.shields.io/github/stars/danijar/dreamerv2.svg?style=social&label=Official)](https://github.com/danijar/dreamerv2)
