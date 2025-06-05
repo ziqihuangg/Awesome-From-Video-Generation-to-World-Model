@@ -494,6 +494,9 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="2.1.6."></a>
 ### 2.1.6 Camera Motion Navigation World Model
 
++ [Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](https://arxiv.org/abs/2506.03141) (2025-06-03)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://context-as-memory.github.io/)
+
 + [FullDiT: Multi-Task Video Generative Foundation Model with Full Attention](https://arxiv.org/abs/2503.19907) (2025-03-25)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://fulldit.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/FullBench)
