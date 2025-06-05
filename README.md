@@ -374,26 +374,26 @@ This repository is updated periodically. If you have suggestions for additional 
 
 | Model | Release Time | Website |
 | :---: | :----------: | :-----: |
+| Gen-2 | 2023-06-07 | [Link](https://runwayml.com/ai-tools/gen-2/) |
+| Pika 1.0 | 2023-12-28 | [Link](https://pika.art/home) |
+| Gen-3 | 2024-06-17 | [Link](https://runwayml.com/ai-tools/gen-3-alpha/) |
+| Kling | 2024-06-06 | [Link](https://klingai.kuaishou.com/) |
+| Data-Juicer (T2V-Turbo) | 2024-07-23 | [Link](https://modelscope.cn/models/Data-Juicer/Data-Juicer-T2V) |
+| JT-CV-9B | 2024-09-24 | [Link](https://github.com/jiutiancv/JV-CV-T2V) |
+| MiniMax-Video-01 | 2024-10-01 | [Link](https://platform.minimaxi.com/) |
+| Mochi-1 | 2024-10-22 | [Link](https://github.com/genmoai/models) |
+| Jimeng | 2024-05-09 | [Link](https://jimeng.jianying.com/) |
+| Wan2.1 | 2025-01-08 | [Link](https://tongyi.aliyun.com/wanxiang/) |
+| Luma | 2024-06-13 | [Link](https://lumalabs.ai/dream-machine) |
+| MiracleVision V5 | 2025-01-21 | [Link](https://www.miraclevision.com/) |
+| Sora | 2025-01-14 | [Link](https://sora.com/library) |
+| Wan2.1 (v2) | 2025-02-24 | [Link](https://tongyi.aliyun.com/wanxiang/videoCreation) |
+| Step-Video-T2V | 2025-03-13 | [Link](https://yuewen.cn/videos) |
+| Gen-4 | 2025-04-01 | [Link](https://runwayml.com/research/introducing-runway-gen-4) |
+| Wan2.1-T2V-1.3B | 2025-05-03 | [Link](https://github.com/Wan-Video/Wan2.1/tree/main) |
+| Kling-1.6 | 2025-05-08 | [Link](https://klingai.kuaishou.com/) |
+| Hunyuan Video | 2025-05-22 | [Link](https://github.com/Tencent/HunyuanVideo) |
 
-| `Gen-2` | 2023-06-07 | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/ai-tools/gen-2/) |
-| `Pika 1.0` | 2023-12-28 | [![Website](https://img.shields.io/badge/Website-9cf)](https://pika.art/home) | 
-| `Gen-3` | 2024-06-17 | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/ai-tools/gen-3-alpha/) |
-| `Kling` | 2024-06-06 | [![Website](https://img.shields.io/badge/Website-9cf)](https://klingai.kuaishou.com/) |
-| `Data-Juicer (T2V-Turbo)` | 2024-07-23 | [![Website](https://img.shields.io/badge/Website-9cf)](https://modelscope.cn/models/Data-Juicer/Data-Juicer-T2V) |
-| `JT-CV-9B` | 2024-09-24 | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/jiutiancv/JV-CV-T2V) |
-| `MiniMax-Video-01` | 2024-10-01 | [![Website](https://img.shields.io/badge/Website-9cf)](https://platform.minimaxi.com/) |
-| `Mochi-1` | 2024-10-22 | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/genmoai/models) |
-| `Jimeng` | 2024-05-09 | [![Website](https://img.shields.io/badge/Website-9cf)](https://jimeng.jianying.com/) |
-| `Wan2.1` | 2025-01-08 | [![Website](https://img.shields.io/badge/Website-9cf)](https://tongyi.aliyun.com/wanxiang/) |
-| `Luma` | 2024-06-13 | [![Website](https://img.shields.io/badge/Website-9cf)](https://lumalabs.ai/dream-machine) |
-| `MiracleVision V5` | 2025-01-21 | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.miraclevision.com/) |
-| `Sora` | 2025-01-14 | [![Website](https://img.shields.io/badge/Website-9cf)](https://sora.com/library) |
-| `Wan2.1` (2025-02-24) | 2025-02-24 | [![Website](https://img.shields.io/badge/Website-9cf)](https://tongyi.aliyun.com/wanxiang/videoCreation) |
-| `Step-Video-T2V` | 2025-03-13 | [![Website](https://img.shields.io/badge/Website-9cf)](https://yuewen.cn/videos) | 
-| `Gen-4` | 2025-04-01 | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/introducing-runway-gen-4) | 
-| `Wan2.1-T2V-1.3B` (2025-05-03) | 2025-05-03 | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/Wan-Video/Wan2.1/tree/main) | 
-| `Kling-1.6` | 2025-05-08 | [![Website](https://img.shields.io/badge/Website-9cf)](https://klingai.kuaishou.com/) |
-| `Hunyuan Video` (2025-05-22) | 2025-05-22 | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/Tencent/HunyuanVideo) |
 
 
 
