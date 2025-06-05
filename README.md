@@ -32,10 +32,11 @@ This repository is updated periodically. If you have suggestions for additional 
 
 ### Table of Contents
 - [1. Generation 1: Faithfulness - Accurate Simulation of the Real World](#1.)
-    - [1.1 U-Net Based Video Generation](#1.1.)
-    - [1.2 DiT Based Video Generation](#1.2.)
-    - [1.3 Autoregressive Based Video Generation](#1.3.)
-    - [1.4 APIs](#1.4.)
+    - [1.1 Video Foundation Models](#1.1.)
+    - [1.2 Other Video Generation Models](#1.2.)
+        - [1.2.1 U-Net Based Video Generation](#1.2.1.)
+        - [1.2.2 DiT Based Video Generation](#1.2.2.)
+        - [1.2.3 Autoregressive Based Video Generation](#1.2.3.)
 
 - [2. Generation 2: Interactiveness - Controllability and Interactive Dynamics](#2.)
   - [2.1 Video Generation as World Model in General Scene](#2.1.)
@@ -89,311 +90,44 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="1."></a>
 # 1. Generation 1: Faithfulness - Accurate Simulation of the Real World
 <a name="1.1."></a>
-## 1.1 U-Net Based Video Generation
+## 1.1 Video Foundation Models
+| Date | Venue | Acronym | Paper | Project | Repo@GitHub | 
+|------|-------|---------|-------|---------|-------------|
+| 2025-01-14 | Arxiv | Vchitect-2.0 | [Vchitect-2.0: Parallel trans former for scaling up video diffusion models](https://arxiv.org/abs/2501.08453) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.intern-ai.org.cn/) | [![Code](https://img.shields.io/github/stars/Vchitect/Vchitect-2.0.svg?style=social&label=Official)](https://github.com/Vchitect/Vchitect-2.0) |
+| 2024-12-29 | Arxiv | Open-Sora |  [Open-sora: Democratizing efficient video production for all](https://arxiv.org/abs/2412.20404)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://hpcaitech.github.io/Open-Sora/) | [![Code](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Official)](https://github.com/hpcaitech/Open-Sora) |
+
+| 2024-11-28 | Arxiv | Open-Sora Plan | [Open-Sora Plan: Open-Source Large Video Generation Model](https://arxiv.org/abs/2412.00131)  |  | [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Official)](https://github.com/PKU-YuanGroup/Open-Sora-Plan) |
+| 2024-10-08 | ICLR25 | T2V-Turbo-v2 | [T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design](https://arxiv.org/abs/2410.05677) | [![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo-v2.github.io/) | [![Code](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Official)](https://github.com/Ji4chenLi/t2v-turbo) |
+| 2024-10-01 |  | MiniMax |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://platform.minimaxi.com/)] |  |
+| 2024-09-24 |  | JT-CV |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/jiutiancv/JV-CV-T2V)] |  |
+| 2024-08-12 | ICLR25 | Cogvideox | [Cogvideox:Text-to-video diffusion models with an expert transformer](https://arxiv.org/abs/2408.06072) |  | [![Code](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Official)](https://github.com/THUDM/CogVideo) |
+| 2024-07-23 |  | Data-Jucier(T2V-turbo) |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://modelscope.cn/models/Data-Juicer/Data-Juicer-T2V)] |  |
+| 2024-07-08 | Arxiv | Mira | [MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions](https://arxiv.org/abs/2407.06358v1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://mira-space.github.io/)] | [![Code](https://img.shields.io/github/stars/mira-space/MiraData.svg?style=social&label=Official)](https://github.com/mira-space/MiraData) |
+| 2024-06-17 |  | Gen-3 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/ai-tools/gen-3-alpha/)] |  |
+| 2024-06-06 |  | Kling |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://klingai.kuaishou.com/))] |  |
+| 2024-05-29 | NIPS24 | T2V-turbo |  [T2v-turbo: Breaking the quality bottleneck of video consistency model with mixed reward feedback](https://arxiv.org/abs/2405.18750) | [![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo.github.io/) | [![Code](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Official)](https://github.com/Ji4chenLi/t2v-turbo) |
+
+| 2024-02-01 | SIGGRAPH24 | AnimateLCM | [AnimateLCM: Computation-Efficient Personalized Style Video Generation without Personalized Video Data](https://arxiv.org/abs/2402.00769)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://animatelcm.github.io/) | [![Code](https://img.shields.io/github/stars/G-U-N/AnimateLCM.svg?style=social&label=Official)](https://github.com/G-U-N/AnimateLCM) |
+
+| 2024-01-17 | CVPR24 | VideoCrafter2 | [Videocrafter2:Overcoming data limitations for high-quality video diffusion models](https://arxiv.org/abs/2401.09047) | [![Website](https://img.shields.io/badge/Website-9cf)](https://ailab-cvc.github.io/videocrafter2/) | [![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Official)](https://github.com/AILab-CVC/VideoCrafter) |
+
+| 2024-01-05 | TMLR25 | Latte | [Latte: Latent Diffusion Transformer for Video Generation](https://arxiv.org/abs/2401.03048) | [![Website](https://img.shields.io/badge/Website-9cf)](https://maxin-cn.github.io/latte_project/) | [![Code](https://img.shields.io/github/stars/Vchitect/Latte.svg?style=social&label=Official)](https://github.com/Vchitect/Latte) |
+
+| 2023-12-25 | Arxiv | TF-T2V | [A Recipe for Scaling up Text-to-Video Generation with Text-free Videos](https://arxiv.org/abs/2312.15770)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://tf-t2v.github.io/) | [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen) |
+| 2023-12-19 | CVPR24 | InstructVideo | [InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://arxiv.org/abs/2312.12490)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://instructvideo.github.io/) | [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen) |
+| 2023-12-07 | Arxiv | HiGen | [Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation](https://arxiv.org/abs/2312.04483)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://higen-t2v.github.io/) | [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen) |
+
+| 2023-10-30 | Arxiv | VideoCrafter1 | [Videocrafter1: Open diffusion models for high-quality video generation](https://arxiv.org/abs/2310.19512) |  | [![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Official)](https://github.com/AILab-CVC/VideoCrafter) |
+| 2023-09-27 | IJCV24 | Show-1 | [Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video ](https://arxiv.org/abs/2309.15818) | [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Show-1/) 
+ | [![Code](https://img.shields.io/github/stars/showlab/Show-1.svg?style=social&label=Official)](https://github.com/showlab/Show-1)
+| 2023-09-26 | IJCV24 | LaVie | [LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models](https://arxiv.org/abs/2309.15103) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/LaVie-project/) | [![Code](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Official)](https://github.com/Vchitect/LaVie) |
+| 2023-08-12 | Arxiv | ModelScope | [ModelScope Text-to-Video Technical Report](https://arxiv.org/abs/2308.06571) | [![Website](https://img.shields.io/badge/Website-9cf)](https://modelscope.cn/models/iic/text-to-video-synthesis/summary) |  |
+| 2023-07-10 | ICLR24 | AnimateDiff | [AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning](https://arxiv.org/abs/2307.04725) | [![Website](https://img.shields.io/badge/Website-9cf)](https://animatediff.github.io/) | [![Code](https://img.shields.io/github/stars/guoyww/AnimateDiff.svg?style=social&label=Official)](https://github.com/guoyww/AnimateDiff) |
+| 2023-06-29 | Arxiv | Pika |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://pika.art/home) |  |
+
+| 2023-06-07 |  | Gen-2 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/ai-tools/gen-2/) |  |
+| 2022-05-29 | Arxiv | CogVideo | [CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers](https://arxiv.org/abs/2408.06072) |  | [![Code](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Official)](https://github.com/THUDM/CogVideo) |
 
-+ [GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control](https://arxiv.org/pdf/2412.11198) (2024-12-15) 
-[![Code](https://img.shields.io/github/stars/vita-epfl/GEM.svg?style=social&label=Official)](https://github.com/vita-epfl/GEM)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://vita-epfl.github.io/GEM.github.io/) 
-
-
-+ [SlowFast-VGen: Slow-Fast Learning for Action-driven Long Video Generation](https://arxiv.org/abs/2410.23277) (2024-10-30) 
-[![Code (to be released)](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen.svg?style=social&label=Official)](https://github.com/slowfast-vgen/slowfast-vgen)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://slowfast-vgen.github.io/)
-
-+ [T2v-turbo: Breaking the quality bottleneck of video consistency model with mixed reward feedback](https://arxiv.org/abs/2405.18750) (2024-05-29)
-+ [![Code](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Official)](https://github.com/Ji4chenLi/t2v-turbo)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo.github.io/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TIGER-Lab/T2V-Turbo)
-
-+ [MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators](https://arxiv.org/abs/2404.05014) (2024-04-07) 
-[![Code](https://img.shields.io/github/stars/PKU-YuanGroup/MagicTime.svg?style=social&label=Official)](https://github.com/PKU-YuanGroup/MagicTime/tree/main)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/MagicTime/) 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/BestWishYsh/MagicTime)
-
-+ [AnimateLCM: Computation-Efficient Personalized Style Video Generation without Personalized Video Data](https://arxiv.org/abs/2402.00769) (2024-02-01) 
-[![Code](https://img.shields.io/github/stars/G-U-N/AnimateLCM.svg?style=social&label=Official)](https://github.com/G-U-N/AnimateLCM)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://animatelcm.github.io/) 
-[![Hugging Face Demo](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/wangfuyun/AnimateLCM-SVD)
-
-+ [MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation](https://arxiv.org/abs/2401.04468) (2024-01-09) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://magicvideov2.github.io/) 
-
-+ [Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions](https://arxiv.org/abs/2401.01827) (2024-01-03) 
-[![Code](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Official)](https://github.com/salesforce/LAVIS)
-
-
-+ [InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://arxiv.org/abs/2312.12490) (2023-12-19) 
-[![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://instructvideo.github.io/)
-
-+ [Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation](https://arxiv.org/abs/2312.04483) (2023-12-07)
-+ [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://higen-t2v.github.io/)
-
-+ [DreamVideo: Composing Your Dream Videos with Customized Subject and Motion](https://arxiv.org/abs/2312.04433) (2023-12-07) 
-[![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://dreamvideo-t2v.github.io/)
-
-+ [Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets](https://arxiv.org/abs/2311.15127) (2023-11-25) 
-[![Code](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Official)](https://github.com/Stability-AI/generative-models)
-
- + [Make Pixels Dance: High-Dynamic Video Generation](https://arxiv.org/abs/2311.10982) (2023-11-18) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://makepixelsdance.github.io/) 
-
-
- + [Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning](https://arxiv.org/abs/2311.10709) (2023-11-17) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://emu-video.metademolab.com/) 
-
- + [I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models](https://arxiv.org/abs/2311.04145) (2023-11-07) 
-[![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://i2vgen-xl.github.io/) 
-
-+ [DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors](https://arxiv.org/abs/2310.12190) (2023-10-18) 
-[![Code](https://img.shields.io/github/stars/Doubiiu/DynamiCrafter.svg?style=social&label=Official)](https://github.com/Doubiiu/DynamiCrafter)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://doubiiu.github.io/projects/DynamiCrafter) 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/papers/2310.12190)
-
-+ [Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video ](https://arxiv.org/abs/2309.15818) (2023-09-27) 
-[![Code](https://img.shields.io/github/stars/showlab/Show-1.svg?style=social&label=Official)](https://github.com/showlab/Show-1)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Show-1/) 
-
-+ [LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models](https://arxiv.org/abs/2309.15103) (2023-09-26) 
-[![Code](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Official)](https://github.com/Vchitect/LaVie)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/LaVie-project/) 
-
-
-+ [ModelScope Text-to-Video Technical Report](https://arxiv.org/abs/2308.06571) (2023-08-12) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://modelscope.cn/models/iic/text-to-video-synthesis/summary)
-
-+ [AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning](https://arxiv.org/abs/2307.04725) (2023-07-10) 
-[![Code](https://img.shields.io/github/stars/guoyww/AnimateDiff.svg?style=social&label=Official)](https://github.com/guoyww/AnimateDiff)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://animatediff.github.io/) 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/guoyww/AnimateDiff)
-
-+ [Any-to-Any Generation via Composable Diffusion](https://arxiv.org/abs/2305.11846) (2023-05-19)
-[![Code](https://img.shields.io/github/stars/microsoft/i-Code.svg?style=social&label=Official)](https://github.com/microsoft/i-Code)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://codi-gen.github.io/)
-
-
-+ [Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2304.08818) (2023-04-18) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
-
-+ [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://arxiv.org/abs/2303.13439) (2023-03-23)
-[![Code](https://img.shields.io/github/stars/Picsart-AI-Research/Text2Video-Zero.svg?style=social&label=Official)](https://github.com/Picsart-AI-Research/Text2Video-Zero)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://text2video-zero.github.io/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/PAIR/Text2Video-Zero)
-
-+ [Structure and Content-Guided Video Synthesis with Diffusion Models
-](https://arxiv.org/abs/2302.03011) (2023-02-06) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/gen-1)
-
-+ [Imagen Video: High Definition Video Generation with Diffusion Models](https://arxiv.org/abs/2210.02303) (2022-10-05) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://imagen.research.google/video/)
-
-+ [Make-A-Video: Text-to-Video Generation without Text-Video Data](https://arxiv.org/abs/2209.14792) (2022-09-29) 
-[![Code](https://img.shields.io/github/stars/lucidrains/make-a-video-pytorch.svg?style=social&label=Official)](https://github.com/lucidrains/make-a-video-pytorch)
-
-+ [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/abs/2205.11495) (2022-05-23)
-
-+ [MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853) (2022-05-19)
-[![Code](https://img.shields.io/github/stars/voletiv/mcvd-pytorch.svg?style=social&label=Official)](https://github.com/voletiv/mcvd-pytorch)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://mask-cond-video-diffusion.github.io/)
-
-<a name="1.2."></a>
-## 1.2 DiT Based Video Generation
-+ [Training-Free Efficient Video Generation via Dynamic Token Carving](https://arxiv.org/abs/2505.16864) (2025-05-22)
-[![Code](https://img.shields.io/github/stars/dvlab-research/Jenga.svg?style=social&label=Official)](https://github.com/dvlab-research/Jenga/)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://julianjuaner.github.io/projects/jenga/)
-
-
-+ [AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset](https://arxiv.org/abs/2503.19462) (2025-03-25)
-[![Code](https://img.shields.io/github/stars/aejion/AccVideo.svg?style=social&label=Official)](https://github.com/aejion/AccVideo)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://aejion.github.io/accvideo/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/aejion/AccVideo)
-
-+ [AETHER: Geometric-Aware Unified World Modeling](https://arxiv.org/abs/2503.18945) (2025-03-24)
-[![Code](https://img.shields.io/github/stars/OpenRobotLab/Aether.svg?style=social&label=Official)](https://github.com/OpenRobotLab/Aether)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://aether-world.github.io/) 
-
-+ [Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control](https://arxiv.org/abs/2503.14492) (2025-03-18)
-[![Code](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-transfer1.svg?style=social&label=Official)](https://github.com/nvidia-cosmos/cosmos-transfer1)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-transfer1/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/nvidia/cosmos-transfer1-67c9d328196453be6e568d3e)
-
-+ [WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation](https://arxiv.org/abs/2503.08153) (2025-03-11)
-[![Code](https://img.shields.io/github/stars/360CVGroup/WISA.svg?style=social&label=Official)](https://github.com/360CVGroup/WISA)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://360cvgroup.github.io/WISA/)]
-
-+ [IPO: Iterative Preference Optimization for Text-to-Video Generation](https://arxiv.org/abs/2502.02088) (2025-02-04) 
-[![Code](https://img.shields.io/github/stars/SAIS-FUXI/IPO.svg?style=social&label=Official)](https://github.com/SAIS-FUXI/IPO) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://yangxlarge.github.io/ipoc//)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Fudan-FUXI/IPOC-2B-v1.0)
-
-+ [RepVideo: Rethinking Cross-Layer Representation for Video Generation](https://arxiv.org/abs/2501.08994) (2025-01-15) 
-[![Code](https://img.shields.io/github/stars/Vchitect/RepVideo.svg?style=social&label=Official)](https://github.com/Vchitect/RepVideo)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/RepVid-Webpage/)
-
-
-+ [Vchitect-2.0: Parallel trans former for scaling up video diffusion models](https://arxiv.org/abs/2501.08453) (2025-01-14) 
-
-+ [Cosmos World Foundation Model Platform for Physical AI](https://arxiv.org/abs/2501.03575) (2025-01-07) 
-[![Code](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-predict1.svg?style=social&label=Official)](https://github.com/nvidia-cosmos/cosmos-predict1)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-predict1/) 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/nvidia/cosmos-predict1-67c9d1b97678dbf7669c89a7)
-
-+ [LTX-Video: Realtime Video Latent Diffusion](https://arxiv.org/abs/2501.00103) (2024-12-30) 
-[![Code](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Official)](https://github.com/Lightricks/LTX-Video) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://www.lightricks.com/)
-
-+ [Open-sora: Democratizing efficient video production for all](https://arxiv.org/abs/2412.20404) (2024-12-29) 
-[![Code](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Official)](https://github.com/hpcaitech/Open-Sora) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://hpcaitech.github.io/Open-Sora/)
-
-+ [VAST 1.0: A Unified Framework for Controllable and Consistent Video Generation](https://arxiv.org/abs/2412.16677) (2024-12-21)
-
-+ [STIV: Scalable Text and Image Conditioned Video Generation](https://arxiv.org/abs/2412.07730) (2024-12-10)
-
-+ [Navigation World Models](https://arxiv.org/abs/2412.03572) (2024-12-04)
-[![Code](https://img.shields.io/github/stars/facebookresearch/nwm.svg?style=social&label=Official)](https://github.com/facebookresearch/nwm/)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://www.amirbar.net/nwm/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/facebook/nwm)
-
-+ [HunyuanVideo: A Systematic Framework For Large Video Generative Models](https://arxiv.org/abs/2412.03603) (2024-12-03)
-[![Code](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Official)](https://github.com/Tencent/HunyuanVideo)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://aivideo.hunyuan.tencent.com/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/tencent/HunyuanVideo)
-
-+ [Open-Sora Plan: Open-Source Large Video Generation Model](https://arxiv.org/abs/2412.00131) (2024-11-28) 
-[![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Official)](https://github.com/PKU-YuanGroup/Open-Sora-Plan)
-
-
-+ [Allegro: Open the black box of commercial-level video generation model](https://arxiv.org/abs/2410.15458) (2024-10-20)
-[![Code](https://img.shields.io/github/stars/rhymes-ai/Allegro.svg?style=social&label=Official)](https://github.com/rhymes-ai/Allegro)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://rhymes.ai/allegro_gallery)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/rhymes-ai/Allegro)
-
-+ [Movie Gen: A Cast of Media Foundation Models](https://arxiv.org/abs/2410.13720) (2024-10-17)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://ai.meta.com/blog/movie-gen-media-foundation-models-generative-ai-video/)
-
-
-+ [Pyramidal Flow Matching for Efficient Video Generative Modeling](https://arxiv.org/abs/2410.05954) (2024-10-08)
-[![Code](https://img.shields.io/github/stars/jy0205/Pyramid-Flow.svg?style=social&label=Official)](https://github.com/jy0205/Pyramid-Flow)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://pyramid-flow.github.io/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/rain1011/pyramid-flow-sd3)
-
-+ [T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design](https://arxiv.org/abs/2410.05677) (2024-10-08)
-[![Code](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Official)](https://github.com/Ji4chenLi/t2v-turbo)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo-v2.github.io/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TIGER-Lab/T2V-Turbo)
-
-+ [Emu3: Next-Token Prediction is All You Need](https://arxiv.org/abs/2409.18869) (2024-09-27) 
-[![Code](https://img.shields.io/github/stars/baaivision/Emu3.svg?style=social&label=Official)](https://github.com/baaivision/Emu3) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://emu.baai.ac.cn/about)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/BAAI/emu3-66f4e64f70850ff358a2e60f)
-
-+ [xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations](https://arxiv.org/abs/2408.12590) (2024-08-22) 
-
-+ [Cogvideox:Text-to-video diffusion models with an expert transformer](https://arxiv.org/abs/2408.06072) (2024-08-12) 
-[![Code](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Official)](https://github.com/THUDM/CogVideo) 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TIGER-Lab/T2V-Turbo-V2)
-
-+ [MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions](https://arxiv.org/abs/2407.06358v1) (2024-07-08)
-[![Code](https://img.shields.io/github/stars/mira-space/MiraData.svg?style=social&label=Official)](https://github.com/mira-space/MiraData)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://mira-space.github.io/)]
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/TencentARC/MiraData)
-
-+ [T2v-turbo: Breaking the quality bottleneck of video consistency model with mixed reward feedback](https://arxiv.org/abs/2405.18750) (2024-05-29)
-[![Code](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Official)](https://github.com/Ji4chenLi/t2v-turbo)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo.github.io/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TIGER-Lab/T2V-Turbo)
-
-+ [Easyanimate: A high-performance long video generation method based on  transformer architecture](https://arxiv.org/abs/2405.18991) (2024-05-29)
-[![Code](https://img.shields.io/github/stars/aigc-apps/EasyAnimate.svg?style=social&label=Official)](https://github.com/aigc-apps/EasyAnimate)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://easyanimate.github.io/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/alibaba-pai/EasyAnimate)
-
-+ [Videocrafter2:Overcoming data limitations for high-quality video diffusion models](https://arxiv.org/abs/2401.09047) (2024-01-17) 
-[![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Official)](https://github.com/AILab-CVC/VideoCrafter)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://ailab-cvc.github.io/videocrafter2/)
-
-+ [Latte: Latent Diffusion Transformer for Video Generation](https://arxiv.org/abs/2401.03048) (2024-01-05) 
-[![Code](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Official)](https://github.com/hpcaitech/Open-Sora) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://hpcaitech.github.io/Open-Sora/)
-
-+ [Photorealistic Video Generation with Diffusion Models](https://arxiv.org/abs/2312.06662) (2023-12-11) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://walt-video-diffusion.github.io/)
-
-+ [Videocrafter1: Open diffusion models for high-quality video generation](https://arxiv.org/abs/2310.19512) (2023-10-30) 
-[![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Official)](https://github.com/AILab-CVC/VideoCrafter)
-
-<a name="1.3."></a>
-## 1.3 Autoregressive Based Video Generation
-
-+ [Cosmos World Foundation Model Platform for Physical AI](https://arxiv.org/abs/2501.03575) (2025-01-07) 
-[![Code](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-predict1.svg?style=social&label=Official)](https://github.com/nvidia-cosmos/cosmos-predict1)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-predict1/) 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/nvidia/cosmos-predict1-67c9d1b97678dbf7669c89a7)
-
-+ [Owl-1: Omni World Model for Consistent Long Video Generation](https://arxiv.org/abs/2412.09600) (2024-12-12) 
-[![Code](https://img.shields.io/github/stars/huang-yh/Owl.svg?style=social&label=Official)](https://github.com/huang-yh/Owl)
-
-+ [DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion](https://arxiv.org/abs/2411.04928) (2024-11-07)
-[![Code](https://img.shields.io/github/stars/wenqsun/DimensionX.svg?style=social&label=Official)](https://github.com/wenqsun/DimensionX)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://chenshuo20.github.io/DimensionX/)
-
-+ [VideoTetris: Towards Compositional Text-to-Video Generation](https://arxiv.org/abs/2406.04277) (2024-06-06)
-[![Code](https://img.shields.io/github/stars/YangLing0818/VideoTetris.svg?style=social&label=Official)](https://github.com/YangLing0818/VideoTetris)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://videotetris.github.io/) 
-
-+ [StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text](https://arxiv.org/abs/2403.14773) (2024-03-21) 
-[![Code](https://img.shields.io/github/stars/Picsart-AI-Research/StreamingT2V.svg?style=social&label=Official)](https://github.com/Picsart-AI-Research/StreamingT2V)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://streamingt2v.github.io/) 
-
-
-+ [Pandora: Towards general world model with natural language actions and video states](https://arxiv.org/abs/2406.09455) (2024-06-12) 
-[![Code](https://img.shields.io/github/stars/maitrix-org/Pandora.svg?style=social&label=Official)](https://github.com/maitrix-org/Pandora)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://world-model.maitrix.org/) 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/maitrix-org/Pandora)
-
-+ [VideoPoet: A Large Language Model for Zero-Shot Video Generation](https://arxiv.org/abs/2312.14125) (2023-12-21) 
-[![Website](https://img.shields.io/badge/Website-9cf)](http://sites.research.google/videopoet/)
-
-+ [Generative Multimodal Models are In-Context Learners](https://arxiv.org/abs/2312.13286) (2023-12-20)
-[![Code](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Official)](https://github.com/baaivision/Emu)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://baaivision.github.io/emu2/) 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/BAAI/Emu2)
-
-+ [MAGVIT:Masked Generative Video Transformer](https://arxiv.org/abs/2212.05199) (2022-12-10) 
-[![Code](https://img.shields.io/github/stars/google-research/magvit.svg?style=social&label=Official)](https://github.com/google-research/magvit)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://magvit.cs.cmu.edu/)
-
-+ [CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers](https://arxiv.org/abs/2408.06072) (2022-05-29) 
-[![Code](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Official)](https://github.com/THUDM/CogVideo) 
-
-<a name="1.4."></a>
-## 1.4 APIs
-
-| Model | Release Time | Website |
-| :---: | :----------: | :-----: |
-| Gen-2 | 2023-06-07 | [Link](https://runwayml.com/ai-tools/gen-2/) |
-| Pika 1.0 | 2023-12-28 | [Link](https://pika.art/home) |
-| Gen-3 | 2024-06-17 | [Link](https://runwayml.com/ai-tools/gen-3-alpha/) |
-| Kling | 2024-06-06 | [Link](https://klingai.kuaishou.com/) |
-| Data-Juicer (T2V-Turbo) | 2024-07-23 | [Link](https://modelscope.cn/models/Data-Juicer/Data-Juicer-T2V) |
-| JT-CV-9B | 2024-09-24 | [Link](https://github.com/jiutiancv/JV-CV-T2V) |
-| MiniMax-Video-01 | 2024-10-01 | [Link](https://platform.minimaxi.com/) |
-| Mochi-1 | 2024-10-22 | [Link](https://github.com/genmoai/models) |
-| Jimeng | 2024-05-09 | [Link](https://jimeng.jianying.com/) |
-| Wan2.1 | 2025-01-08 | [Link](https://tongyi.aliyun.com/wanxiang/) |
-| Luma | 2024-06-13 | [Link](https://lumalabs.ai/dream-machine) |
-| MiracleVision V5 | 2025-01-21 | [Link](https://www.miraclevision.com/) |
-| Sora | 2025-01-14 | [Link](https://sora.com/library) |
-| Wan2.1 (v2) | 2025-02-24 | [Link](https://tongyi.aliyun.com/wanxiang/videoCreation) |
-| Step-Video-T2V | 2025-03-13 | [Link](https://yuewen.cn/videos) |
-| Gen-4 | 2025-04-01 | [Link](https://runwayml.com/research/introducing-runway-gen-4) |
-| Wan2.1-T2V-1.3B | 2025-05-03 | [Link](https://github.com/Wan-Video/Wan2.1/tree/main) |
-| Kling-1.6 | 2025-05-08 | [Link](https://klingai.kuaishou.com/) |
-| Hunyuan Video | 2025-05-22 | [Link](https://github.com/Tencent/HunyuanVideo) |
 
 
 
@@ -569,6 +303,11 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/liruiw/HMA.svg?style=social&label=Official)](https://github.com/liruiw/HMA)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://liruiw.github.io/hma/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/liruiw/hma-base-disc)
+
++ [Cosmos World Foundation Model Platform for Physical AI](https://arxiv.org/abs/2501.03575) (2025-01-07) 
+[![Code](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-predict1.svg?style=social&label=Official)](https://github.com/nvidia-cosmos/cosmos-predict1)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-predict1/) 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/nvidia/cosmos-predict1-67c9d1b97678dbf7669c89a7)
 
 + [Navigation World Models](https://arxiv.org/abs/2412.03572) (2024-12-04)
 [![Code](https://img.shields.io/github/stars/facebookresearch/nwm.svg?style=social&label=Official)](https://github.com/facebookresearch/nwm/)
