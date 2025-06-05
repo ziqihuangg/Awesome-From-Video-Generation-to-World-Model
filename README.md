@@ -32,14 +32,14 @@ This repository is updated periodically. If you have suggestions for additional 
 
 ### Table of Contents
 - [1. Generation 1: Faithfulness - Accurate Simulation of the Real World](#1.)
-    - [1.1 U-Net Based Video Generation](#1.1.1)
-    - [1.2 DiT Based Video Generation](#1.1.2.)
-    - [1.3 Autoregressive Based Video Generation](#1.1.3.)
-    - [1.4 Other Based Video Generation](#1.1.4.)
+    - [1.1 U-Net Based Video Generation](#1.1.)
+    - [1.2 DiT Based Video Generation](#1.2.)
+    - [1.3 Autoregressive Based Video Generation](#1.3.)
+    - [1.4 APIs](#1.4.)
 
 - [2. Generation 2: Interactiveness - Controllability and Interactive Dynamics](#2.)
-  - [2.1 Video Generation as World Model in General Scene](#2.1)
-    - [2.1.1 Geometry Condition Prior World Model](#2.1.1)
+  - [2.1 Video Generation as World Model in General Scene](#2.1.)
+    - [2.1.1 Geometry Condition Prior World Model](#2.1.1.)
     - [2.1.2 3D Prior World Model](#2.1.2.)
     - [2.1.3 Physical Prior World Model](#2.1.3.)
     - [2.1.4 Geometry Navigation World Model](#2.1.4.)
@@ -370,26 +370,30 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Official)](https://github.com/THUDM/CogVideo) 
 
 <a name="1.4."></a>
-## 1.4 Other Based Video Generation
+## 1.4 APIs
 
-+ [From Slow Bidirectional to Fast Autoregressive Video Diffusion Models](https://arxiv.org/abs/2412.07772) (2024-12-10) 
-[![Code](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Official)](https://github.com/tianweiy/CausVid)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/)
+| Model | Release Time | Website |
+| :---: | :---: | :---: |
 
-+ [ViD-GPT: Introducing GPT-style Autoregressive Generation in Video Diffusion Models](https://arxiv.org/abs/2406.10981) (2024-06-16) 
-[![Code](https://img.shields.io/github/stars/Dawn-LX/CausalCache-VDM.svg?style=social&label=Official)](https://github.com/Dawn-LX/CausalCache-VDM)
-
-+ [Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator with Diffusion Models](https://arxiv.org/abs/2405.04233) (2024-05-07) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://www.vidu.com/zh)
-
-+ [InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions](https://arxiv.org/abs/2402.03040) (2024-02-05) 
-[![Code](https://img.shields.io/github/stars/invictus717/InteractiveVideo.svg?style=social&label=Official)](https://github.com/invictus717/InteractiveVideo)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://invictus717.github.io/InteractiveVideo/)
-
-
-+ [WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens](https://arxiv.org/abs/2401.09985) (2024-01-18) 
-[![Code](https://img.shields.io/github/stars/JeffWang987/WorldDreamer.svg?style=social&label=Official)](https://github.com/JeffWang987/WorldDreamer)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://world-dreamer.github.io/) 
+| `Gen-2` | 2023-06-07 | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/ai-tools/gen-2/) |
+| `Pika 1.0` | 2023-12-28 | [![Website](https://img.shields.io/badge/Website-9cf)](https://pika.art/home) | 
+| `Gen-3` | 2024-06-17 | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/ai-tools/gen-3-alpha/) |
+| `Kling` |  2024-06-06 | [![Website](https://img.shields.io/badge/Website-9cf)](https://klingai.kuaishou.com/) |
+| `Data-Juicer (T2V-Turbo)` | 2024-07-23 | [![Website](https://img.shields.io/badge/Website-9cf)](https://modelscope.cn/models/Data-Juicer/Data-Juicer-T2V) |
+| `JT-CV-9B` | 2024-09-24 | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/jiutiancv/JV-CV-T2V) |
+| `MiniMax-Video-01` | 2024-10-01 | [![Website](https://img.shields.io/badge/Website-9cf)](https://platform.minimaxi.com/) |
+| `Mochi-1` | 2024-10-22 | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/genmoai/models)
+| `Jimeng` | 2024-05-09 | [![Website](https://img.shields.io/badge/Website-9cf)](https://jimeng.jianying.com/) |
+| `Wan2.1` | 2025-01-08 | [![Website](https://img.shields.io/badge/Website-9cf)](https://tongyi.aliyun.com/wanxiang/) |
+| `Luma` | 2024-06-13 | [![Website](https://img.shields.io/badge/Website-9cf)](https://lumalabs.ai/dream-machine) |
+| `MiracleVision V5` | 2025-01-21 | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.miraclevision.com/) |
+| `Sora` | 2025-01-14 | [![Website](https://img.shields.io/badge/Website-9cf)](https://sora.com/library) |
+| `Wan2.1(2025-02-24)` | 2025-02-24 | [![Website](https://img.shields.io/badge/Website-9cf)](https://tongyi.aliyun.com/wanxiang/videoCreation) |
+| `Step-Video-T2V` | 2025-03-13 | [![Website](https://img.shields.io/badge/Website-9cf)](https://yuewen.cn/videos) | 
+| `Gen-4` | 2025-04-01 | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/introducing-runway-gen-4) | 
+| `Wan2.1-T2V-1.3B (2025-05-03)` | 2025-05-03 | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/Wan-Video/Wan2.1/tree/main) | 
+| `Kling-1.6` | 2025-05-08 | [![Website](https://img.shields.io/badge/Website-9cf)](https://klingai.kuaishou.com/) |
+| `Hunyuan Video (2025-05-22)` | 2025-05-22 | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/Tencent/HunyuanVideo) |
 
 
 <a name="2."></a>
