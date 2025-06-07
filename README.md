@@ -390,6 +390,10 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/aif-dynamic-t2v/)
 + [PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation](https://arxiv.org/abs/2412.00596) (2024-11-30)
 
++ [PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation](https://arxiv.org/abs/2409.18964) (2024-09-27)
+[![Code](https://img.shields.io/github/stars/stevenlsw/physgen.svg?style=social&label=Official)](https://github.com/stevenlsw/physgen)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://stevenlsw.github.io/physgen/)
+
 <a name="2.1.4."></a>
 ### 2.1.4 Trajectory Navigation World Model
 
