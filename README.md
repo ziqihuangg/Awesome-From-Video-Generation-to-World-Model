@@ -310,9 +310,21 @@ This repository is updated periodically. If you have suggestions for additional 
 + [SketchVideo: Sketch-based Video Generation and Editing](https://arxiv.org/abs/2503.23284) (2025-03-30)
 [![Code](https://img.shields.io/github/stars/IGLICT/SketchVideo.svg?style=social&label=Official)](https://github.com/IGLICT/SketchVideo)
 [![Website](https://img.shields.io/badge/Website-9cf)](http://geometrylearning.com/SketchVideo/)
-  
+
++ [Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions](\https://arxiv.org/abs/2401.01827) (2024-01-03)
+[![Code](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Official)](https://github.com/salesforce/LAVIS)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Moonshot/)
+
++ [SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models](https://arxiv.org/abs/2311.16933) (2023-11-28)
+[![Code](https://img.shields.io/github/stars/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl.svg?style=social&label=Official)](https://github.com/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://guoyww.github.io/projects/SparseCtrl/)
+
 + [ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation](https://arxiv.org/abs/2310.07697) (2023-10-11)
 
+
++ [VideoComposer: Compositional Video Synthesis with Motion Controllability](https://arxiv.org/abs/2306.02018) (2023-06-03)
+[![Code](https://img.shields.io/github/stars/ali-vilab/videocomposer.svg?style=social&label=Official)](https://github.com/ali-vilab/videocomposer)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://videocomposer.github.io/)
 
 + [Control-A-Video: Controllable Text-to-Video Diffusion Models with Motion Prior and Reward Feedback Learning](https://arxiv.org/abs/2305.13840) (2023-05-23)
 [![Code](https://img.shields.io/github/stars/Weifeng-Chen/control-a-video.svg?style=social&label=Official)](https://github.com/Weifeng-Chen/control-a-video)
@@ -322,6 +334,11 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/YBYBZhang/ControlVideo.svg?style=social&label=Official)](https://github.com/YBYBZhang/ControlVideo)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://controlvideov1.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Yabo/ControlVideo)
+
++ [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://arxiv.org/abs/2303.13439) (2023-03-23)
+[![Code](https://img.shields.io/github/stars/Picsart-AI-Research/Text2Video-Zero.svg?style=social&label=Official)](https://github.com/Picsart-AI-Research/Text2Video-Zero/)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://text2video-zero.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/PAIR/Text2Video-Zero)
 
 + [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) (2023-02-10)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/lllyasviel/ControlNet)
@@ -341,7 +358,20 @@ This repository is updated periodically. If you have suggestions for additional 
 + [GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking](https://arxiv.org/abs/2501.02690) (2025-01-05)
 [![Code (to be released)](https://img.shields.io/github/stars/wkbian/GS-DiT.svg?style=social&label=Official)](https://github.com/wkbian/GS-DiT)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://wkbian.github.io/Projects/GS-DiT/)
++ [Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models](https://arxiv.org/abs/2405.16645) (2024-05-26)
+[![Code](https://img.shields.io/github/stars/VITA-Group/Diffusion4D.svg?style=social&label=Official)](https://github.com/VITA-Group/Diffusion4D)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://vita-group.github.io/Diffusion4D/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/hw-liang/Diffusion4D)
 
++ [SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion](https://arxiv.org/abs/2403.12008) (2024-03-18)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://sv3d.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/stabilityai/sv3d)
+
+
++ [V3D: Video Diffusion Models are Effective 3D Generators](https://arxiv.org/abs/2403.06738) (2024-03-11)
+[![Code](https://img.shields.io/github/stars/heheyas/V3D.svg?style=social&label=Official)](https://github.com/heheyas/V3D)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://heheyas.github.io/V3D/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/heheyas/V3D)
 
 <a name="2.1.3."></a>
 ### 2.1.3 Physical Prior World Model
