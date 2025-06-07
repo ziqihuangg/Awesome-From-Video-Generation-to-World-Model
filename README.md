@@ -650,11 +650,22 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/YvanYin/DrivingWorld.svg?style=social&label=Official)](https://github.com/YvanYin/DrivingWorld)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://huxiaotaostasy.github.io/DrivingWorld/index.html)
 
++ [GEM:AGeneralizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control](https://arxiv.org/abs/2412.11198) (2024-12-15)
+[![Code](https://img.shields.io/github/stars/vita-epfl/GEM.svg?style=social&label=Official)](https://github.com/vita-epfl/GEM)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://vita-epfl.github.io/GEM.github.io/)
+
 + [Doe-1: Closed-Loop Autonomous Driving with Large World Model](https://arxiv.org/abs/2412.09627) (2024-12-12)
 [![Code](https://img.shields.io/github/stars/wzzheng/Doe.svg?style=social&label=Official)](https://github.com/wzzheng/Doe)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://wzzheng.net/Doe/)
 
 + [ACT-BENCH:Towards Action Controllable World Models for Autonomous Driving](https://arxiv.org/abs/2412.05337) (2024-12-06)
+
++ [MagicDriveDiT: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control](https://arxiv.org/abs/2411.13807v1) (2024-11-21)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://gaoruiyuan.com/magicdrive-v2/)
+
++ [MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes](https://arxiv.org/abs/2405.14475) (2024-05-23)
+[![Code](https://img.shields.io/github/stars/flymin/MagicDrive3D.svg?style=social&label=Official)](https://github.com/flymin/MagicDrive3D)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://gaoruiyuan.com/magicdrive3d/)
 
 <a name="2.3.4."></a>
 ### 2.3.4 Action Navigation World Model
@@ -703,9 +714,6 @@ This repository is updated periodically. If you have suggestions for additional 
 + [MaskGWM: a Generalizable driving World Model embodied with Video Mask reconstruction](https://arxiv.org/abs/2502.11663) (2025-02-17)
 [![Code](https://img.shields.io/github/stars/SenseTime-FVG/OpenDWM.svg?style=social&label=Official)](https://github.com/SenseTime-FVG/OpenDWM)
 
-+ [GEM:AGeneralizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control](https://arxiv.org/abs/2412.11198) (2024-12-15)
-[![Code](https://img.shields.io/github/stars/vita-epfl/GEM.svg?style=social&label=Official)](https://github.com/vita-epfl/GEM)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://vita-epfl.github.io/GEM.github.io/)
 
 + [MagicDriveDiT: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control](https://arxiv.org/abs/2411.13807v1) (2024-11-21)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gaoruiyuan.com/magicdrive-v2/)
