@@ -346,9 +346,6 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="2.1.2."></a>
 ### 2.1.2 3D Condition Prior World Model
 
-+ [CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](https://arxiv.org/abs/2502.08639) (2025-02-12)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://cinemaster-dev.github.io/)
-
 
 + [Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control](https://arxiv.org/abs/2501.03847) (2025-01-07)
 [![Code](https://img.shields.io/github/stars/IGL-HKUST/DiffusionAsShader.svg?style=social&label=Official)](https://github.com/IGL-HKUST/DiffusionAsShader)
@@ -390,6 +387,7 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="2.1.4."></a>
 ### 2.1.4 Trajectory Navigation World Model
+
 + [Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise](https://arxiv.org/abs/2501.08331) (2025-01-14)
 [![Code](https://img.shields.io/github/stars/Eyeline-Research/Go-with-the-Flow.svg?style=social&label=Official)](https://github.com/Eyeline-Research/Go-with-the-Flow)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://eyeline-research.github.io/Go-with-the-Flow/)
@@ -452,7 +450,8 @@ This repository is updated periodically. If you have suggestions for additional 
 + [CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models](https://arxiv.org/abs/2503.10592) (2025-03-13)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hehao13.github.io/Projects-CameraCtrl-II/)
 
-
++ [CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](https://arxiv.org/abs/2502.08639) (2025-02-12)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://cinemaster-dev.github.io/)
 + [Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise](https://arxiv.org/abs/2501.08331) (2025-01-14)
 [![Code](https://img.shields.io/github/stars/Eyeline-Research/Go-with-the-Flow.svg?style=social&label=Official)](https://github.com/Eyeline-Research/Go-with-the-Flow)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://eyeline-research.github.io/Go-with-the-Flow/)
