@@ -314,7 +314,7 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions](https://arxiv.org/abs/2401.01827) (2024-01-03)
 [![Code](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Official)](https://github.com/salesforce/LAVIS)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Moonshot/)
-
+ 
 + [SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models](https://arxiv.org/abs/2311.16933) (2023-11-28)
 [![Code](https://img.shields.io/github/stars/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl.svg?style=social&label=Official)](https://github.com/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://guoyww.github.io/projects/SparseCtrl/)
