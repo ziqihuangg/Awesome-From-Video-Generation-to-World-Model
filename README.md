@@ -150,10 +150,6 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://vita-epfl.github.io/GEM.github.io/) 
 
 
-+ [SlowFast-VGen: Slow-Fast Learning for Action-driven Long Video Generation](https://arxiv.org/abs/2410.23277) (2024-10-30) 
-[![Code (to be released)](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen.svg?style=social&label=Official)](https://github.com/slowfast-vgen/slowfast-vgen)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://slowfast-vgen.github.io/)
-
 + [MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators](https://arxiv.org/abs/2404.05014) (2024-04-07) 
 [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/MagicTime.svg?style=social&label=Official)](https://github.com/PKU-YuanGroup/MagicTime/tree/main)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/MagicTime/) 
@@ -163,19 +159,14 @@ This repository is updated periodically. If you have suggestions for additional 
 + [MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation](https://arxiv.org/abs/2401.04468) (2024-01-09) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://magicvideov2.github.io/) 
 
-+ [Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions](https://arxiv.org/abs/2401.01827) (2024-01-03) 
-[![Code](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Official)](https://github.com/salesforce/LAVIS)
-
 
 + [InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://arxiv.org/abs/2312.12490) (2023-12-19) 
 [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://instructvideo.github.io/)
 
-
 + [DreamVideo: Composing Your Dream Videos with Customized Subject and Motion](https://arxiv.org/abs/2312.04433) (2023-12-07) 
 [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://dreamvideo-t2v.github.io/)
-
 
  + [Make Pixels Dance: High-Dynamic Video Generation](https://arxiv.org/abs/2311.10982) (2023-11-18) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://makepixelsdance.github.io/) 
@@ -187,6 +178,11 @@ This repository is updated periodically. If you have suggestions for additional 
  + [I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models](https://arxiv.org/abs/2311.04145) (2023-11-07) 
 [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://i2vgen-xl.github.io/) 
+
++ [SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction](https://arxiv.org/abs/2310.20700) (2023-10-31) 
+[![Code](https://img.shields.io/github/stars/Vchitect/SEINE.svg?style=social&label=Official)](https://github.com/Vchitect/SEINE)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/SEINE-project/) 
+
 
 + [DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors](https://arxiv.org/abs/2310.12190) (2023-10-18) 
 [![Code](https://img.shields.io/github/stars/Doubiiu/DynamiCrafter.svg?style=social&label=Official)](https://github.com/Doubiiu/DynamiCrafter)
@@ -202,10 +198,6 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2304.08818) (2023-04-18) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
 
-+ [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://arxiv.org/abs/2303.13439) (2023-03-23)
-[![Code](https://img.shields.io/github/stars/Picsart-AI-Research/Text2Video-Zero.svg?style=social&label=Official)](https://github.com/Picsart-AI-Research/Text2Video-Zero)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://text2video-zero.github.io/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/PAIR/Text2Video-Zero)
 
 + [Structure and Content-Guided Video Synthesis with Diffusion Models
 ](https://arxiv.org/abs/2302.03011) (2023-02-06) 
