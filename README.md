@@ -72,9 +72,9 @@ This repository is updated periodically. If you have suggestions for additional 
     - [2.4.7 Other Navigation World Model](#2.4.7.)
     
 - [3. Generation 3: Planning - Modeling the Future Evolution of Complex Systems](#3.)
-  - [3.1 Macroscopic Planning World Model](#3.1.)
-  - [3.2 Physical-Aligned Planning World Model](#3.2.)
-  - [3.3 Microscopic Planning World Model](#3.3.)
+  - [3.1 Macroscopic Scale Planning World Model](#3.1.)
+  - [3.2 Mesoscopic Scale Planning World Model](#3.2.)
+  - [3.3 Microscopic Scale Planning World Model](#3.3.)
 
 - [4. Generation 4: Randomness - Outlier Modeling](#4.)
 
@@ -490,11 +490,6 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-predict1/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/nvidia/cosmos-predict1-67c9d1b97678dbf7669c89a7)
 
-+ [Navigation World Models](https://arxiv.org/abs/2412.03572) (2024-12-04)
-[![Code](https://img.shields.io/github/stars/facebookresearch/nwm.svg?style=social&label=Official)](https://github.com/facebookresearch/nwm/)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://www.amirbar.net/nwm/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/facebook/nwm)
-
 + [IRASim: Learning Interactive Real-Robot Action Simulators](https://arxiv.org/abs/2406.14540) (2024-06-20)
 [![Code](https://img.shields.io/github/stars/bytedance/IRASim.svg?style=social&label=Official)](https://github.com/bytedance/IRASim)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gen-irasim.github.io/)
@@ -884,11 +879,17 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="3."></a>
 # 3. Generation 3: Planning - Modeling the Future Evolution of Complex Systems
 <a name="3.1."></a>
-## 3.1 Macroscopic planning World Model
+## 3.1 Macroscopic Scale Planning World Model
 <a name="3.2."></a>
-## 3.2 Physical-Aligned planning World Model
+## 3.2 Mesoscopic Scale Planning World Model
+
++ [Navigation World Models](https://arxiv.org/abs/2412.03572) (2024-12-04)
+[![Code](https://img.shields.io/github/stars/facebookresearch/nwm.svg?style=social&label=Official)](https://github.com/facebookresearch/nwm/)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://www.amirbar.net/nwm/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/facebook/nwm)
+
 <a name="3.3."></a>
-## 3.3 Microscopic planning World Model
+## 3.3 Microscopic Scale Planning World Model
 
 <a name="4."></a>
 # 4. Generation 4: Counterfactual and Outlier Modeling
