@@ -718,7 +718,7 @@ This repository is updated periodically. If you have suggestions for additional 
 
 
 + [Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability](https://arxiv.org/abs/2405.17398) (2024-05-27)
-[![Code](https://img.shields.io/github/stars/OpenDriveLab/DriveAGI.svg?style=social&label=Official)](https://github.com/OpenDriveLab/DriveAGI)
+[![Code](https://img.shields.io/github/stars/OpenDriveLab/Vista.svg?style=social&label=Official)](https://github.com/OpenDriveLab/Vista)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://opendrivelab.com/Vista/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/OpenDriveLab/Vista)
 
