@@ -948,10 +948,50 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [A Survey of Interactive Generative Video](https://arxiv.org/abs/2504.21853) (2025-04-30)
 
++ [Survey of Video Diffusion Models: Foundations, Implementations, and Applications](https://arxiv.org/abs/2504.16081) (2025-04-22)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/Eyeline-Research/Survey-Video-Diffusion)
+
++ [Exploring the Evolution of Physics Cognition in Video Generation: A Survey](https://arxiv.org/abs/2503.21765) (2025-03-27)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/minnie-lin/Awesome-Physics-Cognition-based-Video-Generation)
+
++ [Generative Physical AI in Vision: A Survey](https://arxiv.org/abs/2501.10928) (2025-01-19)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/BestJunYu/Awesome-Physics-aware-Generation)
+
++ [Joint Perception and Prediction for Autonomous Driving: A Survey](https://arxiv.org/abs/2412.14088) (2024-12-18)
+
++ [Exploring the Interplay Between Video Generation and World Models in Autonomous Driving: A Survey](https://arxiv.org/abs/2411.02914) (2024-11-05)
+
++ [From Sora What We Can See: A Survey of Text-to-Video Generation](https://arxiv.org/abs/2405.10674) (2024-05-17)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/soraw-ai/Awesome-Text-to-Video-Generation)
+
++ [Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond](https://arxiv.org/abs/2405.03520) (2024-05-06)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/GigaAI-research/General-World-Models-Survey)
+
++ [Video Diffusion Models: A Survey](https://arxiv.org/abs/2405.03150) (2024-05-06)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/ndrwmlnk/Awesome-Video-Diffusion-Models)
+
++ [Sora as an AGI World Model? A Complete Survey on Text-to-Video Generation](https://arxiv.org/abs/2403.05131) (2024-03-08)
+
++ [World Models for Autonomous Driving: An Initial Survey](https://arxiv.org/abs/2403.02622) (2024-03-05)
+
++ [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://arxiv.org/abs/2402.17177) (2024-02-27)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/lichao-sun/SoraReview)
+
++ [A Survey on Video Diffusion Models](https://arxiv.org/abs/2310.10647) (2023-10-16)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/ChenHsing/Awesome-Video-Diffusion-Models)
+
++ [Video Generative Adversarial Networks: A Review](https://arxiv.org/abs/2011.02250) (2020-11-04)
 
 <a name="6.2."></a>
-## 6.2 Position
+## 6.2 Position & Perspective
 
 + [General agents need world models](https://arxiv.org/abs/2506.01622) (2025-06-02)
 
 + [Position: Interactive Generative Video as Next-Generation Game Engine](https://arxiv.org/abs/2503.17359) (2025-03-21)
+
++ [How Far is Video Generation from World Model: A Physical Law Perspective](https://arxiv.org/abs/2411.02385) (2024-11-04)
+[![Code](https://img.shields.io/github/stars/phyworld/phyworld.svg?style=social&label=Official)](https://github.com/phyworld/phyworld)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://phyworld.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/magicr/phyworld)
+
++ [A Path Towards Autonomous Machine Intelligence Version](https://openreview.net/pdf?id=BZ5a1r-kVsf) (2022-06-07)
