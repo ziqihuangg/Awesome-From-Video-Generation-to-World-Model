@@ -311,7 +311,7 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/IGLICT/SketchVideo.svg?style=social&label=Official)](https://github.com/IGLICT/SketchVideo)
 [![Website](https://img.shields.io/badge/Website-9cf)](http://geometrylearning.com/SketchVideo/)
 
-+ [Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions](\https://arxiv.org/abs/2401.01827) (2024-01-03)
++ [Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions](https://arxiv.org/abs/2401.01827) (2024-01-03)
 [![Code](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Official)](https://github.com/salesforce/LAVIS)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Moonshot/)
 
