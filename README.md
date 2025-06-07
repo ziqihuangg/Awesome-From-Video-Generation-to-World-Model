@@ -360,6 +360,11 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://vita-group.github.io/Diffusion4D/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/hw-liang/Diffusion4D)
 
++ [VideoMV: Consistent Multi-View Generation Based on Large Video Generative Model](https://arxiv.org/abs/2403.12010) (2024-03-18)
+[![Code](https://img.shields.io/github/stars/alibaba/VideoMV.svg?style=social&label=Official)](https://github.com/alibaba/VideoMV)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://aigc3d.github.io/VideoMV/)
+
+
 + [SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion](https://arxiv.org/abs/2403.12008) (2024-03-18)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://sv3d.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/stabilityai/sv3d)
