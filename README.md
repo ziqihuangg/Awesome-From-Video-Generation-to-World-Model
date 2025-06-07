@@ -671,6 +671,7 @@ This repository is updated periodically. If you have suggestions for additional 
 ### 2.3.4 Action Navigation World Model
 
 + [DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers](https://arxiv.org/abs/2412.18607) (2024-12-24)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://rogerchern.github.io/DrivingGPT/)
 
 + [InfinityDrive: Breaking Time Limits in Driving World Models](https://arxiv.org/abs/2412.01522) (2024-12-02)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html)
