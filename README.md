@@ -43,9 +43,10 @@ This repository is updated periodically. If you have suggestions for additional 
     - [2.1.1 Geometry Prior World Model](#2.1.1.)
     - [2.1.2 3D Prior World Model](#2.1.2.)
     - [2.1.3 Physical Prior World Model](#2.1.3.)
-    - [2.1.4 Trajectory Navigation World Model](#2.1.5.)
-    - [2.1.5 Camera Motion Navigation World Model](#2.1.6.)
-    - [2.1.6 Internal Interaction World Model](#2.1.7.)
+    - [2.1.4 Trajectory Navigation World Model](#2.1.4.)
+    - [2.1.5 Camera Motion Navigation World Model](#2.1.5.)
+    - [2.1.6 Instruction Navigation World Model](#2.1.6.)
+    - [2.1.7 Internal Interaction World Model](#2.1.7.)
 
   - [2.2 Video Generation as World Model in Robotics](#2.2.)
     - [2.2.1 Action Navigation World Model](#2.2.1.)
@@ -452,7 +453,23 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TencentARC/MotionCtrl)
 
 <a name="2.1.6."></a>
-### 2.1.6 Internal Interaction  World Model
+### 2.1.6 Instruction Navigation World Model
++ [SlowFast-VGen: Slow-Fast Learning for Action-driven Long Video Generation](https://arxiv.org/abs/2410.23277) (2024-10-30) 
+[![Code (to be released)](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen.svg?style=social&label=Official)](https://github.com/slowfast-vgen/slowfast-vgen)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://slowfast-vgen.github.io/) 
+
++ [Pandora: Towards general world model with natural language actions and video states](https://arxiv.org/abs/2406.09455) (2024-06-12) 
+[![Code](https://img.shields.io/github/stars/maitrix-org/Pandora.svg?style=social&label=Official)](https://github.com/maitrix-org/Pandora)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://world-model.maitrix.org/) 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/maitrix-org/Pandora)
+
++ [WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens](https://arxiv.org/abs/2401.09985) (2024-01-18) 
+[![Code](https://img.shields.io/github/stars/JeffWang987/WorldDreamer.svg?style=social&label=Official)](https://github.com/JeffWang987/WorldDreamer)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://world-dreamer.github.io/)
++ [Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2304.08818) (2023-04-18) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
+<a name="2.1.7."></a>
+### 2.1.7 Internal Interaction  World Model
 
 + [Introducing Multiverse: The First AI Multiplayer World Model](https://enigma-labs.io/blog) (2025-05-08)
 [![Code](https://img.shields.io/github/stars/EnigmaLabsAI/multiverse.svg?style=social&label=Official)](https://github.com/EnigmaLabsAI/multiverse)
@@ -508,10 +525,6 @@ This repository is updated periodically. If you have suggestions for additional 
 + [NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants](https://arxiv.org/abs/2502.13894) (2025-02-19) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://21styouth.github.io/NavigateDiff/) 
 
-+ [SlowFast-VGen: Slow-Fast Learning for Action-driven Long Video Generation](https://arxiv.org/abs/2410.23277) (2024-10-30) 
-[![Code (to be released)](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen.svg?style=social&label=Official)](https://github.com/slowfast-vgen/slowfast-vgen)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://slowfast-vgen.github.io/) 
-
 + [EVA: An Embodied World Model for Future Video Anticipation](https://arxiv.org/abs/2410.15461) (2024-10-20)
   
 + [VideoAgent: Self-Improving Video Generation](https://arxiv.org/abs/2410.10076) (2024-10-14) 
@@ -519,10 +532,6 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://video-as-agent.github.io/)
 
 
-+ [Pandora: Towards general world model with natural language actions and video states](https://arxiv.org/abs/2406.09455) (2024-06-12) 
-[![Code](https://img.shields.io/github/stars/maitrix-org/Pandora.svg?style=social&label=Official)](https://github.com/maitrix-org/Pandora)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://world-model.maitrix.org/) 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/maitrix-org/Pandora)
 
 
 + [COMBO: Compositional World Models for Embodied Multi-Agent Cooperation](https://arxiv.org/abs/2404.10775) (2024-04-16) 
@@ -625,27 +634,12 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="2.3.2."></a>
 ### 2.3.2 Instruction Navigation World Model
 
-+ [SlowFast-VGen: Slow-Fast Learning for Action-driven Long Video Generation](https://arxiv.org/abs/2410.23277) (2024-10-30) 
-[![Code (to be released)](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen.svg?style=social&label=Official)](https://github.com/slowfast-vgen/slowfast-vgen)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://slowfast-vgen.github.io/) 
-
-+ [Pandora: Towards general world model with natural language actions and video states](https://arxiv.org/abs/2406.09455) (2024-06-12) 
-[![Code](https://img.shields.io/github/stars/maitrix-org/Pandora.svg?style=social&label=Official)](https://github.com/maitrix-org/Pandora)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://world-model.maitrix.org/) 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/maitrix-org/Pandora)
-
 + [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845) (2024-03-11)
 [![Code](https://img.shields.io/github/stars/f1yfisher/DriveDreamer2.svg?style=social&label=Official)](https://github.com/f1yfisher/DriveDreamer2)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://drivedreamer2.github.io/)
 
-+ [WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens](https://arxiv.org/abs/2401.09985) (2024-01-18) 
-[![Code](https://img.shields.io/github/stars/JeffWang987/WorldDreamer.svg?style=social&label=Official)](https://github.com/JeffWang987/WorldDreamer)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://world-dreamer.github.io/)
 
 + [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/abs/2311.13549) (2023-11-22) 
-
-+ [Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2304.08818) (2023-04-18) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
 
 <a name="2.3.3."></a>
 ### 2.3.3 Trajectory Navigation World Model
