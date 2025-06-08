@@ -572,6 +572,10 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-predict1/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/nvidia/cosmos-predict1-67c9d1b97678dbf7669c89a7)
 
++ [Prediction with Action: Visual Policy Learning via Joint Denoising Process](https://arxiv.org/abs/2411.18179) (2024-11-27)
+[![Code](https://img.shields.io/github/stars/Robert-gyj/Prediction_with_Action.svg?style=social&label=Official)](https://github.com/Robert-gyj/Prediction_with_Action)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/pad-paper)
+
 + [IRASim: Learning Interactive Real-Robot Action Simulators](https://arxiv.org/abs/2406.14540) (2024-06-20)
 [![Code](https://img.shields.io/github/stars/bytedance/IRASim.svg?style=social&label=Official)](https://github.com/bytedance/IRASim)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gen-irasim.github.io/)
