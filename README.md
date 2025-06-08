@@ -225,9 +225,6 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [VAST 1.0: A Unified Framework for Controllable and Consistent Video Generation](https://arxiv.org/abs/2412.16677) (2024-12-21)
 
-
-
-
 + [Allegro: Open the black box of commercial-level video generation model](https://arxiv.org/abs/2410.15458) (2024-10-20)
 [![Code](https://img.shields.io/github/stars/rhymes-ai/Allegro.svg?style=social&label=Official)](https://github.com/rhymes-ai/Allegro)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://rhymes.ai/allegro_gallery)
@@ -272,12 +269,6 @@ This repository is updated periodically. If you have suggestions for additional 
 + [StreamingT2V: Consistent, Dynamic, and Extendable Long Video Generation from Text](https://arxiv.org/abs/2403.14773) (2024-03-21) 
 [![Code](https://img.shields.io/github/stars/Picsart-AI-Research/StreamingT2V.svg?style=social&label=Official)](https://github.com/Picsart-AI-Research/StreamingT2V)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://streamingt2v.github.io/) 
-
-
-+ [Pandora: Towards general world model with natural language actions and video states](https://arxiv.org/abs/2406.09455) (2024-06-12) 
-[![Code](https://img.shields.io/github/stars/maitrix-org/Pandora.svg?style=social&label=Official)](https://github.com/maitrix-org/Pandora)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://world-model.maitrix.org/) 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/maitrix-org/Pandora)
 
 + [VideoPoet: A Large Language Model for Zero-Shot Video Generation](https://arxiv.org/abs/2312.14125) (2023-12-21) 
 [![Website](https://img.shields.io/badge/Website-9cf)](http://sites.research.google/videopoet/)
@@ -394,6 +385,11 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://eyeline-research.github.io/Go-with-the-Flow/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Eyeline-Research/Go-with-the-Flow/tree/main)
 
++ [3DTrajMaster: Mastering 3D Trajectory for Multi-Entity Motion in Video Generation](https://arxiv.org/abs/2412.07759) (2024-12-10)
+[![Code](https://img.shields.io/github/stars/KwaiVGI/3DTrajMaster.svg?style=social&label=Official)](https://github.com/KwaiVGI/3DTrajMaster)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://fuxiao0719.github.io/projects/3dtrajmaster/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/KwaiVGI/3DTrajMaster)
+
 + [Motion Prompting: Controlling Video Generation with Motion Trajectories](https://arxiv.org/abs/2412.02700) (2024-12-03)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://motion-prompting.github.io/)
 
@@ -409,6 +405,16 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/liyaowei-stu/ImageConductor.svg?style=social&label=Official)](https://github.com/liyaowei-stu/ImageConductor)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://liyaowei-stu.github.io/project/ImageConductor/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TencentARC/ImageConductor)
+
++ [DragAnything: Motion Control for Anything using Entity Representation](https://arxiv.org/abs/2403.07420) (2024-03-12)
+[![Code](https://img.shields.io/github/stars/showlab/DragAnything.svg?style=social&label=Official)](https://github.com/showlab/DragAnything)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://weijiawu.github.io/draganything_page/)
+
+
++ [InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions](https://arxiv.org/abs/2402.03040) (2024-02-05)
+[![Code](https://img.shields.io/github/stars/invictus717/InteractiveVideo.svg?style=social&label=Official)](https://github.com/invictus717/InteractiveVideo)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://invictus717.github.io/InteractiveVideo/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Yiyuan/InteractiveVideo)
 
 + [Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion](https://arxiv.org/abs/2402.03162) (2024-02-05)
 [![Code](https://img.shields.io/github/stars/ysy31415/direct_a_video.svg?style=social&label=Official)](https://github.com/ysy31415/direct_a_video)
