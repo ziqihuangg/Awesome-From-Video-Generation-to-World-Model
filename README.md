@@ -464,10 +464,6 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://eyeline-research.github.io/Go-with-the-Flow/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Eyeline-Research/Go-with-the-Flow/tree/main)
 
-+ [GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking](https://arxiv.org/abs/2501.02690) (2025-01-05)
-[![Code (to be released)](https://img.shields.io/github/stars/wkbian/GS-DiT.svg?style=social&label=Official)](https://github.com/wkbian/GS-DiT)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://wkbian.github.io/Projects/GS-DiT/)
-
 + [AKiRa: Augmentation Kit on Rays for optical video generation](https://arxiv.org/abs/2412.14158) (2024-12-18)
 [![Code (to be released)](https://img.shields.io/github/stars/Triocrossing/AKiRa.svg?style=social&label=Official)](https://github.com/Triocrossing/AKiRa)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://www.lix.polytechnique.fr/vista/projects/2024_akira_wang/)
@@ -476,17 +472,6 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code (to be released)](https://img.shields.io/github/stars/KwaiVGI/SynCamMaster.svg?style=social&label=Official)](https://github.com/KwaiVGI/SynCamMaster)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://jianhongbai.github.io/SynCamMaster/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/SynCamVideo-Dataset)
-
-
-+ [Image Conductor: Precision Control for Interactive Video Synthesis](https://arxiv.org/abs/2406.15339) (2024-06-21)
-[![Code](https://img.shields.io/github/stars/liyaowei-stu/ImageConductor.svg?style=social&label=Official)](https://github.com/liyaowei-stu/ImageConductor)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://liyaowei-stu.github.io/project/ImageConductor/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TencentARC/ImageConductor)
-
-+ [MotionCtrl: A Unified and Flexible Motion Controller for Video Generation](https://arxiv.org/abs/2312.03641) (2023-12-06)
-[![Code](https://img.shields.io/github/stars/TencentARC/MotionCtrl.svg?style=social&label=Official)](https://github.com/TencentARC/MotionCtrl)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://wzhouxiff.github.io/projects/MotionCtrl/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TencentARC/MotionCtrl)
 
 <a name="2.1.6."></a>
 ### 2.1.6 Instruction Navigation World Model
