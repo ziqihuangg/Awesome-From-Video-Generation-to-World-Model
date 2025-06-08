@@ -497,7 +497,7 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/CollaborativeVideoDiffusion/CVD.svg?style=social&label=Official)](https://github.com/CollaborativeVideoDiffusion/CVD)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://collaborativevideodiffusion.github.io/)
 
-+ [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](https://arxiv.org/abs/2404.02101) (2024-05-23)
++ [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](hhttps://arxiv.org/abs/2405.14868) (2024-05-23)
 [![Code](https://img.shields.io/github/stars/basilevh/gcd.svg?style=social&label=Official)](https://github.com/basilevh/gcd)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gcd.cs.columbia.edu/)
 
