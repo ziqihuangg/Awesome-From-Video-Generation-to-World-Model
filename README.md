@@ -549,6 +549,8 @@ This repository is updated periodically. If you have suggestions for additional 
 ## 2.2 Video Generation as World Model in Robotics
 <a name="2.2.1."></a>
 ### 2.2.1 Action Navigation World Model
++ [Consistent World Models via Foresight Diffusion](https://arxiv.org/abs/2505.16474) (2025-05-22)
+
 + [Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control](https://arxiv.org/abs/2503.14492) (2025-03-18)
 [![Code](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-transfer1.svg?style=social&label=Official)](https://github.com/nvidia-cosmos/cosmos-transfer1)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-transfer1/)
