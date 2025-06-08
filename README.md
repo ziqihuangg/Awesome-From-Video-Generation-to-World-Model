@@ -46,7 +46,8 @@ This repository is updated periodically. If you have suggestions for additional 
     - [2.1.4 Trajectory Navigation World Model](#2.1.4.)
     - [2.1.5 Camera Motion Navigation World Model](#2.1.5.)
     - [2.1.6 Instruction Navigation World Model](#2.1.6.)
-    - [2.1.7 Internal Interaction World Model](#2.1.7.)
+    - [2.1.7 Action Navigation World Model](#2.1.7.)
+    - [2.1.8 Internal Interaction World Model](#2.1.8.)
 
   - [2.2 Video Generation as World Model in Robotics](#2.2.)
     - [2.2.1 Action Navigation World Model](#2.2.1.)
@@ -484,13 +485,21 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-model.maitrix.org/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/maitrix-org/Pandora)
 
+
+<a name="2.1.7."></a>
+### 2.1.7 Action Navigation World Model
++ [Aether: Geometric-Aware Unified World Modeling](https://arxiv.org/abs/2503.18945) (2025-03-24) 
+[![Code](https://img.shields.io/github/stars/OpenRobotLab/Aether.svg?style=social&label=Official)](https://github.com/OpenRobotLab/Aether)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://aether-world.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/AetherWorldModel/AetherV1)
+
 + [WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens](https://arxiv.org/abs/2401.09985) (2024-01-18) 
 [![Code](https://img.shields.io/github/stars/JeffWang987/WorldDreamer.svg?style=social&label=Official)](https://github.com/JeffWang987/WorldDreamer)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-dreamer.github.io/)
-+ [Align your Latents: High-Resolution Video Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2304.08818) (2023-04-18) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/VideoLDM/)
-<a name="2.1.7."></a>
-### 2.1.7 Internal Interaction  World Model
+
+
+<a name="2.1.8."></a>
+### 2.1.8 Internal Interaction World Model
 
 + [Introducing Multiverse: The First AI Multiplayer World Model](https://enigma-labs.io/blog) (2025-05-08)
 [![Code](https://img.shields.io/github/stars/EnigmaLabsAI/multiverse.svg?style=social&label=Official)](https://github.com/EnigmaLabsAI/multiverse)
@@ -896,6 +905,11 @@ This repository is updated periodically. If you have suggestions for additional 
 ## 3.1 Macroscopic Scale Planning World Model
 <a name="3.2."></a>
 ## 3.2 Mesoscopic Scale Planning World Model
+
++ [Aether: Geometric-Aware Unified World Modeling](https://arxiv.org/abs/2503.18945) (2025-03-24) 
+[![Code](https://img.shields.io/github/stars/OpenRobotLab/Aether.svg?style=social&label=Official)](https://github.com/OpenRobotLab/Aether)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://aether-world.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/AetherWorldModel/AetherV1)
 
 + [Navigation World Models](https://arxiv.org/abs/2412.03572) (2024-12-04)
 [![Code](https://img.shields.io/github/stars/facebookresearch/nwm.svg?style=social&label=Official)](https://github.com/facebookresearch/nwm/)
