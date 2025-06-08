@@ -446,6 +446,9 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](https://arxiv.org/abs/2506.03141) (2025-06-03)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://context-as-memory.github.io/)
 
++ [TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation](https://arxiv.org/abs/2504.08181) (2025-04-11)
+
+
 + [FullDiT: Multi-Task Video Generative Foundation Model with Full Attention](https://arxiv.org/abs/2503.19907) (2025-03-25)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://fulldit.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/FullBench)
@@ -473,6 +476,40 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code (to be released)](https://img.shields.io/github/stars/KwaiVGI/SynCamMaster.svg?style=social&label=Official)](https://github.com/KwaiVGI/SynCamMaster)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://jianhongbai.github.io/SynCamMaster/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/SynCamVideo-Dataset)
+
++ [AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers](https://arxiv.org/abs/2411.18673) (2024-11-27)
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Official)](https://github.com/snap-research/ac3d)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/ac3d/)
+
++ [ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning](https://arxiv.org/abs/2411.05003) (2024-11-07)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://generative-video-camera-controls.github.io/)
+
++ [Cavia: Camera-controllable Multi-view Video Diffusion with View-Integrated Attention](https://arxiv.org/abs/2410.10774) (2024-10-14)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://ir1d.github.io/Cavia/)
+
++ [VD3D: Taming Large Video Diffusion Transformers for 3D Camera Control](https://arxiv.org/abs/2407.12781) (2024-07-17)
+[![Code](https://img.shields.io/github/stars/snap-research/vd3d.svg?style=social&label=Official)](https://github.com/snap-research/vd3d)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/vd3d/)
+
+
++ [Training-free Camera Control for Video Generation](https://arxiv.org/abs/2406.10126) (2024-06-14)
+
++ [CamCo: Camera-Controllable 3D-Consistent Image-to-Video Generation](https://arxiv.org/abs/2406.02509) (2024-06-04)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://ir1d.github.io/CamCo/)
+
++ [Collaborative Video Diffusion: Consistent Multi-video Generation with Camera Control](https://arxiv.org/abs/2405.17414) (2024-05-27)
+[![Code](https://img.shields.io/github/stars/CollaborativeVideoDiffusion/CVD.svg?style=social&label=Official)](https://github.com/CollaborativeVideoDiffusion/CVD)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://collaborativevideodiffusion.github.io/)
+
++ [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](https://arxiv.org/abs/2404.02101) (2024-05-23)
+[![Code](https://img.shields.io/github/stars/basilevh/gcd.svg?style=social&label=Official)](https://github.com/basilevh/gcd)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://gcd.cs.columbia.edu/)
+
+
++ [CameraCtrl: Enabling Camera Control for Text-to-Video Generation](https://arxiv.org/abs/2404.02101) (2024-04-02)
+[![Code](https://img.shields.io/github/stars/hehao13/CameraCtrl.svg?style=social&label=Official)](https://github.com/hehao13/CameraCtrl)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://hehao13.github.io/projects-CameraCtrl/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/hehao13/CameraCtrl/tree/main)
 
 <a name="2.1.6."></a>
 ### 2.1.6 Instruction Navigation World Model
