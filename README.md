@@ -53,7 +53,7 @@ This repository is updated periodically. If you have suggestions for additional 
     - [2.2.1 Action Navigation World Model](#2.2.1.)
     - [2.2.2 Instruction Navigation World Model](#2.2.2.)
     - [2.2.3 Goal Navigation World Model](#2.2.3.)
-    - [2.2.4 Other Navigation World Model](#2.2.4.)
+    - [2.2.4 Hybrid Navigation World Model](#2.2.4.)
   
   - [2.3 Video Generation as World Model in Autonomous Driving](#2.3.)
     - [2.3.1 Layout Prior World Model](#2.3.1.)
@@ -642,19 +642,18 @@ This repository is updated periodically. If you have suggestions for additional 
 
 
 <a name="2.2.4."></a>
-### 2.2.4 Other Navigation World Model
+### 2.2.4 Hybrid Navigation World Model
 
-+ [TASTE-Rob: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation](https://arxiv.org/abs/2503.11423) (2025-03-14) 
-[![Code](https://img.shields.io/github/stars/GAP-LAB-CUHK-SZ/TASTE-Rob.svg?style=social&label=Official)](https://github.com/GAP-LAB-CUHK-SZ/TASTE-Rob)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://taste-rob.github.io/)
-
-+ [This&That: Language-Gesture Controlled Video Generation for Robot Planning](https://arxiv.org/abs/2407.05530) (2024-07-08) 
-[![Code](https://img.shields.io/github/stars/Kiteretsu77/This_and_That_VDM.svg?style=social&label=Official)](https://github.com/Kiteretsu77/This_and_That_VDM)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://cfeng16.github.io/this-and-that/) 
++ [VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation](https://arxiv.org/abs/2411.09153) (2024-11-14) 
 
 + [RoboDreamer: Learning Compositional World Models for Robot Imagination](https://arxiv.org/abs/2404.12377) (2024-04-18) 
 [![Code](https://img.shields.io/github/stars/rainbow979/robodreamer.svg?style=social&label=Official)](https://github.com/rainbow979/robodreamer)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://robovideo.github.io/) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://robovideo.github.io/)
+
+
++ [Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation](https://arxiv.org/abs/2312.13139) (2023-12-20) 
+[![Code](https://img.shields.io/github/stars/bytedance/GR-1.svg?style=social&label=Official)](https://github.com/bytedance/GR-1)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://gr1-manipulation.github.io/) 
 
 <a name="2.3."></a>
 ## 2.3. Video Generation as World Model in Autonomous Driving
