@@ -65,13 +65,9 @@ This repository is updated periodically. If you have suggestions for additional 
 
       
   - [2.4 Video Generation as World Model in Gaming](#2.4.)
-    - [2.4.1 Game Controller Navigation World Model](#2.4.1.)
-    - [2.4.2 Keyboard Navigation World Model](#2.4.2.)
-    - [2.4.3 Keyboard & Mouse Navigation World Model](#2.4.3.)
-    - [2.4.4 Action Trajectory Navigation World Model](#2.4.4.)
-    - [2.4.5 Signal Command Navigation World Model](#2.4.5.)
-    - [2.4.6 Multiple Navigation World Model](#2.4.6.)
-    - [2.4.7 Other Navigation World Model](#2.4.7.)
+    - [2.4.1 Controller Navigation World Model](#2.4.1.)
+    - [2.4.2 Action World Model](#2.4.2.)
+    - [2.4.3 Hybrid Navigation World Model](#2.4.3.)
     
 - [3. Generation 3: Planning - Modeling the Future Evolution of Complex Systems](#3.)
   - [3.1 Macroscopic Scale Planning World Model](#3.1.)
@@ -879,13 +875,9 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/eloialonso/diamond.svg?style=social&label=Official)](https://github.com/eloialonso/diamond)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://diamond-wm.github.io/)
 
-<a name="2.4.4."></a>
-### 2.4.4 Action Trajectory Navigation World Model
 
-+ [Pre-Trained Video Generative Models as World Simulators](https://arxiv.org/abs/2502.07825) (2025-02-10)
-
-<a name="2.4.5."></a>
-### 2.4.5 Signal Command Navigation World Model
+<a name="2.4.2."></a>
+### 2.4.2 Action Navigation World Model
 
 + [WORLDMEM: Long-term Consistent World Simulation with Memory](https://arxiv.org/abs/2504.12369) (2025-04-16)
 [![Code](https://img.shields.io/github/stars/xizaoqu/WorldMem.svg?style=social&label=Official)](https://github.com/xizaoqu/WorldMem)
@@ -919,8 +911,11 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Recurrent Environment Simulators](https://arxiv.org/abs/1704.02254) (2017-04-07)
 
 
-<a name="2.4.6."></a>
-### 2.4.6 Multiple Navigation World Model
+<a name="2.4.3."></a>
+### 2.4.3 Hybrid Navigation World Model
++ [AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938) (2025-03-24)
+[![Code](https://img.shields.io/github/stars/Little-Podi/AdaWorld.svg?style=social&label=Official)](https://github.com/Little-Podi/AdaWorld)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://adaptable-world-model.github.io/)
 
 + [Promptable Game Models: Text-Guided Game Simulation via Masked Diffusion Models](https://arxiv.org/abs/2303.13472) (2023-03-23)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/promptable-game-models/)
@@ -931,12 +926,6 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-environments-website/)
 
 
-<a name="2.4.7."></a>
-### 2.4.7 Other Navigation World Model
-
-+ [AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938) (2025-03-24)
-[![Code](https://img.shields.io/github/stars/Little-Podi/AdaWorld.svg?style=social&label=Official)](https://github.com/Little-Podi/AdaWorld)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://adaptable-world-model.github.io/)
 
 
 <a name="3."></a>
