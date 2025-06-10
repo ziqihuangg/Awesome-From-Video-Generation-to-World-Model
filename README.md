@@ -812,6 +812,11 @@ This repository is updated periodically. If you have suggestions for additional 
 ## 2.4 Video Generation as World Model in Gaming
 <a name="2.4.1."></a>
 ### 2.4.1 Game Controller Navigation World Model
++ [WORLDMEM: Long-term Consistent World Simulation with Memory](https://arxiv.org/abs/2504.12369) (2025-04-16)
+[![Code](https://img.shields.io/github/stars/xizaoqu/WorldMem.svg?style=social&label=Official)](https://github.com/xizaoqu/WorldMem)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://xizaoqu.github.io/worldmem/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/yslan/worldmem)
+
 
 + [MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft](https://arxiv.org/abs/2504.08388) (2025-04-11)
 [![Code](https://img.shields.io/github/stars/microsoft/MineWorld.svg?style=social&label=Official)](https://github.com/microsoft/MineWorld)
@@ -875,10 +880,7 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="2.4.2."></a>
 ### 2.4.2 Action Navigation World Model
 
-+ [WORLDMEM: Long-term Consistent World Simulation with Memory](https://arxiv.org/abs/2504.12369) (2025-04-16)
-[![Code](https://img.shields.io/github/stars/xizaoqu/WorldMem.svg?style=social&label=Official)](https://github.com/xizaoqu/WorldMem)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://xizaoqu.github.io/worldmem/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/yslan/worldmem)
+
 
 + [Transformer-based World Models Are Happy With 100k Interactions](https://arxiv.org/abs/2303.07109) (2023-03-13)
 [![Code](https://img.shields.io/github/stars/jrobine/twm.svg?style=social&label=Official)](https://github.com/jrobine/twm)
