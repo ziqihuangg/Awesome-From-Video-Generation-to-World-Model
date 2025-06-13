@@ -91,6 +91,8 @@ This repository is updated periodically. If you have suggestions for additional 
 ## 1.1 Video Foundation Models
 |     Date     | Venue | Acronym | Paper | Project | Repo@GitHub | 
 |--------------|-------|---------|-------|---------|-------------|
+| 2025-05-19 | Arxiv | MAGI-1 | [MAGI-1: Autoregressive Video Generation at Scale](https://arxiv.org/abs/2505.13211) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sand.ai/) | [![Code](https://img.shields.io/github/stars/SandAI-org/MAGI-1.svg?style=social&label=Official)](https://github.com/SandAI-org/MAGI-1) |
+
 | 2025-04-01 |  | Step-Video-T2V |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/introducing-runway-gen-4) |  |
 | 2025-03-26 | Arxiv | Wan2.1 | [Wan: Open and Advanced Large-Scale Video Generative Models](https://arxiv.org/abs/2503.20314) | [![Website](https://img.shields.io/badge/Website-9cf)](https://wan.video/) | [![Code](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social&label=Official)](https://github.com/Wan-Video/Wan2.1) |
 | 2025-03-25 | Arxiv | AccVideo | [AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset](https://arxiv.org/abs/2503.19462) | [![Website](https://img.shields.io/badge/Website-9cf)](https://aejion.github.io/accvideo/) | [![Code](https://img.shields.io/github/stars/aejion/AccVideo.svg?style=social&label=Official)](https://github.com/aejion/AccVideo) |
