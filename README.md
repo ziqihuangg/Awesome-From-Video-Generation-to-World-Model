@@ -128,8 +128,13 @@ This repository is updated periodically. If you have suggestions for additional 
 | 2023-12-19 | CVPR24 | InstructVideo | [InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://arxiv.org/abs/2312.12490)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://instructvideo.github.io/) | [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen) |
 | 2023-12-07 | Arxiv | HiGen | [Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation](https://arxiv.org/abs/2312.04483)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://higen-t2v.github.io/) | [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen) |
 | 2023-11-25 | Arxiv | SVD | [Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets](https://arxiv.org/abs/2311.15127) |  | [![Code](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Official)](https://github.com/Stability-AI/generative-models) |
-| 2023-10-30 | Arxiv | VideoCrafter1 | [Videocrafter1: Open diffusion models for high-quality video generation](https://arxiv.org/abs/2310.19512) |  | [![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Official)](https://github.com/AILab-CVC/VideoCrafter) |
-| 2023-09-27 | IJCV24 | Show-1 | [Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video ](https://arxiv.org/abs/2309.15818) | [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Show-1/) | [![Code](https://img.shields.io/github/stars/showlab/Show-1.svg?style=social&label=Official)](https://github.com/showlab/Show-1)
+| 2023-11-07 | Arxiv | I2VGen-XL | [I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models](https://arxiv.org/abs/2311.04145) |  | [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen) |
+| 2023-10-31 | ICLR24 | SEINE |  [SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction](https://arxiv.org/abs/2310.20700)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/SEINE-project/) 
+ | [![Code](https://img.shields.io/github/stars/Vchitect/SEINE.svg?style=social&label=Official)](https://github.com/Vchitect/SEINE) |
+style=social&label=Official)](https://github.com/Stability-AI/generative-models) |
+| 2023-10-30 | Arxiv | VideoCrafter1 | [Videocrafter1: Open diffusion models for high-quality video generation](https://arxiv.org/abs/2310.19512) | [![Website](https://img.shields.io/badge/Website-9cf)](https://i2vgen-xl.github.io/)  | [![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Official)](https://github.com/AILab-CVC/VideoCrafter) |
+| 2023-10-18 | ECCV24 | DynamiCrafter |  [DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors](https://arxiv.org/abs/2310.12190) | [![Website](https://img.shields.io/badge/Website-9cf)](https://doubiiu.github.io/projects/DynamiCrafter)   | [![Code](https://img.shields.io/github/stars/Doubiiu/DynamiCrafter.svg?style=social&label=Official)](https://github.com/Doubiiu/DynamiCrafter) |
+| 2023-09-27 | IJCV24 | Show-1 | [Show-1: Marrying Pixel and Latent Diffusion Models for Text-to-Video ](https://arxiv.org/abs/2309.15818) | [![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Show-1/) | [![Code](https://img.shields.io/github/stars/showlab/Show-1.svg?style=social&label=Official)](https://github.com/showlab/Show-1) |
 | 2023-09-26 | IJCV24 | LaVie | [LAVIE: High-Quality Video Generation with Cascaded Latent Diffusion Models](https://arxiv.org/abs/2309.15103) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/LaVie-project/) | [![Code](https://img.shields.io/github/stars/Vchitect/LaVie.svg?style=social&label=Official)](https://github.com/Vchitect/LaVie) |
 | 2023-08-12 | Arxiv | ModelScope | [ModelScope Text-to-Video Technical Report](https://arxiv.org/abs/2308.06571) | [![Website](https://img.shields.io/badge/Website-9cf)](https://modelscope.cn/models/iic/text-to-video-synthesis/summary) |  |
 | 2023-07-10 | ICLR24 | AnimateDiff | [AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning](https://arxiv.org/abs/2307.04725) | [![Website](https://img.shields.io/badge/Website-9cf)](https://animatediff.github.io/) | [![Code](https://img.shields.io/github/stars/guoyww/AnimateDiff.svg?style=social&label=Official)](https://github.com/guoyww/AnimateDiff) |
@@ -137,16 +142,10 @@ This repository is updated periodically. If you have suggestions for additional 
 | 2023-06-07 |  | Gen-2 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/ai-tools/gen-2/) |  |
 | 2022-05-29 | Arxiv | CogVideo | [CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers](https://arxiv.org/abs/2408.06072) |  | [![Code](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Official)](https://github.com/THUDM/CogVideo) |
 
-
 <a name="1.2."></a>
 ## 1.2 Other Video Generation Models
 <a name="1.2.1."></a>
 ### 1.2.1 U-Net Based Video Generation
-
-+ [GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control](https://arxiv.org/pdf/2412.11198) (2024-12-15) 
-[![Code](https://img.shields.io/github/stars/vita-epfl/GEM.svg?style=social&label=Official)](https://github.com/vita-epfl/GEM)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://vita-epfl.github.io/GEM.github.io/) 
-
 
 + [MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators](https://arxiv.org/abs/2404.05014) (2024-04-07) 
 [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/MagicTime.svg?style=social&label=Official)](https://github.com/PKU-YuanGroup/MagicTime/tree/main)
@@ -156,11 +155,6 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation](https://arxiv.org/abs/2401.04468) (2024-01-09) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://magicvideov2.github.io/) 
-
-
-+ [InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://arxiv.org/abs/2312.12490) (2023-12-19) 
-[![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://instructvideo.github.io/)
 
 + [DreamVideo: Composing Your Dream Videos with Customized Subject and Motion](https://arxiv.org/abs/2312.04433) (2023-12-07) 
 [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
@@ -218,8 +212,6 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Training-Free Efficient Video Generation via Dynamic Token Carving](https://arxiv.org/abs/2505.16864) (2025-05-22)
 [![Code](https://img.shields.io/github/stars/dvlab-research/Jenga.svg?style=social&label=Official)](https://github.com/dvlab-research/Jenga/)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://julianjuaner.github.io/projects/jenga/)
-
-
 
 + [VAST 1.0: A Unified Framework for Controllable and Consistent Video Generation](https://arxiv.org/abs/2412.16677) (2024-12-21)
 
@@ -288,9 +280,16 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="2.1.1."></a>
 ### 2.1.1 Geometry Condition Prior World Model
 
+
+
 + [SketchVideo: Sketch-based Video Generation and Editing](https://arxiv.org/abs/2503.23284) (2025-03-30)
 [![Code](https://img.shields.io/github/stars/IGLICT/SketchVideo.svg?style=social&label=Official)](https://github.com/IGLICT/SketchVideo)
 [![Website](https://img.shields.io/badge/Website-9cf)](http://geometrylearning.com/SketchVideo/)
+
++ [GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control](https://arxiv.org/pdf/2412.11198) (2024-12-15) 
+[![Code](https://img.shields.io/github/stars/vita-epfl/GEM.svg?style=social&label=Official)](https://github.com/vita-epfl/GEM)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://vita-epfl.github.io/GEM.github.io/) 
+
 
 + [Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions](https://arxiv.org/abs/2401.01827) (2024-01-03)
 [![Code](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Official)](https://github.com/salesforce/LAVIS)
