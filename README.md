@@ -657,8 +657,15 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation](https://arxiv.org/abs/2312.13139) (2023-12-20) 
 [![Code](https://img.shields.io/github/stars/bytedance/GR-1.svg?style=social&label=Official)](https://github.com/bytedance/GR-1)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://gr1-manipulation.github.io/) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://gr1-manipulation.github.io/)
 
+ <a name="2.2.5."></a>
+### 2.2.5 Real-time Interactive World Model
++ [Evaluating Robot Policies in a World Model](https://arxiv.org/abs/2506.00613) (2025-05-31) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://world-model-eval.github.io/)
+
++ [Learning Interactive Real-World Simulators](https://arxiv.org/abs/2310.06114) (2023-10-09) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://universal-simulator.github.io/unisim/)
 <a name="2.3."></a>
 ## 2.3. Video Generation as World Model in Autonomous Driving
 
@@ -964,11 +971,8 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="5."></a>
 # 5. Evaluation and Datasets
 
-+ [WorldScore: A Unified Evaluation Benchmark for World Generation](https://arxiv.org/abs/2504.00983) (2025-04-01)
-[![Code](https://img.shields.io/github/stars/haoyi-duan/WorldScore.svg?style=social&label=Official)](https://github.com/haoyi-duan/WorldScore)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://haoyi-duan.github.io/WorldScore/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard)
-
+<a name="5.1."></a>
+## 5.1 Evaluation Metrics of Video Generation
 + [VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness](https://arxiv.org/abs/2503.21755) (2025-03-27)
 [![Code](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Official)](https://github.com/Vchitect/VBench)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/VBench-2.0-project/)
@@ -983,22 +987,10 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://videophy2.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/videophysics/videophy_2_auto)
 
-+ [WorldModelBench: Judging Video Generation Models As World Models](https://arxiv.org/abs/2502.20694) (2025-02-28)
-[![Code](https://img.shields.io/github/stars/WorldModelBench-Team/WorldModelBench.svg?style=social&label=Official)](https://github.com/WorldModelBench-Team/WorldModelBench/)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://worldmodelbench-team.github.io/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/Efficient-Large-Model/worldmodelbench)
-
 + [VBench++: Comprehensive and Versatile Benchmark Suite for Video Generative Models](https://arxiv.org/abs/2411.13503) (2024-11-20)
 [![Code](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Official)](https://github.com/Vchitect/VBench)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/VBench-project/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Vchitect/VBench_Leaderboard)
-
-+ [WorldSimBench: Towards Video Generation Models as World Simulators](https://arxiv.org/abs/2410.18072) (2024-10-23)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://iranqin.github.io/WorldSimBench.github.io/)
-
-+ [Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation](https://arxiv.org/abs/2410.05363) (2024-10-07)
-[![Code](https://img.shields.io/github/stars/OpenGVLab/PhyGenBench.svg?style=social&label=Official)](https://github.com/OpenGVLab/PhyGenBench)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://phygenbench123.github.io/)
 
 + [T2V-CompBench: A Comprehensive Benchmark for Compositional Text-to-video Generation](https://arxiv.org/abs/2407.14505) (2024-07-19)
 [![Code](https://img.shields.io/github/stars/KaiyueSun98/T2V-CompBench.svg?style=social&label=Official)](https://github.com/KaiyueSun98/T2V-CompBench/tree/V2)
@@ -1021,6 +1013,31 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/EvalCrafter/EvalCrafter.svg?style=social&label=Official)](https://github.com/EvalCrafter/EvalCrafter)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://evalcrafter.github.io/)
 [![Hugging Face Leaderboard](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/AILab-CVC/EvalCrafter)
+
+<a name="5.2."></a>
+## 5.2 Evaluation Metrics of World Model
++ [Evaluating Robot Policies in a World Model](https://arxiv.org/abs/2506.00613) (2025-05-31) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://world-model-eval.github.io/)
+
++ [WorldScore: A Unified Evaluation Benchmark for World Generation](https://arxiv.org/abs/2504.00983) (2025-04-01)
+[![Code](https://img.shields.io/github/stars/haoyi-duan/WorldScore.svg?style=social&label=Official)](https://github.com/haoyi-duan/WorldScore)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://haoyi-duan.github.io/WorldScore/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Howieeeee/WorldScore_Leaderboard)
+
++ [WorldModelBench: Judging Video Generation Models As World Models](https://arxiv.org/abs/2502.20694) (2025-02-28)
+[![Code](https://img.shields.io/github/stars/WorldModelBench-Team/WorldModelBench.svg?style=social&label=Official)](https://github.com/WorldModelBench-Team/WorldModelBench/)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://worldmodelbench-team.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/Efficient-Large-Model/worldmodelbench)
++ [WorldSimBench: Towards Video Generation Models as World Simulators](https://arxiv.org/abs/2410.18072) (2024-10-23)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://iranqin.github.io/WorldSimBench.github.io/)
+
++ [Towards World Simulator: Crafting Physical Commonsense-Based Benchmark for Video Generation](https://arxiv.org/abs/2410.05363) (2024-10-07)
+[![Code](https://img.shields.io/github/stars/OpenGVLab/PhyGenBench.svg?style=social&label=Official)](https://github.com/OpenGVLab/PhyGenBench)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://phygenbench123.github.io/)
+
+<a name="5.3."></a>
+## 5.3 Datasets
+
 
 
 <a name="6."></a>
