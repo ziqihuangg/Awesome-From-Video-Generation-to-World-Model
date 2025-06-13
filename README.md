@@ -100,7 +100,6 @@ This repository is updated periodically. If you have suggestions for additional 
 | 2025-01-14 | Arxiv | Vchitect-2.0 | [Vchitect-2.0: Parallel transformer for scaling up video diffusion models](https://arxiv.org/abs/2501.08453) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.intern-ai.org.cn/) | [![Code](https://img.shields.io/github/stars/Vchitect/Vchitect-2.0.svg?style=social&label=Official)](https://github.com/Vchitect/Vchitect-2.0) |
 | 2024-12-30 | Arxiv | LTX-Video | [LTX-Video: Realtime Video Latent Diffusion](https://arxiv.org/abs/2501.00103) | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.lightricks.com/) | [![Code](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Official)](https://github.com/Lightricks/LTX-Video) |
 | 2024-12-29 | Arxiv | Open-Sora |  [Open-sora: Democratizing efficient video production for all](https://arxiv.org/abs/2412.20404)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://hpcaitech.github.io/Open-Sora/) | [![Code](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Official)](https://github.com/hpcaitech/Open-Sora) |
-| 2024-12-10 | CVPR25 | CausVid |  [STIV: Scalable Text and Image Conditioned Video Generation](https://arxiv.org/abs/2412.07730) | [![Website](https://img.shields.io/badge/Website-9cf)](https://huggingface.co/papers/2412.07730) |  |
 | 2024-12-10 | Arxiv | STIV | [From Slow Bidirectional to Fast Autoregressive Video Diffusion Models](https://arxiv.org/abs/2412.07772) | [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/) | [![Code](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Official)](https://github.com/tianweiy/CausVid) |
 | 2024-12-03 | Arxiv | HunyuanVideo | [HunyuanVideo: A Systematic Framework For Large Video Generative Models](https://arxiv.org/abs/2412.03603) | [![Website](https://img.shields.io/badge/Website-9cf)](https://aivideo.hunyuan.tencent.com/) | [![Code](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Official)](https://github.com/Tencent/HunyuanVideo) |
 | 2024-11-28 | Arxiv | Open-Sora Plan | [Open-Sora Plan: Open-Source Large Video Generation Model](https://arxiv.org/abs/2412.00131)  |  | [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Official)](https://github.com/PKU-YuanGroup/Open-Sora-Plan) |
@@ -112,15 +111,12 @@ This repository is updated periodically. If you have suggestions for additional 
 | 2024-06-17 |  | Gen-3 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/ai-tools/gen-3-alpha/) |  |
 | 2024-06-13 |  | Luma |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://lumalabs.ai/dream-machine/) |  |
 | 2024-06-06 |  | Kling |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://klingai.kuaishou.com/) |  |
-| 2024-05-29 | Arxiv | EasyAnimate | [Easyanimate: A high-performance long video generation method based on  transformer architecture](https://arxiv.org/abs/2405.18991) | [![Website](https://img.shields.io/badge/Website-9cf)](https://easyanimate.github.io/) | [![Code](https://img.shields.io/github/stars/aigc-apps/EasyAnimate.svg?style=social&label=Official)](https://github.com/aigc-apps/EasyAnimate) |
+| 2024-05-29 | Arxiv | EasyAnimate | [Easyanimate: A high-performance long video generation method based on transformer architecture](https://arxiv.org/abs/2405.18991) | [![Website](https://img.shields.io/badge/Website-9cf)](https://easyanimate.github.io/) | [![Code](https://img.shields.io/github/stars/aigc-apps/EasyAnimate.svg?style=social&label=Official)](https://github.com/aigc-apps/EasyAnimate) |
 | 2024-05-09 |  | Jimeng |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://jimeng.jianying.com/) |  |
 | 2024-05-07 | Arxiv | Vidu |  [Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator with Diffusion Models](https://arxiv.org/abs/2405.04233) | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.vidu.com/zh) |  |
 | 2024-02-15 |  | Sora | [Video generation models as world simulators](https://openai.com/index/video-generation-models-as-world-simulators/) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sora.com/library) |  |
-| 2024-02-01 | SIGGRAPH24 | AnimateLCM | [AnimateLCM: Computation-Efficient Personalized Style Video Generation without Personalized Video Data](https://arxiv.org/abs/2402.00769)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://animatelcm.github.io/) | [![Code](https://img.shields.io/github/stars/G-U-N/AnimateLCM.svg?style=social&label=Official)](https://github.com/G-U-N/AnimateLCM) |
 | 2024-01-17 | CVPR24 | VideoCrafter2 | [Videocrafter2:Overcoming data limitations for high-quality video diffusion models](https://arxiv.org/abs/2401.09047) | [![Website](https://img.shields.io/badge/Website-9cf)](https://ailab-cvc.github.io/videocrafter2/) | [![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Official)](https://github.com/AILab-CVC/VideoCrafter) |
 | 2024-01-05 | TMLR25 | Latte | [Latte: Latent Diffusion Transformer for Video Generation](https://arxiv.org/abs/2401.03048) | [![Website](https://img.shields.io/badge/Website-9cf)](https://maxin-cn.github.io/latte_project/) | [![Code](https://img.shields.io/github/stars/Vchitect/Latte.svg?style=social&label=Official)](https://github.com/Vchitect/Latte) |
-| 2023-12-25 | Arxiv | TF-T2V | [A Recipe for Scaling up Text-to-Video Generation with Text-free Videos](https://arxiv.org/abs/2312.15770)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://tf-t2v.github.io/) | [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen) |
-| 2023-12-19 | CVPR24 | InstructVideo | [InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://arxiv.org/abs/2312.12490)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://instructvideo.github.io/) | [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen) |
 | 2023-12-07 | Arxiv | HiGen | [Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation](https://arxiv.org/abs/2312.04483)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://higen-t2v.github.io/) | [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen) |
 | 2023-11-25 | Arxiv | SVD | [Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets](https://arxiv.org/abs/2311.15127) |  | [![Code](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Official)](https://github.com/Stability-AI/generative-models) |
 | 2023-11-07 | Arxiv | I2VGen-XL | [I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models](https://arxiv.org/abs/2311.04145) |  | [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen) |
@@ -139,15 +135,27 @@ This repository is updated periodically. If you have suggestions for additional 
 ## 1.2 Other Video Generation Models
 <a name="1.2.1."></a>
 ### 1.2.1 U-Net Based Video Generation
-
 + [MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators](https://arxiv.org/abs/2404.05014) (2024-04-07) 
 [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/MagicTime.svg?style=social&label=Official)](https://github.com/PKU-YuanGroup/MagicTime/tree/main)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/MagicTime/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/BestWishYsh/MagicTime)
 
++ [AnimateLCM: Computation-Efficient Personalized Style Video Generation without Personalized Video Data](https://arxiv.org/abs/2402.00769) (2024-02-01) 
+[![Code](https://img.shields.io/github/stars/G-U-N/AnimateLCM.svg?style=social&label=Official)](https://github.com/G-U-N/AnimateLCM)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://animatelcm.github.io/)
 
 + [MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation](https://arxiv.org/abs/2401.04468) (2024-01-09) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://magicvideov2.github.io/) 
+
+
++ [A Recipe for Scaling up Text-to-Video Generation with Text-free Videos](https://arxiv.org/abs/2312.15770) (2023-12-25) 
+[![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://tf-t2v.github.io/)
+
++ [InstructVideo: Instructing Video Diffusion Models with Human Feedback](https://arxiv.org/abs/2312.12490) (2023-12-19) 
+[![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://instructvideo.github.io/)
+
 
 + [DreamVideo: Composing Your Dream Videos with Customized Subject and Motion](https://arxiv.org/abs/2312.04433) (2023-12-07) 
 [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
@@ -256,9 +264,11 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="1.2.3."></a>
 ### 1.2.3 Autoregressive Based Video Generation
-
 + [Owl-1: Omni World Model for Consistent Long Video Generation](https://arxiv.org/abs/2412.09600) (2024-12-12) 
 [![Code](https://img.shields.io/github/stars/huang-yh/Owl.svg?style=social&label=Official)](https://github.com/huang-yh/Owl)
+
++ [STIV: Scalable Text and Image Conditioned Video Generation](https://arxiv.org/abs/2412.07730) (2024-12-10)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://huggingface.co/papers/2412.07730)
 
 + [DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion](https://arxiv.org/abs/2411.04928) (2024-11-07)
 [![Code](https://img.shields.io/github/stars/wenqsun/DimensionX.svg?style=social&label=Official)](https://github.com/wenqsun/DimensionX)
