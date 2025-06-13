@@ -442,6 +442,7 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](https://arxiv.org/abs/2506.03141) (2025-06-03)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://context-as-memory.github.io/)
 
+
 + [TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation](https://arxiv.org/abs/2504.08181) (2025-04-11)
 
 
@@ -456,6 +457,11 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models](https://arxiv.org/abs/2503.10592) (2025-03-13)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hehao13.github.io/Projects-CameraCtrl-II/)
+
++ [GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control](https://arxiv.org/abs/2503.03751) (2025-03-05)
+[![Code](https://img.shields.io/github/stars/nv-tlabs/GEN3C.svg?style=social&label=Official)](https://github.com/nv-tlabs/GEN3C)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/GEN3C/)
+
 
 + [CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](https://arxiv.org/abs/2502.08639) (2025-02-12)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://cinemaster-dev.github.io/)
