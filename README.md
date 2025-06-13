@@ -94,9 +94,7 @@ This repository is updated periodically. If you have suggestions for additional 
 | 2025-05-19 | Arxiv | MAGI-1 | [MAGI-1: Autoregressive Video Generation at Scale](https://arxiv.org/abs/2505.13211) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sand.ai/) | [![Code](https://img.shields.io/github/stars/SandAI-org/MAGI-1.svg?style=social&label=Official)](https://github.com/SandAI-org/MAGI-1) |
 | 2025-03-31 |  | Gen-4 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/introducing-runway-gen-4) |  |
 | 2025-03-26 | Arxiv | Wan2.1 | [Wan: Open and Advanced Large-Scale Video Generative Models](https://arxiv.org/abs/2503.20314) | [![Website](https://img.shields.io/badge/Website-9cf)](https://wan.video/) | [![Code](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social&label=Official)](https://github.com/Wan-Video/Wan2.1) |
-| 2025-03-25 | Arxiv | AccVideo | [AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset](https://arxiv.org/abs/2503.19462) | [![Website](https://img.shields.io/badge/Website-9cf)](https://aejion.github.io/accvideo/) | [![Code](https://img.shields.io/github/stars/aejion/AccVideo.svg?style=social&label=Official)](https://github.com/aejion/AccVideo) |
 | 2025-03-13 |  | Step-Video-T2V |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://yuewen.cn/videos) |  |
-| 2025-02-04 | Arxiv | IPOC | [IPO: Iterative Preference Optimization for Text-to-Video Generation](https://arxiv.org/abs/2502.02088) | [![Website](https://img.shields.io/badge/Website-9cf)](https://yangxlarge.github.io/ipoc//) | [![Code](https://img.shields.io/github/stars/SAIS-FUXI/IPO.svg?style=social&label=Official)](https://github.com/SAIS-FUXI/IPO) |
 | 2025-01-21 |  | MiracleVision V5 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.miraclevision.com/) |  |
 | 2025-01-15 | Arxiv | RepVideo | [RepVideo: Rethinking Cross-Layer Representation for Video Generation](https://arxiv.org/abs/2501.08994) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/RepVid-Webpage/) | [![Code](https://img.shields.io/github/stars/Vchitect/RepVideo.svg?style=social&label=Official)](https://github.com/Vchitect/RepVideo) |
 | 2025-01-14 | Arxiv | Vchitect-2.0 | [Vchitect-2.0: Parallel trans former for scaling up video diffusion models](https://arxiv.org/abs/2501.08453) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.intern-ai.org.cn/) | [![Code](https://img.shields.io/github/stars/Vchitect/Vchitect-2.0.svg?style=social&label=Official)](https://github.com/Vchitect/Vchitect-2.0) |
@@ -107,16 +105,13 @@ This repository is updated periodically. If you have suggestions for additional 
 | 2024-12-03 | Arxiv | HunyuanVideo | [HunyuanVideo: A Systematic Framework For Large Video Generative Models](https://arxiv.org/abs/2412.03603) | [![Website](https://img.shields.io/badge/Website-9cf)](https://aivideo.hunyuan.tencent.com/) | [![Code](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Official)](https://github.com/Tencent/HunyuanVideo) |
 | 2024-11-28 | Arxiv | Open-Sora Plan | [Open-Sora Plan: Open-Source Large Video Generation Model](https://arxiv.org/abs/2412.00131)  |  | [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Official)](https://github.com/PKU-YuanGroup/Open-Sora-Plan) |
 | 2024-10-22 |  | Mochi-1 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.genmo.ai/blog) | [![Code](https://img.shields.io/github/stars/genmoai/mochi.svg?style=social&label=Official)](https://github.com/genmoai/mochi) |
-| 2024-10-08 | ICLR25 | T2V-Turbo-v2 | [T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design](https://arxiv.org/abs/2410.05677) | [![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo-v2.github.io/) | [![Code](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Official)](https://github.com/Ji4chenLi/t2v-turbo) |
 | 2024-10-01 |  | MiniMax |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://platform.minimaxi.com/) |  |
 | 2024-09-24 |  | JT-CV |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/jiutiancv/JV-CV-T2V) |  |
 | 2024-08-12 | ICLR25 | Cogvideox | [Cogvideox:Text-to-video diffusion models with an expert transformer](https://arxiv.org/abs/2408.06072) |  | [![Code](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Official)](https://github.com/THUDM/CogVideo) |
-| 2024-07-23 |  | Data-Jucier(T2V-turbo) |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://modelscope.cn/models/Data-Juicer/Data-Juicer-T2V) |  |
 | 2024-07-08 | Arxiv | Mira | [MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions](https://arxiv.org/abs/2407.06358v1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://mira-space.github.io/) | [![Code](https://img.shields.io/github/stars/mira-space/MiraData.svg?style=social&label=Official)](https://github.com/mira-space/MiraData) |
 | 2024-06-17 |  | Gen-3 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/ai-tools/gen-3-alpha/) |  |
 | 2024-06-13 |  | Luma |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://lumalabs.ai/dream-machine/) |  |
 | 2024-06-06 |  | Kling |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://klingai.kuaishou.com/) |  |
-| 2024-05-29 | NIPS24 | T2V-turbo | [T2v-turbo: Breaking the quality bottleneck of video consistency model with mixed reward feedback](https://arxiv.org/abs/2405.18750) | [![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo.github.io/) | [![Code](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Official)](https://github.com/Ji4chenLi/t2v-turbo) |
 | 2024-05-29 | Arxiv | EasyAnimate | [Easyanimate: A high-performance long video generation method based on  transformer architecture](https://arxiv.org/abs/2405.18991) | [![Website](https://img.shields.io/badge/Website-9cf)](https://easyanimate.github.io/) | [![Code](https://img.shields.io/github/stars/aigc-apps/EasyAnimate.svg?style=social&label=Official)](https://github.com/aigc-apps/EasyAnimate) |
 | 2024-05-09 |  | Jimeng |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://jimeng.jianying.com/) |  |
 | 2024-05-07 | Arxiv | Vidu |  [Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator with Diffusion Models](https://arxiv.org/abs/2405.04233) | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.vidu.com/zh) |  |
@@ -207,9 +202,19 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="1.2.2."></a>
 ### 1.2.2 DiT Based Video Generation
+
 + [Training-Free Efficient Video Generation via Dynamic Token Carving](https://arxiv.org/abs/2505.16864) (2025-05-22)
 [![Code](https://img.shields.io/github/stars/dvlab-research/Jenga.svg?style=social&label=Official)](https://github.com/dvlab-research/Jenga/)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://julianjuaner.github.io/projects/jenga/)
+
++ [AccVideo: Accelerating Video Diffusion Model with Synthetic Dataset](https://arxiv.org/abs/2503.19462) (2025-03-25)
+[![Code](https://img.shields.io/github/stars/aejion/AccVideo.svg?style=social&label=Official)](https://github.com/aejion/AccVideo)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://aejion.github.io/accvideo/)
+
++ [IPO: Iterative Preference Optimization for Text-to-Video Generation](https://arxiv.org/abs/2502.02088) (2025-02-04)
+[![Code](https://img.shields.io/github/stars/SAIS-FUXI/IPO.svg?style=social&label=Official)](https://github.com/SAIS-FUXI/IPO)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://yangxlarge.github.io/ipoc//)
+
 
 + [VAST 1.0: A Unified Framework for Controllable and Consistent Video Generation](https://arxiv.org/abs/2412.16677) (2024-12-21)
 
@@ -221,6 +226,9 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Movie Gen: A Cast of Media Foundation Models](https://arxiv.org/abs/2410.13720) (2024-10-17)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://ai.meta.com/blog/movie-gen-media-foundation-models-generative-ai-video/)
 
++ [T2V-Turbo-v2: Enhancing Video Generation Model Post-Training through Data, Reward, and Conditional Guidance Design](https://arxiv.org/abs/2410.05677)
+[![Code](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Official)](https://github.com/Ji4chenLi/t2v-turbo)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo-v2.github.io/)
 
 + [Pyramidal Flow Matching for Efficient Video Generative Modeling](https://arxiv.org/abs/2410.05954) (2024-10-08)
 [![Code](https://img.shields.io/github/stars/jy0205/Pyramid-Flow.svg?style=social&label=Official)](https://github.com/jy0205/Pyramid-Flow)
@@ -233,8 +241,14 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://emu.baai.ac.cn/about)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/BAAI/emu3-66f4e64f70850ff358a2e60f)
 
-+ [xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations](https://arxiv.org/abs/2408.12590) (2024-08-22) 
++ [xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations](https://arxiv.org/abs/2408.12590) (2024-08-22)
 
++ [Data-Jucier(T2V-turbo)]([https://arxiv.org/abs/2408.12590](https://modelscope.cn/models/Data-Juicer/Data-Juicer-T2V)) (2024-07-23)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://modelscope.cn/models/Data-Juicer/Data-Juicer-T2V)
+ 
++ [T2v-turbo: Breaking the quality bottleneck of video consistency model with mixed reward feedback](https://arxiv.org/abs/2405.18750) (2024-05-29) 
+[![Code](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Official)](https://github.com/Ji4chenLi/t2v-turbo)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo.github.io/)
 
 + [Photorealistic Video Generation with Diffusion Models](https://arxiv.org/abs/2312.06662) (2023-12-11) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://walt-video-diffusion.github.io/)
