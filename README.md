@@ -662,6 +662,10 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="2.3.1."></a>
 ### 2.3.1 Layout Prior World Model
++ [Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models](https://arxiv.org/abs/2506.09042v2) (2025-06-10)
+[![Code](https://img.shields.io/github/stars/nv-tlabs/Cosmos-Drive-Dreams.svg?style=social&label=Official)](https://github.com/nv-tlabs/Cosmos-Drive-Dreams)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/nvidia/PhysicalAI-Autonomous-Vehicle-Cosmos-Drive-Dreams)
 
 + [CoGen: 3D Consistent Video Generation via Adaptive Conditioning for Autonomous Driving](https://arxiv.org/abs/2503.22231) (2025-03-28)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://xiaomi-research.github.io/cogen/)
