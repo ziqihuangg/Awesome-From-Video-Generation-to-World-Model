@@ -951,6 +951,11 @@ This repository is updated periodically. If you have suggestions for additional 
 ## 3.1 Macroscopic Scale Planning World Model
 <a name="3.2."></a>
 ## 3.2 Mesoscopic Scale Planning World Model
++ [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) (2025-06-11) 
+[![Code](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Official)](https://github.com/facebookresearch/vjepa2)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)
+
+
 
 + [Aether: Geometric-Aware Unified World Modeling](https://arxiv.org/abs/2503.18945) (2025-03-24) 
 [![Code](https://img.shields.io/github/stars/OpenRobotLab/Aether.svg?style=social&label=Official)](https://github.com/OpenRobotLab/Aether)
