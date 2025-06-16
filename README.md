@@ -32,15 +32,15 @@ This repository is updated periodically. If you have suggestions for additional 
 
 ### Table of Contents
 - [1. Generation 1: Faithfulness - Accurate Simulation of the Real World](#1.)
-    - [1.1 Video Foundation Models](#1.1.)
-    - [1.2 Other Video Generation Models](#1.2.)
+    - [1.1 Video Foundation Model](#1.1.)
+    - [1.2 Other Video Generation Model](#1.2.)
         - [1.2.1 U-Net Based Video Generation](#1.2.1.)
         - [1.2.2 DiT Based Video Generation](#1.2.2.)
         - [1.2.3 Autoregressive Based Video Generation](#1.2.3.)
     - [1.3 Conditined World Model](#1.3.)
 
 - [2. Generation 2: Interactiveness - Controllability and Interactive Dynamics](#2.)
-  - [2.1 Video Foundation Models](#2.1.)
+  - [2.1 High-quality World Foundation Model](#2.1.)
   - [2.2 Video Generation as World Model in General Scene](#2.2.)
     - [2.2.1 Geometry Prior World Model](#2.2.1.)
     - [2.2.2 3D Prior World Model](#2.2.2.)
@@ -90,7 +90,7 @@ This repository is updated periodically. If you have suggestions for additional 
 <a name="1."></a>
 # 1. Generation 1: Faithfulness - Accurate Simulation of the Real World
 <a name="1.1."></a>
-## 1.1 Video Foundation Models
+## 1.1 Video Foundation Model
 |     Date     | Venue | Acronym | Paper | Project | Repo@GitHub | 
 |--------------|-------|---------|-------|---------|-------------|
 | 2024-07-08 | Arxiv | Mira | [MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions](https://arxiv.org/abs/2407.06358v1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://mira-space.github.io/) | [![Code](https://img.shields.io/github/stars/mira-space/MiraData.svg?style=social&label=Official)](https://github.com/mira-space/MiraData) |
@@ -118,7 +118,7 @@ This repository is updated periodically. If you have suggestions for additional 
 | 2022-05-29 | Arxiv | CogVideo | [CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers](https://arxiv.org/abs/2408.06072) |  | [![Code](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Official)](https://github.com/THUDM/CogVideo) |
 
 <a name="1.2."></a>
-## 1.2 Other Video Generation Models
+## 1.2 Other Video Generation Model
 <a name="1.2.1."></a>
 ### 1.2.1 U-Net Based Video Generation
 + [MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators](https://arxiv.org/abs/2404.05014) (2024-04-07) 
@@ -279,13 +279,14 @@ This repository is updated periodically. If you have suggestions for additional 
 + [MAGVIT:Masked Generative Video Transformer](https://arxiv.org/abs/2212.05199) (2022-12-10) 
 [![Code](https://img.shields.io/github/stars/google-research/magvit.svg?style=social&label=Official)](https://github.com/google-research/magvit)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://magvit.cs.cmu.edu/)
-
+<a name="1.3."></a>
+## 1.3 Conditioned World Model
 
 <a name="2."></a>
 # 2. Generation 2: Interactiveness - Controllability and Interactive Dynamics
 
 <a name="2.1."></a>
-## 2.1 High-quality World Foundation Models
+## 2.1 High-quality World Foundation Model
 
 |     Date     | Venue | Acronym | Paper | Project | Repo@GitHub | 
 |--------------|-------|---------|-------|---------|-------------|
@@ -310,10 +311,8 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="2.2."></a>
 ## 2.2 Video Generation as World Model in General Scenes
-<a name="2.1.1."></a>
-### 2.1.1 Geometry Condition Prior World Model
-
-
+<a name="2.2.1."></a>
+### 2.2.1 Geometry Condition Prior World Model
 
 + [SketchVideo: Sketch-based Video Generation and Editing](https://arxiv.org/abs/2503.23284) (2025-03-30)
 [![Code](https://img.shields.io/github/stars/IGLICT/SketchVideo.svg?style=social&label=Official)](https://github.com/IGLICT/SketchVideo)
@@ -356,8 +355,8 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) (2023-02-10)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/lllyasviel/ControlNet)
 
-<a name="2.1.2."></a>
-### 2.1.2 3D Condition Prior World Model
+<a name="2.2.2."></a>
+### 2.2.2 3D Condition Prior World Model
 
 
 + [Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control](https://arxiv.org/abs/2501.03847) (2025-01-07)
@@ -388,8 +387,8 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://heheyas.github.io/V3D/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/heheyas/V3D)
 
-<a name="2.1.3."></a>
-### 2.1.3 Physical Prior World Model
+<a name="2.2.3."></a>
+### 2.2.3 Physical Prior World Model
 + [WISA: World Simulator Assistant for Physics-Aware Text-to-Video Generation](https://arxiv.org/abs/2503.08153) (2025-03-11)
 [![Code](https://img.shields.io/github/stars/360CVGroup/WISA.svg?style=social&label=Official)](https://github.com/360CVGroup/WISA)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://360cvgroup.github.io/WISA/)
@@ -407,8 +406,8 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/stevenlsw/physgen.svg?style=social&label=Official)](https://github.com/stevenlsw/physgen)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://stevenlsw.github.io/physgen/)
 
-<a name="2.1.4."></a>
-### 2.1.4 Trajectory Navigation World Model
+<a name="2.2.4."></a>
+### 2.2.4 Trajectory Navigation World Model
 
 + [Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise](https://arxiv.org/abs/2501.08331) (2025-01-14)
 [![Code](https://img.shields.io/github/stars/Eyeline-Research/Go-with-the-Flow.svg?style=social&label=Official)](https://github.com/Eyeline-Research/Go-with-the-Flow)
@@ -469,8 +468,8 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Fine-grained Controllable Video Generation via Object Appearance and Context](https://arxiv.org/abs/2312.02919) (2023-12-05)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hhsinping.github.io/factor/)
 
-<a name="2.1.5."></a>
-### 2.1.5 Camera Motion Navigation World Model
+<a name="2.2.5."></a>
+### 2.2.5 Camera Motion Navigation World Model
 
 + [Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](https://arxiv.org/abs/2506.03141) (2025-06-03)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://context-as-memory.github.io/)
@@ -542,8 +541,8 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hehao13.github.io/projects-CameraCtrl/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/hehao13/CameraCtrl/tree/main)
 
-<a name="2.1.6."></a>
-### 2.1.6 Instruction Navigation World Model
+<a name="2.2.6."></a>
+### 2.2.6 Instruction Navigation World Model
 + [SlowFast-VGen: Slow-Fast Learning for Action-driven Long Video Generation](https://arxiv.org/abs/2410.23277) (2024-10-30) 
 [![Code (to be released)](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen.svg?style=social&label=Official)](https://github.com/slowfast-vgen/slowfast-vgen)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://slowfast-vgen.github.io/) 
@@ -554,8 +553,8 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/maitrix-org/Pandora)
 
 
-<a name="2.1.7."></a>
-### 2.1.7 Action Navigation World Model
+<a name="2.2.7."></a>
+### 2.2.7 Action Navigation World Model
 + [Aether: Geometric-Aware Unified World Modeling](https://arxiv.org/abs/2503.18945) (2025-03-24) 
 [![Code](https://img.shields.io/github/stars/OpenRobotLab/Aether.svg?style=social&label=Official)](https://github.com/OpenRobotLab/Aether)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://aether-world.github.io/)
@@ -566,8 +565,8 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-dreamer.github.io/)
 
 
-<a name="2.1.8."></a>
-### 2.1.8 Internal Interaction World Model
+<a name="2.2.8."></a>
+### 2.2.8 Internal Interaction World Model
 
 + [Introducing Multiverse: The First AI Multiplayer World Model](https://enigma-labs.io/blog) (2025-05-08)
 [![Code](https://img.shields.io/github/stars/EnigmaLabsAI/multiverse.svg?style=social&label=Official)](https://github.com/EnigmaLabsAI/multiverse)
@@ -580,10 +579,10 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback](https://arxiv.org/abs/2412.02617) (2024-12-03)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/aif-dynamic-t2v/)
 
-<a name="2.2."></a>
-## 2.2 Video Generation as World Model in Robotics
-<a name="2.2.1."></a>
-### 2.2.1 Action Navigation World Model
+<a name="2.3."></a>
+## 2.3 Video Generation as World Model in Robotics
+<a name="2.3.1."></a>
+### 2.3.1 Action Navigation World Model
 + [Consistent World Models via Foresight Diffusion](https://arxiv.org/abs/2505.16474) (2025-05-22)
 
 + [Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control](https://arxiv.org/abs/2503.14492) (2025-03-18)
@@ -618,8 +617,8 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Model-Based Reinforcement Learning for Atari](https://arxiv.org/abs/1903.00374) (2019-03-01)
 
 
-<a name="2.2.2."></a>
-### 2.2.2 Instruction Navigation World Model
+<a name="2.3.2."></a>
+### 2.3.2 Instruction Navigation World Model
 
 + [NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants](https://arxiv.org/abs/2502.13894) (2025-02-19) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://21styouth.github.io/NavigateDiff/) 
@@ -660,8 +659,8 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://universal-policy.github.io/unipi/)
 
 
-<a name="2.2.3."></a>
-### 2.2.3 Goal Navigation World Model
+<a name="2.3.3."></a>
+### 2.3.3 Goal Navigation World Model
 
 + [Grounding Video Models to Actions through Goal Conditioned Exploration](https://arxiv.org/abs/2411.07223) (2024-11-11) 
 [![Code](https://img.shields.io/github/stars/video-to-action/v2a-video-model-release.svg?style=social&label=Official)](https://github.com/video-to-action/v2a-video-model-release)
@@ -673,8 +672,8 @@ This repository is updated periodically. If you have suggestions for additional 
 
 
 
-<a name="2.2.4."></a>
-### 2.2.4 Hybrid Navigation World Model
+<a name="2.3.4."></a>
+### 2.3.4 Hybrid Navigation World Model
 
 + [RoboDreamer: Learning Compositional World Models for Robot Imagination](https://arxiv.org/abs/2404.12377) (2024-04-18) 
 [![Code](https://img.shields.io/github/stars/rainbow979/robodreamer.svg?style=social&label=Official)](https://github.com/rainbow979/robodreamer)
@@ -685,18 +684,18 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/bytedance/GR-1.svg?style=social&label=Official)](https://github.com/bytedance/GR-1)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gr1-manipulation.github.io/)
 
- <a name="2.2.5."></a>
-### 2.2.5 Real-time Interactive World Model
+ <a name="2.3.5."></a>
+### 2.3.5 Real-time Interactive World Model
 + [Evaluating Robot Policies in a World Model](https://arxiv.org/abs/2506.00613) (2025-05-31) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-model-eval.github.io/)
 
 + [Learning Interactive Real-World Simulators](https://arxiv.org/abs/2310.06114) (2023-10-09) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://universal-simulator.github.io/unisim/)
-<a name="2.3."></a>
-## 2.3. Video Generation as World Model in Autonomous Driving
+<a name="2.4."></a>
+## 2.4. Video Generation as World Model in Autonomous Driving
 
-<a name="2.3.1."></a>
-### 2.3.1 Layout Prior World Model
+<a name="2.4.1."></a>
+### 2.4.1 Layout Prior World Model
 + [Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models](https://arxiv.org/abs/2506.09042v2) (2025-06-10)
 [![Code](https://img.shields.io/github/stars/nv-tlabs/Cosmos-Drive-Dreams.svg?style=social&label=Official)](https://github.com/nv-tlabs/Cosmos-Drive-Dreams)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/)
@@ -744,8 +743,8 @@ This repository is updated periodically. If you have suggestions for additional 
 + [MagicDrive: Street View Generation with Diverse 3D Geometry Control](https://arxiv.org/abs/2310.02601) (2023-10-04) 
 [![Code](https://img.shields.io/github/stars/cure-lab/MagicDrive.svg?style=social&label=Official)](https://github.com/cure-lab/MagicDrive)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gaoruiyuan.com/magicdrive/)
-<a name="2.3.2."></a>
-### 2.3.2 Instruction Navigation World Model
+<a name="2.4.2."></a>
+### 2.4.2 Instruction Navigation World Model
 
 + [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845) (2024-03-11)
 [![Code](https://img.shields.io/github/stars/f1yfisher/DriveDreamer2.svg?style=social&label=Official)](https://github.com/f1yfisher/DriveDreamer2)
@@ -754,8 +753,8 @@ This repository is updated periodically. If you have suggestions for additional 
 
 + [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/abs/2311.13549) (2023-11-22) 
 
-<a name="2.3.3."></a>
-### 2.3.3 Trajectory Navigation World Model
+<a name="2.4.3."></a>
+### 2.4.3 Trajectory Navigation World Model
 
 + [Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies  Ego-Other Vehicle Trajectories in Video Latent Space](https://arxiv.org/abs/2503.09215) (2025-03-12)
 
@@ -780,8 +779,8 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/flymin/MagicDrive3D.svg?style=social&label=Official)](https://github.com/flymin/MagicDrive3D)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gaoruiyuan.com/magicdrive3d/)
 
-<a name="2.3.4."></a>
-### 2.3.4 Action Navigation World Model
+<a name="2.4.4."></a>
+### 2.4.4 Action Navigation World Model
 
 + [DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers](https://arxiv.org/abs/2412.18607) (2024-12-24)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://rogerchern.github.io/DrivingGPT/)
@@ -816,8 +815,8 @@ This repository is updated periodically. If you have suggestions for additional 
 
 
 
-<a name="2.3.5."></a>
-### 2.3.5 Hybrid Navigation World Model
+<a name="2.4.5."></a>
+### 2.4.5 Hybrid Navigation World Model
 
 + [GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving](https://arxiv.org/abs/2503.20523) (2025-03-26)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://wayve.ai/thinking/gaia-2/)
@@ -839,8 +838,8 @@ This repository is updated periodically. If you have suggestions for additional 
 
 
 
-<a name="2.3.6."></a>
-### 2.3.6 Other Navigation World Model
+<a name="2.4.6."></a>
+### 2.4.6 Other Navigation World Model
 
 + [Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception](https://arxiv.org/abs/2503.13587) (2025-03-17)
 [![Code](https://img.shields.io/github/stars/dk-liang/UniFuture.svg?style=social&label=Official)](https://github.com/dk-liang/UniFuture)
@@ -853,10 +852,10 @@ This repository is updated periodically. If you have suggestions for additional 
    ><i>Note: with relative camera  extrinsics navigation</i>
 
 
-<a name="2.4."></a>
-## 2.4 Video Generation as World Model in Gaming
-<a name="2.4.1."></a>
-### 2.4.1 Game Controller Navigation World Model
+<a name="2.5."></a>
+## 2.5 Video Generation as World Model in Gaming
+<a name="2.5.1."></a>
+### 2.5.1 Game Controller Navigation World Model
 + [WORLDMEM: Long-term Consistent World Simulation with Memory](https://arxiv.org/abs/2504.12369) (2025-04-16)
 [![Code](https://img.shields.io/github/stars/xizaoqu/WorldMem.svg?style=social&label=Official)](https://github.com/xizaoqu/WorldMem)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://xizaoqu.github.io/worldmem/)
@@ -922,8 +921,8 @@ This repository is updated periodically. If you have suggestions for additional 
 
 
 
-<a name="2.4.2."></a>
-### 2.4.2 Action Navigation World Model
+<a name="2.5.2."></a>
+### 2.5.2 Action Navigation World Model
 
 
 
@@ -954,8 +953,8 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Recurrent Environment Simulators](https://arxiv.org/abs/1704.02254) (2017-04-07)
 
 
-<a name="2.4.3."></a>
-### 2.4.3 Hybrid Navigation World Model
+<a name="2.5.3."></a>
+### 2.5.3 Hybrid Navigation World Model
 + [AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938) (2025-03-24)
 [![Code](https://img.shields.io/github/stars/Little-Podi/AdaWorld.svg?style=social&label=Official)](https://github.com/Little-Podi/AdaWorld)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://adaptable-world-model.github.io/)
