@@ -154,15 +154,6 @@ This repository is updated periodically. If you have suggestions for additional 
  + [Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning](https://arxiv.org/abs/2311.10709) (2023-11-17) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://emu-video.metademolab.com/) 
 
- + [I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models](https://arxiv.org/abs/2311.04145) (2023-11-07) 
-[![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://i2vgen-xl.github.io/) 
-
-+ [SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction](https://arxiv.org/abs/2310.20700) (2023-10-31) 
-[![Code](https://img.shields.io/github/stars/Vchitect/SEINE.svg?style=social&label=Official)](https://github.com/Vchitect/SEINE)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/SEINE-project/) 
-
-
 + [DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors](https://arxiv.org/abs/2310.12190) (2023-10-18) 
 [![Code](https://img.shields.io/github/stars/Doubiiu/DynamiCrafter.svg?style=social&label=Official)](https://github.com/Doubiiu/DynamiCrafter)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://doubiiu.github.io/projects/DynamiCrafter) 
@@ -281,6 +272,69 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://magvit.cs.cmu.edu/)
 <a name="1.3."></a>
 ## 1.3 Conditioned World Model
+Geometry Condition
++ [Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions](https://arxiv.org/abs/2401.01827) (2024-01-03)
+[![Code](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Official)](https://github.com/salesforce/LAVIS)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Moonshot/)
+ 
++ [SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models](https://arxiv.org/abs/2311.16933) (2023-11-28)
+[![Code](https://img.shields.io/github/stars/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl.svg?style=social&label=Official)](https://github.com/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://guoyww.github.io/projects/SparseCtrl/)
+
++ [ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation](https://arxiv.org/abs/2310.07697) (2023-10-11)
+
+
++ [VideoComposer: Compositional Video Synthesis with Motion Controllability](https://arxiv.org/abs/2306.02018) (2023-06-03)
+[![Code](https://img.shields.io/github/stars/ali-vilab/videocomposer.svg?style=social&label=Official)](https://github.com/ali-vilab/videocomposer)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://videocomposer.github.io/)
+
++ [Control-A-Video: Controllable Text-to-Video Diffusion Models with Motion Prior and Reward Feedback Learning](https://arxiv.org/abs/2305.13840) (2023-05-23)
+[![Code](https://img.shields.io/github/stars/Weifeng-Chen/control-a-video.svg?style=social&label=Official)](https://github.com/Weifeng-Chen/control-a-video)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://controlavideo.github.io/)
+
++ [ControlVideo: Training-free Controllable Text-to-Video Generation](https://arxiv.org/abs/2305.13077) (2023-05-22)
+[![Code](https://img.shields.io/github/stars/YBYBZhang/ControlVideo.svg?style=social&label=Official)](https://github.com/YBYBZhang/ControlVideo)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://controlvideov1.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Yabo/ControlVideo)
+
++ [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://arxiv.org/abs/2303.13439) (2023-03-23)
+[![Code](https://img.shields.io/github/stars/Picsart-AI-Research/Text2Video-Zero.svg?style=social&label=Official)](https://github.com/Picsart-AI-Research/Text2Video-Zero/)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://text2video-zero.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/PAIR/Text2Video-Zero)
+
++ [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) (2023-02-10)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/lllyasviel/ControlNet)
+
+3D Condition
++ [Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models](https://arxiv.org/abs/2405.16645) (2024-05-26)
+[![Code](https://img.shields.io/github/stars/VITA-Group/Diffusion4D.svg?style=social&label=Official)](https://github.com/VITA-Group/Diffusion4D)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://vita-group.github.io/Diffusion4D/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/hw-liang/Diffusion4D)
+
++ [VideoMV: Consistent Multi-View Generation Based on Large Video Generative Model](https://arxiv.org/abs/2403.12010) (2024-03-18)
+[![Code](https://img.shields.io/github/stars/alibaba/VideoMV.svg?style=social&label=Official)](https://github.com/alibaba/VideoMV)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://aigc3d.github.io/VideoMV/)
+
+
++ [SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion](https://arxiv.org/abs/2403.12008) (2024-03-18)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://sv3d.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/stabilityai/sv3d)
+
+
++ [V3D: Video Diffusion Models are Effective 3D Generators](https://arxiv.org/abs/2403.06738) (2024-03-11)
+[![Code](https://img.shields.io/github/stars/heheyas/V3D.svg?style=social&label=Official)](https://github.com/heheyas/V3D)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://heheyas.github.io/V3D/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/heheyas/V3D)
+
+Physics Condition
++ [Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback](https://arxiv.org/abs/2412.02617) (2024-12-03)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/aif-dynamic-t2v/)
+
++ [PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation](https://arxiv.org/abs/2409.18964) (2024-09-27)
+[![Code](https://img.shields.io/github/stars/stevenlsw/physgen.svg?style=social&label=Official)](https://github.com/stevenlsw/physgen)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://stevenlsw.github.io/physgen/)
+
+
 
 <a name="2."></a>
 # 2. Generation 2: Interactiveness - Controllability and Interactive Dynamics
@@ -321,42 +375,6 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/IGLICT/SketchVideo.svg?style=social&label=Official)](https://github.com/IGLICT/SketchVideo)
 [![Website](https://img.shields.io/badge/Website-9cf)](http://geometrylearning.com/SketchVideo/)
 
-+ [GEM: A Generalizable Ego-Vision Multimodal World Model for Fine-Grained Ego-Motion, Object Dynamics, and Scene Composition Control](https://arxiv.org/pdf/2412.11198) (2024-12-15) 
-[![Code](https://img.shields.io/github/stars/vita-epfl/GEM.svg?style=social&label=Official)](https://github.com/vita-epfl/GEM)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://vita-epfl.github.io/GEM.github.io/) 
-
-
-+ [Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions](https://arxiv.org/abs/2401.01827) (2024-01-03)
-[![Code](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Official)](https://github.com/salesforce/LAVIS)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://showlab.github.io/Moonshot/)
- 
-+ [SparseCtrl: Adding Sparse Controls to Text-to-Video Diffusion Models](https://arxiv.org/abs/2311.16933) (2023-11-28)
-[![Code](https://img.shields.io/github/stars/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl.svg?style=social&label=Official)](https://github.com/guoyww/AnimateDiff#202312-animatediff-v3-and-sparsectrl)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://guoyww.github.io/projects/SparseCtrl/)
-
-+ [ConditionVideo: Training-Free Condition-Guided Text-to-Video Generation](https://arxiv.org/abs/2310.07697) (2023-10-11)
-
-
-+ [VideoComposer: Compositional Video Synthesis with Motion Controllability](https://arxiv.org/abs/2306.02018) (2023-06-03)
-[![Code](https://img.shields.io/github/stars/ali-vilab/videocomposer.svg?style=social&label=Official)](https://github.com/ali-vilab/videocomposer)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://videocomposer.github.io/)
-
-+ [Control-A-Video: Controllable Text-to-Video Diffusion Models with Motion Prior and Reward Feedback Learning](https://arxiv.org/abs/2305.13840) (2023-05-23)
-[![Code](https://img.shields.io/github/stars/Weifeng-Chen/control-a-video.svg?style=social&label=Official)](https://github.com/Weifeng-Chen/control-a-video)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://controlavideo.github.io/)
-
-+ [ControlVideo: Training-free Controllable Text-to-Video Generation](https://arxiv.org/abs/2305.13077) (2023-05-22)
-[![Code](https://img.shields.io/github/stars/YBYBZhang/ControlVideo.svg?style=social&label=Official)](https://github.com/YBYBZhang/ControlVideo)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://controlvideov1.github.io/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Yabo/ControlVideo)
-
-+ [Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators](https://arxiv.org/abs/2303.13439) (2023-03-23)
-[![Code](https://img.shields.io/github/stars/Picsart-AI-Research/Text2Video-Zero.svg?style=social&label=Official)](https://github.com/Picsart-AI-Research/Text2Video-Zero/)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://text2video-zero.github.io/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/PAIR/Text2Video-Zero)
-
-+ [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) (2023-02-10)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/lllyasviel/ControlNet)
 
 <a name="2.2.2."></a>
 ### 2.2.2 3D Condition Prior World Model
@@ -370,25 +388,6 @@ This repository is updated periodically. If you have suggestions for additional 
 + [GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking](https://arxiv.org/abs/2501.02690) (2025-01-05)
 [![Code (to be released)](https://img.shields.io/github/stars/wkbian/GS-DiT.svg?style=social&label=Official)](https://github.com/wkbian/GS-DiT)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://wkbian.github.io/Projects/GS-DiT/)
-+ [Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models](https://arxiv.org/abs/2405.16645) (2024-05-26)
-[![Code](https://img.shields.io/github/stars/VITA-Group/Diffusion4D.svg?style=social&label=Official)](https://github.com/VITA-Group/Diffusion4D)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://vita-group.github.io/Diffusion4D/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/hw-liang/Diffusion4D)
-
-+ [VideoMV: Consistent Multi-View Generation Based on Large Video Generative Model](https://arxiv.org/abs/2403.12010) (2024-03-18)
-[![Code](https://img.shields.io/github/stars/alibaba/VideoMV.svg?style=social&label=Official)](https://github.com/alibaba/VideoMV)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://aigc3d.github.io/VideoMV/)
-
-
-+ [SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion](https://arxiv.org/abs/2403.12008) (2024-03-18)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://sv3d.github.io/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/stabilityai/sv3d)
-
-
-+ [V3D: Video Diffusion Models are Effective 3D Generators](https://arxiv.org/abs/2403.06738) (2024-03-11)
-[![Code](https://img.shields.io/github/stars/heheyas/V3D.svg?style=social&label=Official)](https://github.com/heheyas/V3D)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://heheyas.github.io/V3D/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/heheyas/V3D)
 
 <a name="2.2.3."></a>
 ### 2.2.3 Physical Prior World Model
@@ -401,14 +400,7 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/vision-x-nyu/pisa-experiments.svg?style=social&label=Official)](https://github.com/vision-x-nyu/pisa-experiments)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://vision-x-nyu.github.io/pisa-experiments.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/nyu-visionx/pisa-experiments)
-+ [Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback](https://arxiv.org/abs/2412.02617) (2024-12-03)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/aif-dynamic-t2v/)
 + [PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation](https://arxiv.org/abs/2412.00596) (2024-11-30)
-
-+ [PhysGen: Rigid-Body Physics-Grounded Image-to-Video Generation](https://arxiv.org/abs/2409.18964) (2024-09-27)
-[![Code](https://img.shields.io/github/stars/stevenlsw/physgen.svg?style=social&label=Official)](https://github.com/stevenlsw/physgen)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://stevenlsw.github.io/physgen/)
-
 <a name="2.2.4."></a>
 ### 2.2.4 Trajectory Navigation World Model
 
