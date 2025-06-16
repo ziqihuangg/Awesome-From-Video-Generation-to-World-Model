@@ -37,37 +37,39 @@ This repository is updated periodically. If you have suggestions for additional 
         - [1.2.1 U-Net Based Video Generation](#1.2.1.)
         - [1.2.2 DiT Based Video Generation](#1.2.2.)
         - [1.2.3 Autoregressive Based Video Generation](#1.2.3.)
+    - [1.3 Conditined World Model](#1.3.)
 
 - [2. Generation 2: Interactiveness - Controllability and Interactive Dynamics](#2.)
-  - [2.1 Video Generation as World Model in General Scene](#2.1.)
-    - [2.1.1 Geometry Prior World Model](#2.1.1.)
-    - [2.1.2 3D Prior World Model](#2.1.2.)
-    - [2.1.3 Physical Prior World Model](#2.1.3.)
-    - [2.1.4 Trajectory Navigation World Model](#2.1.4.)
-    - [2.1.5 Camera Motion Navigation World Model](#2.1.5.)
-    - [2.1.6 Instruction Navigation World Model](#2.1.6.)
-    - [2.1.7 Action Navigation World Model](#2.1.7.)
-    - [2.1.8 Internal Interaction World Model](#2.1.8.)
+  - [2.1 Video Foundation Models](#2.1.)
+  - [2.2 Video Generation as World Model in General Scene](#2.2.)
+    - [2.2.1 Geometry Prior World Model](#2.2.1.)
+    - [2.2.2 3D Prior World Model](#2.2.2.)
+    - [2.2.3 Physical Prior World Model](#2.2.3.)
+    - [2.2.4 Trajectory Navigation World Model](#2.2.4.)
+    - [2.2.5 Camera Motion Navigation World Model](#2.2.5.)
+    - [2.2.6 Instruction Navigation World Model](#2.2.6.)
+    - [2.2.7 Action Navigation World Model](#2.2.7.)
+    - [2.2.8 Internal Interaction World Model](#2.2.8.)
 
-  - [2.2 Video Generation as World Model in Robotics](#2.2.)
-    - [2.2.1 Action Navigation World Model](#2.2.1.)
-    - [2.2.2 Instruction Navigation World Model](#2.2.2.)
-    - [2.2.3 Goal Navigation World Model](#2.2.3.)
-    - [2.2.4 Hybrid Navigation World Model](#2.2.4.)
+  - [2.3 Video Generation as World Model in Robotics](#2.3.)
+    - [2.3.1 Action Navigation World Model](#2.3.1.)
+    - [2.3.2 Instruction Navigation World Model](#2.3.2.)
+    - [2.3.3 Goal Navigation World Model](#2.3.3.)
+    - [2.3.4 Hybrid Navigation World Model](#2.3.4.)
   
-  - [2.3 Video Generation as World Model in Autonomous Driving](#2.3.)
-    - [2.3.1 Layout Prior World Model](#2.3.1.)
-    - [2.3.1 Instruction Navigation World Model](#2.3.2.)
-    - [2.3.2 Trajectory Navigation World Model](#2.3.3.)
-    - [2.3.3 Action Navigation World Model](#2.3.4.)
-    - [2.3.5 Hybrid Navigation World Model](#2.3.5.)
-    - [2.3.6 Other Navigation World Model](#2.3.6.)
+  - [2.4 Video Generation as World Model in Autonomous Driving](#2.4.)
+    - [2.4.1 Layout Prior World Model](#2.4.1.)
+    - [2.4.1 Instruction Navigation World Model](#2.4.2.)
+    - [2.4.2 Trajectory Navigation World Model](#2.4.3.)
+    - [2.4.3 Action Navigation World Model](#2.4.4.)
+    - [2.4.5 Hybrid Navigation World Model](#2.4.5.)
+    - [2.4.6 Other Navigation World Model](#2.4.6.)
 
       
-  - [2.4 Video Generation as World Model in Gaming](#2.4.)
-    - [2.4.1 Controller Navigation World Model](#2.4.1.)
-    - [2.4.2 Action World Model](#2.4.2.)
-    - [2.4.3 Hybrid Navigation World Model](#2.4.3.)
+  - [2.5 Video Generation as World Model in Gaming](#2.5.)
+    - [2.5.1 Controller Navigation World Model](#2.5.1.)
+    - [2.5.2 Action World Model](#2.5.2.)
+    - [2.5.3 Hybrid Navigation World Model](#2.5.3.)
     
 - [3. Generation 3: Planning - Modeling the Future Evolution of Complex Systems](#3.)
   - [3.1 Macroscopic Scale Planning World Model](#3.1.)
@@ -91,23 +93,6 @@ This repository is updated periodically. If you have suggestions for additional 
 ## 1.1 Video Foundation Models
 |     Date     | Venue | Acronym | Paper | Project | Repo@GitHub | 
 |--------------|-------|---------|-------|---------|-------------|
-| 2025-05-19 | Arxiv | MAGI-1 | [MAGI-1: Autoregressive Video Generation at Scale](https://arxiv.org/abs/2505.13211) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sand.ai/) | [![Code](https://img.shields.io/github/stars/SandAI-org/MAGI-1.svg?style=social&label=Official)](https://github.com/SandAI-org/MAGI-1) |
-| 2025-03-31 |  | Gen-4 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/introducing-runway-gen-4) |  |
-| 2025-03-26 | Arxiv | Wan2.1 | [Wan: Open and Advanced Large-Scale Video Generative Models](https://arxiv.org/abs/2503.20314) | [![Website](https://img.shields.io/badge/Website-9cf)](https://wan.video/) | [![Code](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social&label=Official)](https://github.com/Wan-Video/Wan2.1) |
-| 2025-03-13 |  | Step-Video-T2V |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://yuewen.cn/videos) |  |
-| 2025-03-12 | Arxiv | Open-Sora2.0 | [Open-Sora 2.0: Training a Commercial-Level Video Generation Model in $200k](https://arxiv.org/abs/2503.09642) | [![Website](https://img.shields.io/badge/Website-9cf)](https://hpcaitech.github.io/Open-Sora/) | [![Code](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Official)](https://github.com/hpcaitech/Open-Sora)  |
-| 2025-01-21 |  | MiracleVision V5 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.miraclevision.com/) |  |
-| 2025-01-15 | Arxiv | RepVideo | [RepVideo: Rethinking Cross-Layer Representation for Video Generation](https://arxiv.org/abs/2501.08994) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/RepVid-Webpage/) | [![Code](https://img.shields.io/github/stars/Vchitect/RepVideo.svg?style=social&label=Official)](https://github.com/Vchitect/RepVideo) |
-| 2025-01-14 | Arxiv | Vchitect-2.0 | [Vchitect-2.0: Parallel transformer for scaling up video diffusion models](https://arxiv.org/abs/2501.08453) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.intern-ai.org.cn/) | [![Code](https://img.shields.io/github/stars/Vchitect/Vchitect-2.0.svg?style=social&label=Official)](https://github.com/Vchitect/Vchitect-2.0) |
-| 2024-12-30 | Arxiv | LTX-Video | [LTX-Video: Realtime Video Latent Diffusion](https://arxiv.org/abs/2501.00103) | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.lightricks.com/) | [![Code](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Official)](https://github.com/Lightricks/LTX-Video) |
-| 2024-12-29 | Arxiv | Open-Sora |  [Open-sora: Democratizing efficient video production for all](https://arxiv.org/abs/2412.20404)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://hpcaitech.github.io/Open-Sora/) | [![Code](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Official)](https://github.com/hpcaitech/Open-Sora) |
-| 2024-12-10 | Arxiv | STIV | [From Slow Bidirectional to Fast Autoregressive Video Diffusion Models](https://arxiv.org/abs/2412.07772) | [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/) | [![Code](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Official)](https://github.com/tianweiy/CausVid) |
-| 2024-12-03 | Arxiv | HunyuanVideo | [HunyuanVideo: A Systematic Framework For Large Video Generative Models](https://arxiv.org/abs/2412.03603) | [![Website](https://img.shields.io/badge/Website-9cf)](https://aivideo.hunyuan.tencent.com/) | [![Code](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Official)](https://github.com/Tencent/HunyuanVideo) |
-| 2024-11-28 | Arxiv | Open-Sora Plan | [Open-Sora Plan: Open-Source Large Video Generation Model](https://arxiv.org/abs/2412.00131)  |  | [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Official)](https://github.com/PKU-YuanGroup/Open-Sora-Plan) |
-| 2024-10-22 |  | Mochi-1 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.genmo.ai/blog) | [![Code](https://img.shields.io/github/stars/genmoai/mochi.svg?style=social&label=Official)](https://github.com/genmoai/mochi) |
-| 2024-10-01 |  | MiniMax |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://platform.minimaxi.com/) |  |
-| 2024-09-24 |  | JT-CV |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/jiutiancv/JV-CV-T2V) |  |
-| 2024-08-12 | ICLR25 | Cogvideox | [Cogvideox:Text-to-video diffusion models with an expert transformer](https://arxiv.org/abs/2408.06072) |  | [![Code](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Official)](https://github.com/THUDM/CogVideo) |
 | 2024-07-08 | Arxiv | Mira | [MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions](https://arxiv.org/abs/2407.06358v1) | [![Website](https://img.shields.io/badge/Website-9cf)](https://mira-space.github.io/) | [![Code](https://img.shields.io/github/stars/mira-space/MiraData.svg?style=social&label=Official)](https://github.com/mira-space/MiraData) |
 | 2024-06-17 |  | Gen-3 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/ai-tools/gen-3-alpha/) |  |
 | 2024-06-13 |  | Luma |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://lumalabs.ai/dream-machine/) |  |
@@ -298,8 +283,33 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="2."></a>
 # 2. Generation 2: Interactiveness - Controllability and Interactive Dynamics
+
 <a name="2.1."></a>
-## 2.1 Video Generation as World Model in General Scenes
+## 2.1 High-quality World Foundation Models
+
+|     Date     | Venue | Acronym | Paper | Project | Repo@GitHub | 
+|--------------|-------|---------|-------|---------|-------------|
+| 2025-05-19 | Arxiv | MAGI-1 | [MAGI-1: Autoregressive Video Generation at Scale](https://arxiv.org/abs/2505.13211) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sand.ai/) | [![Code](https://img.shields.io/github/stars/SandAI-org/MAGI-1.svg?style=social&label=Official)](https://github.com/SandAI-org/MAGI-1) |
+| 2025-03-31 |  | Gen-4 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/introducing-runway-gen-4) |  |
+| 2025-03-26 | Arxiv | Wan2.1 | [Wan: Open and Advanced Large-Scale Video Generative Models](https://arxiv.org/abs/2503.20314) | [![Website](https://img.shields.io/badge/Website-9cf)](https://wan.video/) | [![Code](https://img.shields.io/github/stars/Wan-Video/Wan2.1.svg?style=social&label=Official)](https://github.com/Wan-Video/Wan2.1) |
+| 2025-03-13 |  | Step-Video-T2V |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://yuewen.cn/videos) |  |
+| 2025-03-12 | Arxiv | Open-Sora2.0 | [Open-Sora 2.0: Training a Commercial-Level Video Generation Model in $200k](https://arxiv.org/abs/2503.09642) | [![Website](https://img.shields.io/badge/Website-9cf)](https://hpcaitech.github.io/Open-Sora/) | [![Code](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Official)](https://github.com/hpcaitech/Open-Sora)  |
+| 2025-01-21 |  | MiracleVision V5 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.miraclevision.com/) |  |
+| 2025-01-15 | Arxiv | RepVideo | [RepVideo: Rethinking Cross-Layer Representation for Video Generation](https://arxiv.org/abs/2501.08994) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/RepVid-Webpage/) | [![Code](https://img.shields.io/github/stars/Vchitect/RepVideo.svg?style=social&label=Official)](https://github.com/Vchitect/RepVideo) |
+| 2025-01-14 | Arxiv | Vchitect-2.0 | [Vchitect-2.0: Parallel transformer for scaling up video diffusion models](https://arxiv.org/abs/2501.08453) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.intern-ai.org.cn/) | [![Code](https://img.shields.io/github/stars/Vchitect/Vchitect-2.0.svg?style=social&label=Official)](https://github.com/Vchitect/Vchitect-2.0) |
+| 2025-01-07 | Arxiv | Cosmos | [Cosmos World Foundation Model Platform for Physical AI](https://arxiv.org/abs/2501.03575) | [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-predict1/) | [![Code](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-predict1.svg?style=social&label=Official)](https://github.com/nvidia-cosmos/cosmos-predict1) |
+| 2024-12-30 | Arxiv | LTX-Video | [LTX-Video: Realtime Video Latent Diffusion](https://arxiv.org/abs/2501.00103) | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.lightricks.com/) | [![Code](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Official)](https://github.com/Lightricks/LTX-Video) |
+| 2024-12-29 | Arxiv | Open-Sora |  [Open-sora: Democratizing efficient video production for all](https://arxiv.org/abs/2412.20404)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://hpcaitech.github.io/Open-Sora/) | [![Code](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Official)](https://github.com/hpcaitech/Open-Sora) |
+| 2024-12-10 | Arxiv | STIV | [From Slow Bidirectional to Fast Autoregressive Video Diffusion Models](https://arxiv.org/abs/2412.07772) | [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/) | [![Code](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Official)](https://github.com/tianweiy/CausVid) |
+| 2024-12-03 | Arxiv | HunyuanVideo | [HunyuanVideo: A Systematic Framework For Large Video Generative Models](https://arxiv.org/abs/2412.03603) | [![Website](https://img.shields.io/badge/Website-9cf)](https://aivideo.hunyuan.tencent.com/) | [![Code](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Official)](https://github.com/Tencent/HunyuanVideo) |
+| 2024-11-28 | Arxiv | Open-Sora Plan | [Open-Sora Plan: Open-Source Large Video Generation Model](https://arxiv.org/abs/2412.00131)  |  | [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Official)](https://github.com/PKU-YuanGroup/Open-Sora-Plan) |
+| 2024-10-22 |  | Mochi-1 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.genmo.ai/blog) | [![Code](https://img.shields.io/github/stars/genmoai/mochi.svg?style=social&label=Official)](https://github.com/genmoai/mochi) |
+| 2024-10-01 |  | MiniMax |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://platform.minimaxi.com/) |  |
+| 2024-09-24 |  | JT-CV |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/jiutiancv/JV-CV-T2V) |  |
+| 2024-08-12 | ICLR25 | Cogvideox | [Cogvideox:Text-to-video diffusion models with an expert transformer](https://arxiv.org/abs/2408.06072) |  | [![Code](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Official)](https://github.com/THUDM/CogVideo) |
+
+<a name="2.2."></a>
+## 2.2 Video Generation as World Model in General Scenes
 <a name="2.1.1."></a>
 ### 2.1.1 Geometry Condition Prior World Model
 
@@ -591,11 +601,6 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/liruiw/HMA.svg?style=social&label=Official)](https://github.com/liruiw/HMA)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://liruiw.github.io/hma/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/liruiw/hma-base-disc)
-
-+ [Cosmos World Foundation Model Platform for Physical AI](https://arxiv.org/abs/2501.03575) (2025-01-07) 
-[![Code](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-predict1.svg?style=social&label=Official)](https://github.com/nvidia-cosmos/cosmos-predict1)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-predict1/) 
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/nvidia/cosmos-predict1-67c9d1b97678dbf7669c89a7)
 
 + [Prediction with Action: Visual Policy Learning via Joint Denoising Process](https://arxiv.org/abs/2411.18179) (2024-11-27)
 [![Code](https://img.shields.io/github/stars/Robert-gyj/Prediction_with_Action.svg?style=social&label=Official)](https://github.com/Robert-gyj/Prediction_with_Action)
