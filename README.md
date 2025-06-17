@@ -335,6 +335,57 @@ Physics Condition
 [![Website](https://img.shields.io/badge/Website-9cf)](https://stevenlsw.github.io/physgen/)
 
 
+Trajectory Navigation
++ [Motion Prompting: Controlling Video Generation with Motion Trajectories](https://arxiv.org/abs/2412.02700) (2024-12-03)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://motion-prompting.github.io/)
+
++ [SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation](https://arxiv.org/abs/2411.04989) (2024-11-07)
+[![Code](https://img.shields.io/github/stars/Kmcode1/SG-I2V.svg?style=social&label=Official)](https://github.com/Kmcode1/SG-I2V)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://kmcode1.github.io/Projects/SG-I2V/)
+
++ [FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models](https://arxiv.org/abs/2406.16863) (2024-06-24)
+[![Code](https://img.shields.io/github/stars/arthur-qiu/FreeTraj.svg?style=social&label=Official)](https://github.com/arthur-qiu/FreeTraj)
+[![Website](https://img.shields.io/badge/Website-9cf)](http://haonanqiu.com/projects/FreeTraj.html)
+
++ [Image Conductor: Precision Control for Interactive Video Synthesis](https://arxiv.org/abs/2406.15339) (2024-06-21)
+[![Code](https://img.shields.io/github/stars/liyaowei-stu/ImageConductor.svg?style=social&label=Official)](https://github.com/liyaowei-stu/ImageConductor)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://liyaowei-stu.github.io/project/ImageConductor/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TencentARC/ImageConductor)
+
++ [DragAnything: Motion Control for Anything using Entity Representation](https://arxiv.org/abs/2403.07420) (2024-03-12)
+[![Code](https://img.shields.io/github/stars/showlab/DragAnything.svg?style=social&label=Official)](https://github.com/showlab/DragAnything)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://weijiawu.github.io/draganything_page/)
+
+
++ [InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions](https://arxiv.org/abs/2402.03040) (2024-02-05)
+[![Code](https://img.shields.io/github/stars/invictus717/InteractiveVideo.svg?style=social&label=Official)](https://github.com/invictus717/InteractiveVideo)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://invictus717.github.io/InteractiveVideo/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Yiyuan/InteractiveVideo)
+
++ [Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion](https://arxiv.org/abs/2402.03162) (2024-02-05)
+[![Code](https://img.shields.io/github/stars/ysy31415/direct_a_video.svg?style=social&label=Official)](https://github.com/ysy31415/direct_a_video)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://direct-a-video.github.io/)
+
+
++ [TrailBlazer: Trajectory Control for Diffusion-Based Video Generation](https://arxiv.org/abs/2401.00896) (2023-12-21)
+[![Code](https://img.shields.io/github/stars/hohonu-vicml/Trailblazer.svg?style=social&label=Official)](https://github.com/hohonu-vicml/Trailblazer)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://hohonu-vicml.github.io/Trailblazer.Page/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/hohonu-vicml/Trailblazer)
+
++ [PEEKABOO: Interactive Video Generation via Masked-Diffusion](https://arxiv.org/abs/2312.07509) (2023-12-12)
+[![Code](https://img.shields.io/github/stars/microsoft/Peekaboo.svg?style=social&label=Official)](https://github.com/microsoft/Peekaboo)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://yash-jain.com/projects/Peekaboo/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/anshuln/peekaboo-demo)
+
++ [MotionCtrl: A Unified and Flexible Motion Controller for Video Generation](https://arxiv.org/abs/2312.03641) (2023-12-06)
+[![Code](https://img.shields.io/github/stars/TencentARC/MotionCtrl.svg?style=social&label=Official)](https://github.com/TencentARC/MotionCtrl)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://wzhouxiff.github.io/projects/MotionCtrl/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TencentARC/MotionCtrl)
+
++ [Fine-grained Controllable Video Generation via Object Appearance and Context](https://arxiv.org/abs/2312.02919) (2023-12-05)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://hhsinping.github.io/factor/)
+
+
 
 <a name="2."></a>
 # 2. Generation 2: Interactiveness - Controllability and Interactive Dynamics
@@ -414,54 +465,6 @@ Physics Condition
 [![Website](https://img.shields.io/badge/Website-9cf)](https://fuxiao0719.github.io/projects/3dtrajmaster/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/KwaiVGI/3DTrajMaster)
 
-+ [Motion Prompting: Controlling Video Generation with Motion Trajectories](https://arxiv.org/abs/2412.02700) (2024-12-03)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://motion-prompting.github.io/)
-
-+ [SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation](https://arxiv.org/abs/2411.04989) (2024-11-07)
-[![Code](https://img.shields.io/github/stars/Kmcode1/SG-I2V.svg?style=social&label=Official)](https://github.com/Kmcode1/SG-I2V)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://kmcode1.github.io/Projects/SG-I2V/)
-
-+ [FreeTraj: Tuning-Free Trajectory Control in Video Diffusion Models](https://arxiv.org/abs/2406.16863) (2024-06-24)
-[![Code](https://img.shields.io/github/stars/arthur-qiu/FreeTraj.svg?style=social&label=Official)](https://github.com/arthur-qiu/FreeTraj)
-[![Website](https://img.shields.io/badge/Website-9cf)](http://haonanqiu.com/projects/FreeTraj.html)
-
-+ [Image Conductor: Precision Control for Interactive Video Synthesis](https://arxiv.org/abs/2406.15339) (2024-06-21)
-[![Code](https://img.shields.io/github/stars/liyaowei-stu/ImageConductor.svg?style=social&label=Official)](https://github.com/liyaowei-stu/ImageConductor)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://liyaowei-stu.github.io/project/ImageConductor/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TencentARC/ImageConductor)
-
-+ [DragAnything: Motion Control for Anything using Entity Representation](https://arxiv.org/abs/2403.07420) (2024-03-12)
-[![Code](https://img.shields.io/github/stars/showlab/DragAnything.svg?style=social&label=Official)](https://github.com/showlab/DragAnything)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://weijiawu.github.io/draganything_page/)
-
-
-+ [InteractiveVideo: User-Centric Controllable Video Generation with Synergistic Multimodal Instructions](https://arxiv.org/abs/2402.03040) (2024-02-05)
-[![Code](https://img.shields.io/github/stars/invictus717/InteractiveVideo.svg?style=social&label=Official)](https://github.com/invictus717/InteractiveVideo)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://invictus717.github.io/InteractiveVideo/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/Yiyuan/InteractiveVideo)
-
-+ [Direct-a-Video: Customized Video Generation with User-Directed Camera Movement and Object Motion](https://arxiv.org/abs/2402.03162) (2024-02-05)
-[![Code](https://img.shields.io/github/stars/ysy31415/direct_a_video.svg?style=social&label=Official)](https://github.com/ysy31415/direct_a_video)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://direct-a-video.github.io/)
-
-
-+ [TrailBlazer: Trajectory Control for Diffusion-Based Video Generation](https://arxiv.org/abs/2401.00896) (2023-12-21)
-[![Code](https://img.shields.io/github/stars/hohonu-vicml/Trailblazer.svg?style=social&label=Official)](https://github.com/hohonu-vicml/Trailblazer)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://hohonu-vicml.github.io/Trailblazer.Page/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/hohonu-vicml/Trailblazer)
-
-+ [PEEKABOO: Interactive Video Generation via Masked-Diffusion](https://arxiv.org/abs/2312.07509) (2023-12-12)
-[![Code](https://img.shields.io/github/stars/microsoft/Peekaboo.svg?style=social&label=Official)](https://github.com/microsoft/Peekaboo)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://yash-jain.com/projects/Peekaboo/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/anshuln/peekaboo-demo)
-
-+ [MotionCtrl: A Unified and Flexible Motion Controller for Video Generation](https://arxiv.org/abs/2312.03641) (2023-12-06)
-[![Code](https://img.shields.io/github/stars/TencentARC/MotionCtrl.svg?style=social&label=Official)](https://github.com/TencentARC/MotionCtrl)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://wzhouxiff.github.io/projects/MotionCtrl/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/TencentARC/MotionCtrl)
-
-+ [Fine-grained Controllable Video Generation via Object Appearance and Context](https://arxiv.org/abs/2312.02919) (2023-12-05)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://hhsinping.github.io/factor/)
 
 <a name="2.2.5."></a>
 ### 2.2.5 Camera Motion Navigation World Model
