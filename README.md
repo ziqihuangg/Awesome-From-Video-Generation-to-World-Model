@@ -385,8 +385,32 @@ Trajectory Navigation
 + [Fine-grained Controllable Video Generation via Object Appearance and Context](https://arxiv.org/abs/2312.02919) (2023-12-05)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hhsinping.github.io/factor/)
 
+Camera Motion Navigation
 
++ [FullDiT: Multi-Task Video Generative Foundation Model with Full Attention](https://arxiv.org/abs/2503.19907) (2025-03-25)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://fulldit.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/FullBench)
 
++ [ReCamMaster: Camera-Controlled Generative Rendering from A Single Video](https://arxiv.org/abs/2503.11647) (2025-03-14)
+[![Code](https://img.shields.io/github/stars/KwaiVGI/ReCamMaster.svg?style=social&label=Official)](https://github.com/KwaiVGI/ReCamMaster)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://jianhongbai.github.io/ReCamMaster/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/MultiCamVideo-Dataset)
+
++ [CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](https://arxiv.org/abs/2502.08639) (2025-02-12)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://cinemaster-dev.github.io/)
+
++ [AKiRa: Augmentation Kit on Rays for optical video generation](https://arxiv.org/abs/2412.14158) (2024-12-18)
+[![Code (to be released)](https://img.shields.io/github/stars/Triocrossing/AKiRa.svg?style=social&label=Official)](https://github.com/Triocrossing/AKiRa)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://www.lix.polytechnique.fr/vista/projects/2024_akira_wang/)
+
++ [SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints](https://arxiv.org/abs/2412.07760) (2024-12-10)
+[![Code (to be released)](https://img.shields.io/github/stars/KwaiVGI/SynCamMaster.svg?style=social&label=Official)](https://github.com/KwaiVGI/SynCamMaster)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://jianhongbai.github.io/SynCamMaster/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/SynCamVideo-Dataset)
+
++ [AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers](https://arxiv.org/abs/2411.18673) (2024-11-27)
+[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Official)](https://github.com/snap-research/ac3d)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/ac3d/)
 <a name="2."></a>
 # 2. Generation 2: Interactiveness - Controllability and Interactive Dynamics
 
@@ -476,14 +500,6 @@ Trajectory Navigation
 + [TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation](https://arxiv.org/abs/2504.08181) (2025-04-11)
 
 
-+ [FullDiT: Multi-Task Video Generative Foundation Model with Full Attention](https://arxiv.org/abs/2503.19907) (2025-03-25)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://fulldit.github.io/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/FullBench)
-
-+ [ReCamMaster: Camera-Controlled Generative Rendering from A Single Video](https://arxiv.org/abs/2503.11647) (2025-03-14)
-[![Code](https://img.shields.io/github/stars/KwaiVGI/ReCamMaster.svg?style=social&label=Official)](https://github.com/KwaiVGI/ReCamMaster)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://jianhongbai.github.io/ReCamMaster/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/MultiCamVideo-Dataset)
 
 + [CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models](https://arxiv.org/abs/2503.10592) (2025-03-13)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hehao13.github.io/Projects-CameraCtrl-II/)
@@ -493,21 +509,6 @@ Trajectory Navigation
 [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/GEN3C/)
 
 
-+ [CineMaster: A 3D-Aware and Controllable Framework for Cinematic Text-to-Video Generation](https://arxiv.org/abs/2502.08639) (2025-02-12)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://cinemaster-dev.github.io/)
-
-+ [AKiRa: Augmentation Kit on Rays for optical video generation](https://arxiv.org/abs/2412.14158) (2024-12-18)
-[![Code (to be released)](https://img.shields.io/github/stars/Triocrossing/AKiRa.svg?style=social&label=Official)](https://github.com/Triocrossing/AKiRa)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://www.lix.polytechnique.fr/vista/projects/2024_akira_wang/)
-
-+ [SynCamMaster: Synchronizing Multi-Camera Video Generation from Diverse Viewpoints](https://arxiv.org/abs/2412.07760) (2024-12-10)
-[![Code (to be released)](https://img.shields.io/github/stars/KwaiVGI/SynCamMaster.svg?style=social&label=Official)](https://github.com/KwaiVGI/SynCamMaster)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://jianhongbai.github.io/SynCamMaster/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/SynCamVideo-Dataset)
-
-+ [AC3D: Analyzing and Improving 3D Camera Control in Video Diffusion Transformers](https://arxiv.org/abs/2411.18673) (2024-11-27)
-[![Code](https://img.shields.io/github/stars/snap-research/ac3d.svg?style=social&label=Official)](https://github.com/snap-research/ac3d)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/ac3d/)
 
 + [ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning](https://arxiv.org/abs/2411.05003) (2024-11-07)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://generative-video-camera-controls.github.io/)
