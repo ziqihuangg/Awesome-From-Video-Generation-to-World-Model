@@ -474,7 +474,11 @@ Instruction Navigation
 [![Code](https://img.shields.io/github/stars/flow-diffusion/AVDC.svg?style=social&label=Official)](https://github.com/flow-diffusion/AVDC)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://universal-policy.github.io/unipi/)
 
+Hybrid Navigation
 
++ [RoboDreamer: Learning Compositional World Models for Robot Imagination](https://arxiv.org/abs/2404.12377) (2024-04-18) 
+[![Code](https://img.shields.io/github/stars/rainbow979/robodreamer.svg?style=social&label=Official)](https://github.com/rainbow979/robodreamer)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://robovideo.github.io/)
 
 <a name="1.3.3."></a>
 ### 1.3.3 Conditined World Model in Autonomous Driving
@@ -692,11 +696,6 @@ Instruction Navigation
 ### 2.3.4 Hybrid Navigation World Model
 + [NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants](https://arxiv.org/abs/2502.13894) (2025-02-19) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://21styouth.github.io/NavigateDiff/) 
-
-
-+ [RoboDreamer: Learning Compositional World Models for Robot Imagination](https://arxiv.org/abs/2404.12377) (2024-04-18) 
-[![Code](https://img.shields.io/github/stars/rainbow979/robodreamer.svg?style=social&label=Official)](https://github.com/rainbow979/robodreamer)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://robovideo.github.io/)
 
 
 + [Unleashing Large-Scale Video Generative Pre-training for Visual Robot Manipulation](https://arxiv.org/abs/2312.13139) (2023-12-20) 
