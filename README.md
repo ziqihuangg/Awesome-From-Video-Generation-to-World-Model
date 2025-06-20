@@ -461,6 +461,14 @@ Action Navigation
 
 <a name="1.3.2."></a>
 ### 1.3.2 Conditined World Model in Robotics
+Action Navigation
+
++ [iVideoGPT: Interactive VideoGPTs are Scalable World Models](https://arxiv.org/abs/2405.15223) (2024-05-24)
+[![Code](https://img.shields.io/github/stars/thuml/iVideoGPT.svg?style=social&label=Official)](https://github.com/thuml/iVideoGPT)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://thuml.github.io/iVideoGPT/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/thuml/ivideogpt-674c59cae32231024d82d6c5)
+
++ [Model-Based Reinforcement Learning for Atari](https://arxiv.org/abs/1903.00374) (2019-03-01)
 
 
 <a name="1.3.3."></a>
@@ -627,19 +635,9 @@ Action Navigation
 [![Code](https://img.shields.io/github/stars/bytedance/IRASim.svg?style=social&label=Official)](https://github.com/bytedance/IRASim)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gen-irasim.github.io/)
 
-+ [iVideoGPT: Interactive VideoGPTs are Scalable World Models](https://arxiv.org/abs/2405.15223) (2024-05-24)
-[![Code](https://img.shields.io/github/stars/thuml/iVideoGPT.svg?style=social&label=Official)](https://github.com/thuml/iVideoGPT)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://thuml.github.io/iVideoGPT/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/thuml/ivideogpt-674c59cae32231024d82d6c5)
-
-+ [Model-Based Reinforcement Learning for Atari](https://arxiv.org/abs/1903.00374) (2019-03-01)
-
 
 <a name="2.3.2."></a>
 ### 2.3.2 Instruction Navigation World Model
-
-+ [NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants](https://arxiv.org/abs/2502.13894) (2025-02-19) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://21styouth.github.io/NavigateDiff/) 
 
 + [VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation](https://arxiv.org/abs/2411.09153) (2024-11-14) 
 
@@ -692,6 +690,9 @@ Action Navigation
 
 <a name="2.3.4."></a>
 ### 2.3.4 Hybrid Navigation World Model
++ [NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants](https://arxiv.org/abs/2502.13894) (2025-02-19) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://21styouth.github.io/NavigateDiff/) 
+
 
 + [RoboDreamer: Learning Compositional World Models for Robot Imagination](https://arxiv.org/abs/2404.12377) (2024-04-18) 
 [![Code](https://img.shields.io/github/stars/rainbow979/robodreamer.svg?style=social&label=Official)](https://github.com/rainbow979/robodreamer)
