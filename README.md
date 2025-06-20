@@ -38,6 +38,10 @@ This repository is updated periodically. If you have suggestions for additional 
         - [1.2.2 DiT Based Video Generation](#1.2.2.)
         - [1.2.3 Autoregressive Based Video Generation](#1.2.3.)
     - [1.3 Conditined World Model](#1.3.)
+        - [1.3.1 Conditined World Model in General Scene](#1.3.1.)
+        - [1.3.2 Conditined World Model in Robotics](#1.3.2.)
+        - [1.3.3 Conditined World Model in Autonomous Driving](#1.3.3.)
+        - [1.3.4 Conditined World Model in Gaming](#1.3.4.)
 
 - [2. Generation 2: Interactiveness - Controllability and Interactive Dynamics](#2.)
   - [2.1 High-quality World Foundation Model](#2.1.)
@@ -49,7 +53,6 @@ This repository is updated periodically. If you have suggestions for additional 
     - [2.2.5 Camera Motion Navigation World Model](#2.2.5.)
     - [2.2.6 Instruction Navigation World Model](#2.2.6.)
     - [2.2.7 Action Navigation World Model](#2.2.7.)
-    - [2.2.8 Internal Interaction World Model](#2.2.8.)
 
   - [2.3 Video Generation as World Model in Robotics](#2.3.)
     - [2.3.1 Action Navigation World Model](#2.3.1.)
@@ -272,6 +275,9 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://magvit.cs.cmu.edu/)
 <a name="1.3."></a>
 ## 1.3 Conditioned World Model
+
+<a name="1.3.1."></a>
+### 1.3.1 Conditined World Model in General Scene
 Geometry Condition
 + [Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions](https://arxiv.org/abs/2401.01827) (2024-01-03)
 [![Code](https://img.shields.io/github/stars/salesforce/LAVIS.svg?style=social&label=Official)](https://github.com/salesforce/LAVIS)
@@ -440,11 +446,31 @@ Camera Motion Navigation
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hehao13.github.io/projects-CameraCtrl/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/hehao13/CameraCtrl/tree/main)
 
+Instruction Navigation
++ [Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback](https://arxiv.org/abs/2412.02617) (2024-12-03)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/aif-dynamic-t2v/)
+
+
 Action Navigation
 
 + [WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens](https://arxiv.org/abs/2401.09985) (2024-01-18) 
 [![Code](https://img.shields.io/github/stars/JeffWang987/WorldDreamer.svg?style=social&label=Official)](https://github.com/JeffWang987/WorldDreamer)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-dreamer.github.io/)
+
+
+<a name="1.3.2."></a>
+### 1.3.2 Conditined World Model in Robotics
+
+
+<a name="1.3.3."></a>
+### 1.3.3 Conditined World Model in Autonomous Driving
+
+
+
+
+
+<a name="1.3.4."></a>
+### 1.3.4 Conditined World Model in Gaming
 
 <a name="2."></a>
 # 2. Generation 2: Interactiveness - Controllability and Interactive Dynamics
@@ -545,6 +571,9 @@ Action Navigation
 
 <a name="2.2.6."></a>
 ### 2.2.6 Instruction Navigation World Model
+
++ [ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation](https://arxiv.org/abs/2412.18600) (2024-12-24)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://awfuact.github.io/zerohsi/)
 + [SlowFast-VGen: Slow-Fast Learning for Action-driven Long Video Generation](https://arxiv.org/abs/2410.23277) (2024-10-30) 
 [![Code (to be released)](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen.svg?style=social&label=Official)](https://github.com/slowfast-vgen/slowfast-vgen)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://slowfast-vgen.github.io/) 
@@ -557,25 +586,15 @@ Action Navigation
 
 <a name="2.2.7."></a>
 ### 2.2.7 Action Navigation World Model
++ [Introducing Multiverse: The First AI Multiplayer World Model](https://enigma-labs.io/blog) (2025-05-08)
+[![Code](https://img.shields.io/github/stars/EnigmaLabsAI/multiverse.svg?style=social&label=Official)](https://github.com/EnigmaLabsAI/multiverse)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://enigma-labs.io/blog)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Enigma-AI)
 + [Aether: Geometric-Aware Unified World Modeling](https://arxiv.org/abs/2503.18945) (2025-03-24) 
 [![Code](https://img.shields.io/github/stars/OpenRobotLab/Aether.svg?style=social&label=Official)](https://github.com/OpenRobotLab/Aether)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://aether-world.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/AetherWorldModel/AetherV1)
 
-
-<a name="2.2.8."></a>
-### 2.2.8 Internal Interaction World Model
-
-+ [Introducing Multiverse: The First AI Multiplayer World Model](https://enigma-labs.io/blog) (2025-05-08)
-[![Code](https://img.shields.io/github/stars/EnigmaLabsAI/multiverse.svg?style=social&label=Official)](https://github.com/EnigmaLabsAI/multiverse)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://enigma-labs.io/blog)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Enigma-AI)
-
-+ [ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation](https://arxiv.org/abs/2412.18600) (2024-12-24)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://awfuact.github.io/zerohsi/)
-
-+ [Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback](https://arxiv.org/abs/2412.02617) (2024-12-03)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/aif-dynamic-t2v/)
 
 <a name="2.3."></a>
 ## 2.3 Video Generation as World Model in Robotics
