@@ -469,6 +469,11 @@ Action Navigation
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/thuml/ivideogpt-674c59cae32231024d82d6c5)
 
 + [Model-Based Reinforcement Learning for Atari](https://arxiv.org/abs/1903.00374) (2019-03-01)
+Instruction Navigation
++ [Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/abs/2302.00111) (2023-01-31) 
+[![Code](https://img.shields.io/github/stars/flow-diffusion/AVDC.svg?style=social&label=Official)](https://github.com/flow-diffusion/AVDC)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://universal-policy.github.io/unipi/)
+
 
 
 <a name="1.3.3."></a>
@@ -669,11 +674,6 @@ Action Navigation
 + [Compositional Foundation Models for Hierarchical Planning](https://arxiv.org/abs/2309.08587) (2023-09-15) 
 [![Code](https://img.shields.io/github/stars/anuragajay/hip.svg?style=social&label=Official)](https://github.com/anuragajay/hip/)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hierarchical-planning-foundation-model.github.io/)
-
-+ [Learning Universal Policies via Text-Guided Video Generation](https://arxiv.org/abs/2302.00111) (2023-01-31) 
-[![Code](https://img.shields.io/github/stars/flow-diffusion/AVDC.svg?style=social&label=Official)](https://github.com/flow-diffusion/AVDC)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://universal-policy.github.io/unipi/)
-
 
 <a name="2.3.3."></a>
 ### 2.3.3 Goal Navigation World Model
