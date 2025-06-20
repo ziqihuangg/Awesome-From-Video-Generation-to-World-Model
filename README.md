@@ -440,6 +440,11 @@ Camera Motion Navigation
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hehao13.github.io/projects-CameraCtrl/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/hehao13/CameraCtrl/tree/main)
 
+Action Navigation
+
++ [WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens](https://arxiv.org/abs/2401.09985) (2024-01-18) 
+[![Code](https://img.shields.io/github/stars/JeffWang987/WorldDreamer.svg?style=social&label=Official)](https://github.com/JeffWang987/WorldDreamer)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://world-dreamer.github.io/)
 
 <a name="2."></a>
 # 2. Generation 2: Interactiveness - Controllability and Interactive Dynamics
@@ -556,10 +561,6 @@ Camera Motion Navigation
 [![Code](https://img.shields.io/github/stars/OpenRobotLab/Aether.svg?style=social&label=Official)](https://github.com/OpenRobotLab/Aether)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://aether-world.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/AetherWorldModel/AetherV1)
-
-+ [WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens](https://arxiv.org/abs/2401.09985) (2024-01-18) 
-[![Code](https://img.shields.io/github/stars/JeffWang987/WorldDreamer.svg?style=social&label=Official)](https://github.com/JeffWang987/WorldDreamer)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://world-dreamer.github.io/)
 
 
 <a name="2.2.8."></a>
