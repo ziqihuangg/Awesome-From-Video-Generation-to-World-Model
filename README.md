@@ -59,6 +59,8 @@ This repository is updated periodically. If you have suggestions for additional 
     - [2.3.2 Instruction Navigation World Model](#2.3.2.)
     - [2.3.3 Goal Navigation World Model](#2.3.3.)
     - [2.3.4 Hybrid Navigation World Model](#2.3.4.)
+    - [2.3.5 Real-time Interactive World Model](#2.3.5.)
+
   
   - [2.4 Video Generation as World Model in Autonomous Driving](#2.4.)
     - [2.4.1 Layout Prior World Model](#2.4.1.)
