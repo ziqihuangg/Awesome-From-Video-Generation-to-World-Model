@@ -64,9 +64,9 @@ This repository is updated periodically. If you have suggestions for additional 
   
   - [2.4 Video Generation as World Model in Autonomous Driving](#2.4.)
     - [2.4.1 Layout Prior World Model](#2.4.1.)
-    - [2.4.1 Instruction Navigation World Model](#2.4.2.)
-    - [2.4.2 Trajectory Navigation World Model](#2.4.3.)
-    - [2.4.3 Action Navigation World Model](#2.4.4.)
+    - [2.4.2 Instruction Navigation World Model](#2.4.2.)
+    - [2.4.3 Trajectory Navigation World Model](#2.4.3.)
+    - [2.4.4 Action Navigation World Model](#2.4.4.)
     - [2.4.5 Hybrid Navigation World Model](#2.4.5.)
     - [2.4.6 Other Navigation World Model](#2.4.6.)
 
