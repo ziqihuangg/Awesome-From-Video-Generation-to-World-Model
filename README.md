@@ -485,9 +485,30 @@ Hybrid Navigation
 <a name="1.3.3."></a>
 ### 1.3.3 Conditined World Model in Autonomous Driving
 
+Layout Condition
++ [Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention](https://arxiv.org/abs/2412.03520) (2024-12-04)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://luhannan.github.io/CogDrivingPage/)
 
++ [MyGo: Consistent and Controllable Multi-View Driving Video Generation with Camera Control](https://arxiv.org/abs/2409.06189) (2024-09-10) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://metadrivescape.github.io/papers_project/MyGo/page.html)
++ [DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation](https://arxiv.org/abs/2409.05463) (2024-09-09)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://metadrivescape.github.io/papers_project/drivescapev1/index.html)
 
++ [Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation](https://arxiv.org/abs/2406.01349) (2024-06-03)
+[![Code (to be released)](https://img.shields.io/github/stars/westlake-autolab/Delphi.svg?style=social&label=Official)](https://github.com/westlake-autolab/Delphi)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://westlake-autolab.github.io/delphi.github.io/)
 
++ [SubjectDrive: Scaling Generative Data in Autonomous Driving via Subject Control](https://arxiv.org/abs/2403.19438) (2024-03-28) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://subjectdrive.github.io/)
+
++ [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2311.16813) (2023-11-28) 
+[![Code](https://img.shields.io/github/stars/wenyuqing/panacea.svg?style=social&label=Official)](https://github.com/wenyuqing/panacea)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://panacea-ad.github.io/)
++ [MagicDrive: Street View Generation with Diverse 3D Geometry Control](https://arxiv.org/abs/2310.02601) (2023-10-04) 
+[![Code](https://img.shields.io/github/stars/cure-lab/MagicDrive.svg?style=social&label=Official)](https://github.com/cure-lab/MagicDrive)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://gaoruiyuan.com/magicdrive/)
+
+Instruction Navigation
 
 <a name="1.3.4."></a>
 ### 1.3.4 Conditined World Model in Gaming
@@ -730,13 +751,7 @@ Hybrid Navigation
 [![Website](https://img.shields.io/badge/Website-9cf)](https://arlo0o.github.io/uniscene/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Arlolo0/UniScene/tree/main)
 
-+ [Seeing Beyond Views: Multi-View Driving Scene Video Generation with Holistic Attention](https://arxiv.org/abs/2412.03520) (2024-12-04)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://luhannan.github.io/CogDrivingPage/)
 
-+ [MyGo: Consistent and Controllable Multi-View Driving Video Generation with Camera Control](https://arxiv.org/abs/2409.06189) (2024-09-10) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://metadrivescape.github.io/papers_project/MyGo/page.html)
-+ [DriveScape: Towards High-Resolution Controllable Multi-View Driving Video Generation](https://arxiv.org/abs/2409.05463) (2024-09-09)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://metadrivescape.github.io/papers_project/drivescapev1/index.html)
 + [DreamForge: Motion-Aware Autoregressive Video Generation for Multi-View Driving Scenes](https://arxiv.org/abs/2409.04003) (2024-09-06) 
 [![Code](https://img.shields.io/github/stars/PJLab-ADG/DriveArena.svg?style=social&label=Official)](https://github.com/PJLab-ADG/DriveArena)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://pjlab-adg.github.io/DriveArena/dreamforge/)
@@ -745,24 +760,10 @@ Hybrid Navigation
 [![Code (to be released)](https://img.shields.io/github/stars/LiAutoAD/DIVE.svg?style=social&label=Official)](https://github.com/LiAutoAD/DIVE)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://liautoad.github.io/DIVE/)
 
-+ [Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation](https://arxiv.org/abs/2406.01349) (2024-06-03)
-[![Code (to be released)](https://img.shields.io/github/stars/westlake-autolab/Delphi.svg?style=social&label=Official)](https://github.com/westlake-autolab/Delphi)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://westlake-autolab.github.io/delphi.github.io/)
-
-+ [SubjectDrive: Scaling Generative Data in Autonomous Driving via Subject Control](https://arxiv.org/abs/2403.19438) (2024-03-28) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://subjectdrive.github.io/)
-
-+ [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2311.16813) (2023-11-28) 
-[![Code](https://img.shields.io/github/stars/wenyuqing/panacea.svg?style=social&label=Official)](https://github.com/wenyuqing/panacea)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://panacea-ad.github.io/)
-
 + [DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model](https://arxiv.org/abs/2310.07771) (2023-10-11) 
 [![Code](https://img.shields.io/github/stars/shalfun/DrivingDiffusion.svg?style=social&label=Official)](https://github.com/shalfun/DrivingDiffusion)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://drivingdiffusion.github.io/)
 
-+ [MagicDrive: Street View Generation with Diverse 3D Geometry Control](https://arxiv.org/abs/2310.02601) (2023-10-04) 
-[![Code](https://img.shields.io/github/stars/cure-lab/MagicDrive.svg?style=social&label=Official)](https://github.com/cure-lab/MagicDrive)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://gaoruiyuan.com/magicdrive/)
 <a name="2.4.2."></a>
 ### 2.4.2 Instruction Navigation World Model
 
