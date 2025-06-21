@@ -510,6 +510,9 @@ Layout Condition
 
 Instruction Navigation
 
++ [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/abs/2311.13549) (2023-11-22)
+
+
 <a name="1.3.4."></a>
 ### 1.3.4 Conditined World Model in Gaming
 
@@ -770,9 +773,6 @@ Instruction Navigation
 + [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845) (2024-03-11)
 [![Code](https://img.shields.io/github/stars/f1yfisher/DriveDreamer2.svg?style=social&label=Official)](https://github.com/f1yfisher/DriveDreamer2)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://drivedreamer2.github.io/)
-
-
-+ [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/abs/2311.13549) (2023-11-22) 
 
 <a name="2.4.3."></a>
 ### 2.4.3 Trajectory Navigation World Model
