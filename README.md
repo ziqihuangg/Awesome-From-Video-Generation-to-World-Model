@@ -540,6 +540,20 @@ Other Navigation
 [![Website](https://img.shields.io/badge/Website-9cf)](https://dk-liang.github.io/UniFuture/)
 <a name="1.3.4."></a>
 ### 1.3.4 Conditined World Model in Gaming
+Controller Navigation
++ [Video2 Game Generation: A Practical Study using Mario](https://virtual-protocol.github.io/mario-videogamegen/static/pdfs/VideoGameGen.pdf) (2024)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://virtual-protocol.github.io/mario-videogamegen/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/virtuals-protocol/mario-videogamegen)
+
++ [Playable Video Generation](https://arxiv.org/abs/2101.12195) (2021-01-28)
+[![Code](https://img.shields.io/github/stars/willi-menapace/PlayableVideoGeneration.svg?style=social&label=Official)](https://github.com/willi-menapace/PlayableVideoGeneration)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-video-generation-website/)
+
++ [Learning to Simulate Dynamic Environments with GameGAN](https://arxiv.org/abs/2005.12126) (2020-05-25)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/gameGAN/)
+
+
+
 
 <a name="2."></a>
 # 2. Generation 2: Interactiveness - Controllability and Interactive Dynamics
@@ -869,7 +883,7 @@ Other Navigation
 <a name="2.5."></a>
 ## 2.5 Video Generation as World Model in Gaming
 <a name="2.5.1."></a>
-### 2.5.1 Game Controller Navigation World Model
+### 2.5.1 Controller Navigation World Model
 + [WORLDMEM: Long-term Consistent World Simulation with Memory](https://arxiv.org/abs/2504.12369) (2025-04-16)
 [![Code](https://img.shields.io/github/stars/xizaoqu/WorldMem.svg?style=social&label=Official)](https://github.com/xizaoqu/WorldMem)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://xizaoqu.github.io/worldmem/)
@@ -919,19 +933,6 @@ Other Navigation
 
 + [Genie: Generative Interactive Environmentsl](https://arxiv.org/abs/2402.15391) (2024-02-23)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/genie-2024/?pli=1)
-
-+ [Video2 Game Generation: A Practical Study using Mario](https://virtual-protocol.github.io/mario-videogamegen/static/pdfs/VideoGameGen.pdf) (2024)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://virtual-protocol.github.io/mario-videogamegen/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/virtuals-protocol/mario-videogamegen)
-
-
-
-+ [Playable Video Generation](https://arxiv.org/abs/2101.12195) (2021-01-28)
-[![Code](https://img.shields.io/github/stars/willi-menapace/PlayableVideoGeneration.svg?style=social&label=Official)](https://github.com/willi-menapace/PlayableVideoGeneration)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-video-generation-website/)
-
-+ [Learning to Simulate Dynamic Environments with GameGAN](https://arxiv.org/abs/2005.12126) (2020-05-25)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/gameGAN/)
 
 
 
@@ -993,13 +994,6 @@ Other Navigation
 + [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) (2025-06-11) 
 [![Code](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Official)](https://github.com/facebookresearch/vjepa2)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)
-
-
-
-+ [Aether: Geometric-Aware Unified World Modeling](https://arxiv.org/abs/2503.18945) (2025-03-24) 
-[![Code](https://img.shields.io/github/stars/OpenRobotLab/Aether.svg?style=social&label=Official)](https://github.com/OpenRobotLab/Aether)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://aether-world.github.io/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/AetherWorldModel/AetherV1)
 
 + [Navigation World Models](https://arxiv.org/abs/2412.03572) (2024-12-04)
 [![Code](https://img.shields.io/github/stars/facebookresearch/nwm.svg?style=social&label=Official)](https://github.com/facebookresearch/nwm/)
