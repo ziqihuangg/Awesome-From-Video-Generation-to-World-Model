@@ -512,7 +512,32 @@ Instruction Navigation
 
 + [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/abs/2311.13549) (2023-11-22)
 
+Action Navigation
++ [WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation](https://arxiv.org/abs/2312.02934) (2023-12-05)
+[![Code](https://img.shields.io/github/stars/fudan-zvg/WoVoGen.svg?style=social&label=Official)](https://github.com/fudan-zvg/WoVoGen)
++ [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/abs/2309.09777) (2023-09-18)
+[![Code](https://img.shields.io/github/stars/JeffWang987/DriveDreamer.svg?style=social&label=Official)](https://drivedreamer.github.io/)
 
++ [Model-Based Imitation Learning for Urban Driving](https://arxiv.org/abs/2210.07729) (2022-10-14)
+[![Code](https://img.shields.io/github/stars/wayveai/mile.svg?style=social&label=Official)](https://github.com/wayveai/mile)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://wayve.ai/thinking/learning-a-world-model-and-a-driving-policy/)
+
++ [Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model](https://arxiv.org/abs/2210.04017) (2022-10-08)
+
++ [Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models](https://arxiv.org/abs/2205.13817) (2022-05-27)
+
++ [DriveGAN: Towards a Controllable High-Quality Neural Simulation](https://arxiv.org/abs/2104.15060) (2021-04-30)
+
++ [Learning a Driving Simulator](https://arxiv.org/abs/1608.01230) (2016-08-03)
+Hybrid Navigation
+
++ [GenAD: Generalized Predictive Model for Autonomous Driving](https://arxiv.org/abs/2403.09630) (2024-03-14)
+[![Code](https://img.shields.io/github/stars/OpenDriveLab/DriveAGI.svg?style=social&label=Official)](https://github.com/OpenDriveLab/DriveAGI)
+
+Other Navigation
++ [Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception](https://arxiv.org/abs/2503.13587) (2025-03-17)
+[![Code](https://img.shields.io/github/stars/dk-liang/UniFuture.svg?style=social&label=Official)](https://github.com/dk-liang/UniFuture)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://dk-liang.github.io/UniFuture/)
 <a name="1.3.4."></a>
 ### 1.3.4 Conditined World Model in Gaming
 
@@ -809,31 +834,12 @@ Instruction Navigation
 + [InfinityDrive: Breaking Time Limits in Driving World Models](https://arxiv.org/abs/2412.01522) (2024-12-02)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://metadrivescape.github.io/papers_project/InfinityDrive/page.html)
 
-+ [WoVoGen: World Volume-aware Diffusion for Controllable Multi-camera Driving Scene Generation](https://arxiv.org/abs/2312.02934) (2023-12-05)
-[![Code](https://img.shields.io/github/stars/fudan-zvg/WoVoGen.svg?style=social&label=Official)](https://github.com/fudan-zvg/WoVoGen)
 
 + [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving](https://arxiv.org/abs/2311.17918) (2023-11-29)
 [![Code](https://img.shields.io/github/stars/BraveGroup/Drive-WM.svg?style=social&label=Official)](https://github.com/BraveGroup/Drive-WM)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://drive-wm.github.io/)
 
 + [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080) (2023-09-29)
-
-+ [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/abs/2309.09777) (2023-09-18)
-[![Code](https://img.shields.io/github/stars/JeffWang987/DriveDreamer.svg?style=social&label=Official)](https://drivedreamer.github.io/)
-
-+ [Model-Based Imitation Learning for Urban Driving](https://arxiv.org/abs/2210.07729) (2022-10-14)
-[![Code](https://img.shields.io/github/stars/wayveai/mile.svg?style=social&label=Official)](https://github.com/wayveai/mile)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://wayve.ai/thinking/learning-a-world-model-and-a-driving-policy/)
-
-+ [Enhance Sample Efficiency and Robustness of End-to-end Urban Autonomous Driving via Semantic Masked World Model](https://arxiv.org/abs/2210.04017) (2022-10-08)
-
-+ [Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models](https://arxiv.org/abs/2205.13817) (2022-05-27)
-
-+ [DriveGAN: Towards a Controllable High-Quality Neural Simulation](https://arxiv.org/abs/2104.15060) (2021-04-30)
-
-+ [Learning a Driving Simulator](https://arxiv.org/abs/1608.01230) (2016-08-03)
-
-
 
 
 <a name="2.4.5."></a>
@@ -846,31 +852,18 @@ Instruction Navigation
 [![Code](https://img.shields.io/github/stars/SenseTime-FVG/OpenDWM.svg?style=social&label=Official)](https://github.com/SenseTime-FVG/OpenDWM)
 
 
-
-
 + [Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability](https://arxiv.org/abs/2405.17398) (2024-05-27)
 [![Code](https://img.shields.io/github/stars/OpenDriveLab/Vista.svg?style=social&label=Official)](https://github.com/OpenDriveLab/Vista)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://opendrivelab.com/Vista/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/OpenDriveLab/Vista)
 
 
-+ [GenAD: Generalized Predictive Model for Autonomous Driving](https://arxiv.org/abs/2403.09630) (2024-03-14)
-[![Code](https://img.shields.io/github/stars/OpenDriveLab/DriveAGI.svg?style=social&label=Official)](https://github.com/OpenDriveLab/DriveAGI)
-
-
-
 <a name="2.4.6."></a>
 ### 2.4.6 Other Navigation World Model
-
-+ [Seeing the Future, Perceiving the Future: A Unified Driving World Model for Future Generation and Perception](https://arxiv.org/abs/2503.13587) (2025-03-17)
-[![Code](https://img.shields.io/github/stars/dk-liang/UniFuture.svg?style=social&label=Official)](https://github.com/dk-liang/UniFuture)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://dk-liang.github.io/UniFuture/)
 
 + [Physical Informed Driving World Model](https://arxiv.org/abs/2412.08410) (2024-12-11)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://metadrivescape.github.io/papers_project/DrivePhysica/page.html)
 
-+ [Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis](https://arxiv.org/abs/2405.14868) (2024-05-23)
-   ><i>Note: with relative camera  extrinsics navigation</i>
 
 
 <a name="2.5."></a>
