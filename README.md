@@ -555,12 +555,15 @@ Controller Navigation
 [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/gameGAN/)
 
 Action Navigation
++ [Promptable Game Models: Text-Guided Game Simulation via Masked Diffusion Models](https://arxiv.org/abs/2303.13472) (2023-03-23)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/promptable-game-models/)
 + [Transformer-based World Models Are Happy With 100k Interactions](https://arxiv.org/abs/2303.07109) (2023-03-13)
 [![Code](https://img.shields.io/github/stars/jrobine/twm.svg?style=social&label=Official)](https://github.com/jrobine/twm)
 
 + [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104) (2023-01-10)
 [![Code](https://img.shields.io/github/stars/danijar/dreamerv3.svg?style=social&label=Official)](https://github.com/danijar/dreamerv3)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://danijar.com/project/dreamerv3/)
+
 
 + [Learning General World Models in a Handful of Reward-Free Deployments](https://arxiv.org/abs/2210.12719) (2022-10-23)
 [![Code](https://img.shields.io/github/stars/facebookresearch/cascade.svg?style=social&label=Official)](https://github.com/facebookresearch/cascade)
@@ -569,7 +572,9 @@ Action Navigation
 + [Transformers are Sample-Efficient World Models](https://arxiv.org/abs/2209.00588) (2022-09-05)
 [![Code](https://img.shields.io/github/stars/eloialonso/iris.svg?style=social&label=Official)](https://github.com/eloialonso/iris)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://danijar.com/project/dreamerv3/)
-
++ [Playable Environments: Video Manipulation in Space and Time](https://arxiv.org/abs/2203.01914) (2022-03-03)
+[![Code](https://img.shields.io/github/stars/willi-menapace/PlayableEnvironments.svg?style=social&label=Official)](https://github.com/willi-menapace/PlayableEnvironments)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-environments-website/)
 + [Mastering Atari with Discrete World Models](https://arxiv.org/abs/2010.02193) (2020-10-05)
 [![Code](https://img.shields.io/github/stars/danijar/dreamerv2.svg?style=social&label=Official)](https://github.com/danijar/dreamerv2)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://danijar.com/project/dreamerv2/)
@@ -582,13 +587,6 @@ Action Navigation
 + [Recurrent Environment Simulators](https://arxiv.org/abs/1704.02254) (2017-04-07)
 Hybrid Navigation
 
-+ [Promptable Game Models: Text-Guided Game Simulation via Masked Diffusion Models](https://arxiv.org/abs/2303.13472) (2023-03-23)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/promptable-game-models/)
-
-
-+ [Playable Environments: Video Manipulation in Space and Time](https://arxiv.org/abs/2203.01914) (2022-03-03)
-[![Code](https://img.shields.io/github/stars/willi-menapace/PlayableEnvironments.svg?style=social&label=Official)](https://github.com/willi-menapace/PlayableEnvironments)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://willi-menapace.github.io/playable-environments-website/)
 
 
 <a name="2."></a>
