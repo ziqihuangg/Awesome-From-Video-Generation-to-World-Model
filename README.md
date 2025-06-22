@@ -511,6 +511,11 @@ Instruction Navigation
 [![Code](https://img.shields.io/github/stars/flow-diffusion/AVDC.svg?style=social&label=Official)](https://github.com/flow-diffusion/AVDC)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://universal-policy.github.io/unipi/)
 
+Goal Navigation
++ [Robot Motion Planning as Video Prediction: A Spatio-Temporal Neural Network-based Motion Planner](https://ieeexplore.ieee.org/abstract/document/9981769) (2022-12-26) 
+
+
+
 Hybrid Navigation
 
 + [RoboDreamer: Learning Compositional World Models for Robot Imagination](https://arxiv.org/abs/2404.12377) (2024-04-18) 
