@@ -564,6 +564,7 @@ Action Navigation
 + [DriveGAN: Towards a Controllable High-Quality Neural Simulation](https://arxiv.org/abs/2104.15060) (2021-04-30)
 
 + [Learning a Driving Simulator](https://arxiv.org/abs/1608.01230) (2016-08-03)
+
 Hybrid Navigation
 
 + [GenAD: Generalized Predictive Model for Autonomous Driving](https://arxiv.org/abs/2403.09630) (2024-03-14)
