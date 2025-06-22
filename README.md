@@ -34,9 +34,10 @@ This repository is updated periodically. If you have suggestions for additional 
 - [1. Generation 1: Faithfulness - Accurate Simulation of the Real World](#1.)
     - [1.1 Video Foundation Model](#1.1.)
     - [1.2 Other Video Generation Model](#1.2.)
-        - [1.2.1 U-Net Based Video Generation](#1.2.1.)
-        - [1.2.2 DiT Based Video Generation](#1.2.2.)
-        - [1.2.3 Autoregressive Based Video Generation](#1.2.3.)
+        - [1.2.1 GAN Based Video Generation](#1.2.1.)
+        - [1.2.2 U-Net Based Video Generation](#1.2.2.)
+        - [1.2.3 DiT Based Video Generation](#1.2.3.)
+        - [1.2.4 Autoregressive Based Video Generation](#1.2.4.)
     - [1.3 Conditined World Model](#1.3.)
         - [1.3.1 Conditined World Model in General Scene](#1.3.1.)
         - [1.3.2 Conditined World Model in Robotics](#1.3.2.)
@@ -125,9 +126,41 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="1.2."></a>
 ## 1.2 Other Video Generation Model
+
 <a name="1.2.1."></a>
-### 1.2.1 U-Net Based Video Generation
-+ [MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators](https://arxiv.org/abs/2404.05014) (2024-04-07) 
+### 1.2.1 GAN Based Video Generation
+
++ [MoStGAN-V: Video Generation with Temporal Motion Styles](https://arxiv.org/abs/2304.02777) (2023-04-05) 
+[![Code](https://img.shields.io/github/stars/xiaoqian-shen/MoStGAN-V.svg?style=social&label=Official)](https://github.com/xiaoqian-shen/MoStGAN-V)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://skor.sh/stylegan-v)
+
++ [Generating Videos with Dynamics-aware Implicit Generative Adversarial Networks](https://arxiv.org/abs/2202.10571) (2022-02-21) 
+[![Code](https://img.shields.io/github/stars/sihyun-yu/digan.svg?style=social&label=Official)](https://github.com/sihyun-yu/digan)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://sihyun.me/digan/) 
+
+
++ [StyleGAN-V: A Continuous Video Generator with the Price, Image Quality and Perks of StyleGAN2](https://arxiv.org/abs/2112.14683) (2021-12-29) 
+[![Code](https://img.shields.io/github/stars/universome/stylegan-v.svg?style=social&label=Official)](https://github.com/universome/stylegan-v)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://xiaoqian-shen.github.io/MoStGAN-V/)
+
+
++ [Temporal Shift GAN for Large Scale Video Generation](https://arxiv.org/abs/2004.01823) (2020-04-04)
++ [Adversarial Video Generation on Complex Datasets](https://arxiv.org/abs/1907.06571) (2019-07-15) 
+
++ [IRC-GAN: Introspective Recurrent Convolutional GAN for Text-to-video Generation](https://www.ijcai.org/proceedings/2019/0307.pdf) (2019-03-07)
+
++ [To Create What You Tell: Generating Videos from Captions](https://arxiv.org/abs/1804.08264) (2018-04-23) 
+
++ [MoCoGAN: Decomposing Motion and Content for Video Generation](https://arxiv.org/abs/1707.04993) (2017-07-17) 
+
++ [Temporal Generative Adversarial Nets with Singular Value Clipping](https://arxiv.org/abs/1611.06624) (2016-11-21) 
+
++ [Generating Videos with Scene Dynamics](https://arxiv.org/abs/1609.02612) (2016-09-08) 
+
++ [Temporal texture modeling](https://ieeexplore.ieee.org/abstract/document/560871) (2002-08-06) 
+<a name="1.2.2."></a>
+### 1.2.2 U-Net Based Video Generation
++ [MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators](https://arxiv.org/abs/2404.05014) (2023-04-05) 
 [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/MagicTime.svg?style=social&label=Official)](https://github.com/PKU-YuanGroup/MagicTime/tree/main)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/MagicTime/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/BestWishYsh/MagicTime)
@@ -191,8 +224,8 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Code](https://img.shields.io/github/stars/voletiv/mcvd-pytorch.svg?style=social&label=Official)](https://github.com/voletiv/mcvd-pytorch)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://mask-cond-video-diffusion.github.io/)
 
-<a name="1.2.2."></a>
-### 1.2.2 DiT Based Video Generation
+<a name="1.2.3."></a>
+### 1.2.3 DiT Based Video Generation
 
 + [Training-Free Efficient Video Generation via Dynamic Token Carving](https://arxiv.org/abs/2505.16864) (2025-05-22)
 [![Code](https://img.shields.io/github/stars/dvlab-research/Jenga.svg?style=social&label=Official)](https://github.com/dvlab-research/Jenga/)
@@ -245,8 +278,8 @@ This repository is updated periodically. If you have suggestions for additional 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://walt-video-diffusion.github.io/)
 
 
-<a name="1.2.3."></a>
-### 1.2.3 Autoregressive Based Video Generation
+<a name="1.2.4."></a>
+### 1.2.4 Autoregressive Based Video Generation
 + [Owl-1: Omni World Model for Consistent Long Video Generation](https://arxiv.org/abs/2412.09600) (2024-12-12) 
 [![Code](https://img.shields.io/github/stars/huang-yh/Owl.svg?style=social&label=Official)](https://github.com/huang-yh/Owl)
 
