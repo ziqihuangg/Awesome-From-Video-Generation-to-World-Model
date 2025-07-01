@@ -122,7 +122,7 @@ This repository is updated periodically. If you have suggestions for additional 
 | 2023-07-10 | ICLR24 | AnimateDiff | [AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning](https://arxiv.org/abs/2307.04725) | [![Website](https://img.shields.io/badge/Website-9cf)](https://animatediff.github.io/) | [![Code](https://img.shields.io/github/stars/guoyww/AnimateDiff.svg?style=social&label=Official)](https://github.com/guoyww/AnimateDiff) |
 | 2023-06-29 | Arxiv | Pika |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://pika.art/home) |  |
 | 2023-06-07 |  | Gen-2 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/ai-tools/gen-2/) |  |
-| 2022-05-29 | Arxiv | CogVideo | [CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers](https://arxiv.org/abs/2205.15868) |  | [![Code](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Official)](https://github.com/THUDM/CogVideo) |
+| 2022-05-29 | ICLR23 | CogVideo | [CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers](https://arxiv.org/abs/2205.15868) |  | [![Code](https://img.shields.io/github/stars/THUDM/CogVideo.svg?style=social&label=Official)](https://github.com/THUDM/CogVideo) |
 
 <a name="1.2."></a>
 ## 1.2 Other Video Generation Model
