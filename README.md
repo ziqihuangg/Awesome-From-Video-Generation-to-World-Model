@@ -1101,6 +1101,8 @@ Hybrid Navigation
 
 <a name="5.2."></a>
 ## 5.2 Evaluation Metrics of World Model
++ [Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation](https://arxiv.org/abs/2506.21876) (2025-06-27) 
+
 + [Evaluating Robot Policies in a World Model](https://arxiv.org/abs/2506.00613) (2025-05-31) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-model-eval.github.io/)
 
