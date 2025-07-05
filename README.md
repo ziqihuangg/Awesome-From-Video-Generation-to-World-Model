@@ -756,6 +756,11 @@ Hybrid Navigation
 ## 2.3 Video Generation as World Model in Robotics
 <a name="2.3.1."></a>
 ### 2.3.1 Action Navigation World Model
++ [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539) (2025-06-26)
+[![Code](https://img.shields.io/github/stars/alibaba-damo-academy/WorldVLA.svg?style=social&label=Official)](https://github.com/alibaba-damo-academy/WorldVLA)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Alibaba-DAMO-Academy/WorldVLA)
+
+
 + [Consistent World Models via Foresight Diffusion](https://arxiv.org/abs/2505.16474) (2025-05-22)
 
 + [Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control](https://arxiv.org/abs/2503.14492) (2025-03-18)
@@ -888,6 +893,10 @@ Hybrid Navigation
 
 <a name="2.4.3."></a>
 ### 2.4.3 Trajectory Navigation World Model
+
++ [Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/abs/2506.24113) (2025-06-30)
+[![Code](https://img.shields.io/github/stars/Kevin-thu/Epona.svg?style=social&label=Official)](https://github.com/Kevin-thu/Epona/)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://kevin-thu.github.io/Epona/)
 
 + [Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies  Ego-Other Vehicle Trajectories in Video Latent Space](https://arxiv.org/abs/2503.09215) (2025-03-12)
 
