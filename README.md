@@ -160,6 +160,10 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Temporal texture modeling](https://ieeexplore.ieee.org/abstract/document/560871) (2002-08-06) 
 <a name="1.2.2."></a>
 ### 1.2.2 U-Net Based Video Generation
++ [ZoLA: Zero-Shot Creative Long Animation Generation with Short Video Model](https://link.springer.com/chapter/10.1007/978-3-031-72995-9_19) (2024-11-24) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://gen-l-2.github.io/) 
+
+
 + [MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators](https://arxiv.org/abs/2404.05014) (2024-04-05) 
 [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/MagicTime.svg?style=social&label=Official)](https://github.com/PKU-YuanGroup/MagicTime/tree/main)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/MagicTime/) 
@@ -191,12 +195,21 @@ This repository is updated periodically. If you have suggestions for additional 
 
 
  + [Emu Video: Factorizing Text-to-Video Generation by Explicit Image Conditioning](https://arxiv.org/abs/2311.10709) (2023-11-17) 
-[![Website](https://img.shields.io/badge/Website-9cf)](https://emu-video.metademolab.com/) 
+[![Website](https://img.shields.io/badge/Website-9cf)](https://emu-video.metademolab.com/)
+
++ [FreeNoise: Tuning-Free Longer Video Diffusion via Noise Rescheduling](https://arxiv.org/abs/2310.15169) (2023-10-23) 
+[![Code](https://img.shields.io/github/stars/AILab-CVC/FreeNoise.svg?style=social&label=Official)](https://github.com/AILab-CVC/FreeNoise)
+[![Website](https://img.shields.io/badge/Website-9cf)](http://haonanqiu.com/projects/FreeNoise.html)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/MoonQiu/FreeNoise)
 
 + [DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors](https://arxiv.org/abs/2310.12190) (2023-10-18) 
 [![Code](https://img.shields.io/github/stars/Doubiiu/DynamiCrafter.svg?style=social&label=Official)](https://github.com/Doubiiu/DynamiCrafter)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://doubiiu.github.io/projects/DynamiCrafter) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/papers/2310.12190)
+
++ [Gen-L-Video: Multi-Text to Long Video Generation via Temporal Co-Denoising](https://arxiv.org/abs/2305.18264) (2023-05-29)
+[![Code](https://img.shields.io/github/stars/G-U-N/Gen-L-Video.svg?style=social&label=Official)](https://github.com/G-U-N/Gen-L-Video)
+[![Website](https://img.shields.io/badge/Website-9cf)]([https://codi-gen.github.io/](https://g-u-n.github.io/projects/gen-long-video/index.html))
 
 
 + [Any-to-Any Generation via Composable Diffusion](https://arxiv.org/abs/2305.11846) (2023-05-19)
@@ -289,6 +302,10 @@ This repository is updated periodically. If you have suggestions for additional 
 + [DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion](https://arxiv.org/abs/2411.04928) (2024-11-07)
 [![Code](https://img.shields.io/github/stars/wenqsun/DimensionX.svg?style=social&label=Official)](https://github.com/wenqsun/DimensionX)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://chenshuo20.github.io/DimensionX/)
+
++ [Loong: Generating Minute-level Long Videos with Autoregressive Language Models](https://arxiv.org/abs/2410.02757) (2024-10-03)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://yuqingwang1029.github.io/Loong-video/) 
+
 
 + [VideoTetris: Towards Compositional Text-to-Video Generation](https://arxiv.org/abs/2406.04277) (2024-06-06)
 [![Code](https://img.shields.io/github/stars/YangLing0818/VideoTetris.svg?style=social&label=Official)](https://github.com/YangLing0818/VideoTetris)
