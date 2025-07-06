@@ -693,7 +693,10 @@ Hybrid Navigation
 <a name="2.2.2."></a>
 ### 2.2.2 3D Condition Prior World Model
 
-
++ [LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion](https://arxiv.org/abs/2507.02813) (2025-07-03)
+[![Code](https://img.shields.io/github/stars/liuff19/LangScene-X.svg?style=social&label=Official)](https://github.com/liuff19/LangScene-X)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://liuff19.github.io/LangScene-X/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/chijw/LangScene-X)
 + [Diffusion as Shader: 3D-aware Video Diffusion for Versatile Video Generation Control](https://arxiv.org/abs/2501.03847) (2025-01-07)
 [![Code](https://img.shields.io/github/stars/IGL-HKUST/DiffusionAsShader.svg?style=social&label=Official)](https://github.com/IGL-HKUST/DiffusionAsShader)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://igl-hkust.github.io/das/)
