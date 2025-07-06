@@ -1146,6 +1146,9 @@ Hybrid Navigation
 
 + [Joint Perception and Prediction for Autonomous Driving: A Survey](https://arxiv.org/abs/2412.14088) (2024-12-18)
 
++ [Understanding World or Predicting Future? A Comprehensive Survey of World Models](https://arxiv.org/abs/2411.14499) (2024-11-21)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/tsinghua-fib-lab/World-Model)
+
 + [Exploring the Interplay Between Video Generation and World Models in Autonomous Driving: A Survey](https://arxiv.org/abs/2411.02914) (2024-11-05)
 
 + [From Sora What We Can See: A Survey of Text-to-Video Generation](https://arxiv.org/abs/2405.10674) (2024-05-17)
