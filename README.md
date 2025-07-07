@@ -666,7 +666,6 @@ Hybrid Navigation
 
 |     Date     | Venue | Acronym | Paper | Project | Repo@GitHub | 
 |--------------|-------|---------|-------|---------|-------------|
-
 | 2025-06-10 | Arxiv | Seedance 1.0 | [Seedance 1.0: Exploring the Boundaries of Video Generation Models](https://arxiv.org/abs/2506.09113) | [![Website](https://img.shields.io/badge/Website-9cf)](https://seed.bytedance.com/en/seedance) |  |
 | 2025-05-19 | Arxiv | MAGI-1 | [MAGI-1: Autoregressive Video Generation at Scale](https://arxiv.org/abs/2505.13211) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sand.ai/) | [![Code](https://img.shields.io/github/stars/SandAI-org/MAGI-1.svg?style=social&label=Official)](https://github.com/SandAI-org/MAGI-1) |
 | 2025-05 |  | Voe 3 | [Veo 3: AI Video Generation with Realistic Sound](https://veo3.ai/) | [![Website](https://img.shields.io/badge/Website-9cf)](https://deepmind.google/models/veo/) |  |
