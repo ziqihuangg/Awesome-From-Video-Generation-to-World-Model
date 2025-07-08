@@ -305,8 +305,10 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Owl-1: Omni World Model for Consistent Long Video Generation](https://arxiv.org/abs/2412.09600) (2024-12-12) 
 [![Code](https://img.shields.io/github/stars/huang-yh/Owl.svg?style=social&label=Official)](https://github.com/huang-yh/Owl)
 
-+ [STIV: Scalable Text and Image Conditioned Video Generation](https://arxiv.org/abs/2412.07730) (2024-12-10)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://huggingface.co/papers/2412.07730)
++ [From Slow Bidirectional to Fast Autoregressive Video Diffusion Models](https://arxiv.org/abs/2412.07772) (2024-12-10) 
+[![Code](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Official)](https://github.com/tianweiy/CausVid)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/tianweiy/CausVid)
 
 + [DimensionX: Create Any 3D and 4D Scenes from a Single Image with Controllable Video Diffusion](https://arxiv.org/abs/2411.04928) (2024-11-07)
 [![Code](https://img.shields.io/github/stars/wenqsun/DimensionX.svg?style=social&label=Official)](https://github.com/wenqsun/DimensionX)
