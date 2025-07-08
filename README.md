@@ -100,7 +100,7 @@ This repository is updated periodically. If you have suggestions for additional 
 |     Date     | Venue | Acronym | Paper | Project | Repo@GitHub | 
 |--------------|-------|---------|-------|---------|-------------|
 | 2024-12-30 | Arxiv | LTX-Video | [LTX-Video: Realtime Video Latent Diffusion](https://arxiv.org/abs/2501.00103) | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.lightricks.com/) | [![Code](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Official)](https://github.com/Lightricks/LTX-Video) |
-| 2024-12-10 | Arxiv | STIV | [From Slow Bidirectional to Fast Autoregressive Video Diffusion Models](https://arxiv.org/abs/2412.07772) | [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/) | [![Code](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Official)](https://github.com/tianweiy/CausVid) |
+| 2024-12-10 | Arxiv | STIV | [STIV: Scalable Text and Image Conditioned Video Generation](https://arxiv.org/abs/2412.07730) |  |  |
 | 2024-09-24 |  | JT-CV |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/jiutiancv/JV-CV-T2V) |  |
 | 2024-09 |  | Hailuo AI |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://hailuoai.video/) |  |
 | 2024-06-13 |  | Luma |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://lumalabs.ai/dream-machine/) |  |
