@@ -1005,6 +1005,9 @@ Hybrid Navigation
 ## 2.5 Video Generation as World Model in Gaming
 <a name="2.5.1."></a>
 ### 2.5.1 Controller Navigation World Model
++ [The World's First AI-Native UGC Game Engine Powered by Real-Time World Model](https://blog.dynamicslab.ai/) (2025-07-03)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://blog.dynamicslab.ai/)
+
 + [WORLDMEM: Long-term Consistent World Simulation with Memory](https://arxiv.org/abs/2504.12369) (2025-04-16)
 [![Code](https://img.shields.io/github/stars/xizaoqu/WorldMem.svg?style=social&label=Official)](https://github.com/xizaoqu/WorldMem)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://xizaoqu.github.io/worldmem/)
