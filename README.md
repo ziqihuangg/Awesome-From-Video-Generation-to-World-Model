@@ -106,7 +106,6 @@ This repository is updated periodically. If you have suggestions for additional 
 | 2024-02-22 |  | Snap Video | [Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis](https://arxiv.org/abs/2402.14797) | [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/snapvideo/) |  |
 | 2024-01-23 | Arxiv | Lumiere | [Lumiere: A Space-Time Diffusion Model for Video Generation](https://arxiv.org/abs/2401.12945) | [![Website](https://img.shields.io/badge/Website-9cf)](https://lumiere-video.github.io/) |  |
 | 2024-01-17 | CVPR24 | VideoCrafter2 | [Videocrafter2:Overcoming data limitations for high-quality video diffusion models](https://arxiv.org/abs/2401.09047) | [![Website](https://img.shields.io/badge/Website-9cf)](https://ailab-cvc.github.io/videocrafter2/) | [![Code](https://img.shields.io/github/stars/AILab-CVC/VideoCrafter.svg?style=social&label=Official)](https://github.com/AILab-CVC/VideoCrafter) |
-| 2024-01-16 | ECCV | SiT | [SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740) | [![Website](https://img.shields.io/badge/Website-9cf)](https://scalable-interpolant.github.io/) | [![Code](https://img.shields.io/github/stars/willisma/SiT.svg?style=social&label=Official)](https://github.com/willisma/SiT) |
 | 2024-01-09 | Arxiv | MagicVideo-V2 | [MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation](https://arxiv.org/abs/2401.04468) | [![Website](https://img.shields.io/badge/Website-9cf)](https://magicvideov2.github.io/) |  |
 | 2024-01-05 | TMLR25 | Latte | [Latte: Latent Diffusion Transformer for Video Generation](https://arxiv.org/abs/2401.03048) | [![Website](https://img.shields.io/badge/Website-9cf)](https://maxin-cn.github.io/latte_project/) | [![Code](https://img.shields.io/github/stars/Vchitect/Latte.svg?style=social&label=Official)](https://github.com/Vchitect/Latte) |
 | 2023-12-07 | Arxiv | HiGen | [Hierarchical Spatio-temporal Decoupling for Text-to-Video Generation](https://arxiv.org/abs/2312.04483)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://higen-t2v.github.io/) | [![Code](https://img.shields.io/github/stars/ali-vilab/VGen.svg?style=social&label=Official)](https://github.com/ali-vilab/VGen) |
@@ -294,6 +293,10 @@ This repository is updated periodically. If you have suggestions for additional 
 + [T2v-turbo: Breaking the quality bottleneck of video consistency model with mixed reward feedback](https://arxiv.org/abs/2405.18750) (2024-05-29) 
 [![Code](https://img.shields.io/github/stars/Ji4chenLi/t2v-turbo.svg?style=social&label=Official)](https://github.com/Ji4chenLi/t2v-turbo)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://t2v-turbo.github.io/)
+
++ [SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers](https://arxiv.org/abs/2401.08740) (2024-01-16) 
+[![Code](https://img.shields.io/github/stars/willisma/SiT.svg?style=social&label=Official)](https://github.com/willisma/SiT)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://scalable-interpolant.github.io/)
 
 + [Photorealistic Video Generation with Diffusion Models](https://arxiv.org/abs/2312.06662) (2023-12-11) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://walt-video-diffusion.github.io/)
