@@ -1176,6 +1176,8 @@ Hybrid Navigation
 # 6. Study and Rethinking
 <a name="6.1."></a>
 ## 6.1 Survey
++ [A Survey: Learning Embodied Intelligence from Physical Simulators and World Models](https://arxiv.org/abs/2507.00917) (2025-07-01)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)
 
 + [A Survey of Interactive Generative Video](https://arxiv.org/abs/2504.21853) (2025-04-30)
 
