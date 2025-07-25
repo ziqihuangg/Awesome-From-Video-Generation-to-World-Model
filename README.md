@@ -700,6 +700,8 @@ Hybrid Navigation
 | 2024-05-07 | Arxiv | Vidu |  [Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator with Diffusion Models](https://arxiv.org/abs/2405.04233) | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.vidu.com/zh) |  |
 | 2024-02-15 |  | Sora | [Video generation models as world simulators](https://openai.com/index/video-generation-models-as-world-simulators/) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sora.com/library) |  |
 
++ [Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling](https://arxiv.org/abs/2507.07982) (2025-07-10)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://geometryforcing.github.io/)
 
 <a name="2.2."></a>
 ## 2.2 Video Generation as World Model in General Scenes
@@ -755,6 +757,8 @@ Hybrid Navigation
 
 <a name="2.2.5."></a>
 ### 2.2.5 Camera Motion Navigation World Model
++ [AirScape: An Aerial Generative World Model with Motion Controllability](https://arxiv.org/abs/2507.08885) (2025-07-10)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://embodiedcity.github.io/AirScape/)
 
 + [Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](https://arxiv.org/abs/2506.03141) (2025-06-03)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://context-as-memory.github.io/)
@@ -802,6 +806,11 @@ Hybrid Navigation
 ## 2.3 Video Generation as World Model in Robotics
 <a name="2.3.1."></a>
 ### 2.3.1 Action Navigation World Model
++ [MindJourney: Test-Time Scaling with World Models for Spatial Reasoning](https://www.arxiv.org/abs/2507.12508) (2025-07-16)
+[![Code](https://img.shields.io/github/stars/UMass-Embodied-AGI/MindJourney.svg?style=social&label=Official)](https://github.com/UMass-Embodied-AGI/MindJourney)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://umass-embodied-agi.github.io/MindJourney/)
+
+
 + [EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling](https://arxiv.org/abs/2507.05198) (2025-07-07)
 [![Code (coming soon)](https://img.shields.io/github/stars/GigaAI-research/EmbodieDreamer.svg?style=social&label=Official)](https://github.com/GigaAI-research/EmbodieDreamer)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://embodiedreamer.github.io/)
@@ -1007,6 +1016,9 @@ Hybrid Navigation
 
 <a name="2.4.6."></a>
 ### 2.4.6 Other Navigation World Model
++ [Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models](https://arxiv.org/abs/2507.13162) (2025-07-17)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://lmb-freiburg.github.io/orbis.github.io/)
+
 
 + [Physical Informed Driving World Model](https://arxiv.org/abs/2412.08410) (2024-12-11)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://metadrivescape.github.io/papers_project/DrivePhysica/page.html)
@@ -1075,6 +1087,7 @@ Hybrid Navigation
 <a name="2.5.2."></a>
 ### 2.5.2 Action Navigation World Model
 + [Accurate and Efficient World Modeling with Masked Latent Transformers](https://arxiv.org/abs/2507.04075) (2025-07-05)
++ [DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning](https://arxiv.org/abs/2411.04983) (2024-11-07)
 
 
 <a name="2.5.3."></a>
