@@ -802,6 +802,10 @@ Hybrid Navigation
 ## 2.3 Video Generation as World Model in Robotics
 <a name="2.3.1."></a>
 ### 2.3.1 Action Navigation World Model
++ [EmbodieDreamer: Advancing Real2Sim2Real Transfer for Policy Training via Embodied World Modeling](https://arxiv.org/abs/2507.05198) (2025-07-07)
+[![Code (coming soon)](https://img.shields.io/github/stars/GigaAI-research/EmbodieDreamer.svg?style=social&label=Official)](https://github.com/GigaAI-research/EmbodieDreamer)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://embodiedreamer.github.io/)
+
 + [WorldVLA: Towards Autoregressive Action World Model](https://arxiv.org/abs/2506.21539) (2025-06-26)
 [![Code](https://img.shields.io/github/stars/alibaba-damo-academy/WorldVLA.svg?style=social&label=Official)](https://github.com/alibaba-damo-academy/WorldVLA)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Alibaba-DAMO-Academy/WorldVLA)
@@ -883,6 +887,11 @@ Hybrid Navigation
 
 <a name="2.3.4."></a>
 ### 2.3.4 Hybrid Navigation World Model
++ [DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge](https://arxiv.org/abs/2507.04447) (2025-07-06) 
+[![Code](https://img.shields.io/github/stars/Zhangwenyao1/DreamVLA.svg?style=social&label=Official)](https://github.com/Zhangwenyao1/DreamVLA)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://zhangwenyao1.github.io/DreamVLA/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/WenyaoZhang/DreamVLA)
+
 + [NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants](https://arxiv.org/abs/2502.13894) (2025-02-19) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://21styouth.github.io/NavigateDiff/) 
 
@@ -1065,7 +1074,7 @@ Hybrid Navigation
 
 <a name="2.5.2."></a>
 ### 2.5.2 Action Navigation World Model
-
++ [Accurate and Efficient World Modeling with Masked Latent Transformers](https://arxiv.org/abs/2507.04075) (2025-07-05)
 
 
 <a name="2.5.3."></a>
