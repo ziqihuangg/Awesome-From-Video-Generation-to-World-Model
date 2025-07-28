@@ -1105,6 +1105,10 @@ Hybrid Navigation
 ## 3.1 Macroscopic Scale Planning World Model
 <a name="3.2."></a>
 ## 3.2 Mesoscopic Scale Planning World Model
++ [MirageLSD: The First Live-Stream Diffusion AI Video Model](https://about.decart.ai/publications/mirage) (2025-07-17) 
+[![Code](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Official)](https://github.com/facebookresearch/vjepa2)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://mirage.decart.ai/)
+
 + [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) (2025-06-11) 
 [![Code](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Official)](https://github.com/facebookresearch/vjepa2)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)
