@@ -672,7 +672,8 @@ Hybrid Navigation
 |     Date     | Venue | Acronym | Paper | Project | Repo@GitHub | 
 |--------------|-------|---------|-------|---------|-------------|
 | 2025-06-18 |  | Hailuo 02 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://hailuoai.video/) |
-| 2025-06-10 | Arxiv | Seedance 1.0 | [Seedance 1.0: Exploring the Boundaries of Video Generation Models](https://arxiv.org/abs/2506.09113) | [![Website](https://img.shields.io/badge/Website-9cf)](https://seed.bytedance.com/en/seedance) |  |
+| 2025-06-10 | Arxiv | Seedance 1.0 | [Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion](https://arxiv.org/abs/2506.08009) | [![Website](https://img.shields.io/badge/Website-9cf)](https://self-forcing.github.io/) | [![Code](https://img.shields.io/github/stars/guandeh17/Self-Forcing.svg?style=social&label=Official)](https://github.com/guandeh17/Self-Forcing)  |
+| 2025-06-09 | Arxiv | Self Forcing | [Seedance 1.0: Exploring the Boundaries of Video Generation Models](https://arxiv.org/abs/2506.09113) | [![Website](https://img.shields.io/badge/Website-9cf)](https://seed.bytedance.com/en/seedance) |  |
 | 2025-05-19 | Arxiv | MAGI-1 | [MAGI-1: Autoregressive Video Generation at Scale](https://arxiv.org/abs/2505.13211) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sand.ai/) | [![Code](https://img.shields.io/github/stars/SandAI-org/MAGI-1.svg?style=social&label=Official)](https://github.com/SandAI-org/MAGI-1) |
 | 2025-05 |  | Veo 3 | [Veo 3: AI Video Generation with Realistic Sound](https://veo3.ai/) | [![Website](https://img.shields.io/badge/Website-9cf)](https://deepmind.google/models/veo/) |  |
 | 2025-04-17 | Arxiv | SkyReels-V2 | [SkyReels-V2: Infinite-length Film Generative Model](https://arxiv.org/abs/2504.13074) | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.skyreels.ai/home?utm_campaign=github_SkyReels_V2) |  [![Code](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V2.svg?style=social&label=Official)](https://github.com/SkyworkAI/SkyReels-V2)  |
@@ -687,6 +688,7 @@ Hybrid Navigation
 | 2025-01-14 | Arxiv | Vchitect-2.0 | [Vchitect-2.0: Parallel transformer for scaling up video diffusion models](https://arxiv.org/abs/2501.08453) | [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.intern-ai.org.cn/) | [![Code](https://img.shields.io/github/stars/Vchitect/Vchitect-2.0.svg?style=social&label=Official)](https://github.com/Vchitect/Vchitect-2.0) |
 | 2025-01-07 | Arxiv | Cosmos | [Cosmos World Foundation Model Platform for Physical AI](https://arxiv.org/abs/2501.03575) | [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-predict1/) | [![Code](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-predict1.svg?style=social&label=Official)](https://github.com/nvidia-cosmos/cosmos-predict1) |
 | 2024-12-29 | Arxiv | Open-Sora |  [Open-sora: Democratizing efficient video production for all](https://arxiv.org/abs/2412.20404)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://hpcaitech.github.io/Open-Sora/) | [![Code](https://img.shields.io/github/stars/hpcaitech/Open-Sora.svg?style=social&label=Official)](https://github.com/hpcaitech/Open-Sora) |
+| 2024-12-10 | CVPR25 | CausVid | [From Slow Bidirectional to Fast Autoregressive Video Diffusion Models](https://arxiv.org/abs/2412.07772) | [![Website](https://img.shields.io/badge/Website-9cf)](https://causvid.github.io/) | [![Code](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Official)](https://github.com/tianweiy/CausVid) |
 | 2024-12-03 | Arxiv | HunyuanVideo | [HunyuanVideo: A Systematic Framework For Large Video Generative Models](https://arxiv.org/abs/2412.03603) | [![Website](https://img.shields.io/badge/Website-9cf)](https://aivideo.hunyuan.tencent.com/) | [![Code](https://img.shields.io/github/stars/Tencent/HunyuanVideo.svg?style=social&label=Official)](https://github.com/Tencent/HunyuanVideo) |
 | 2024-11-28 | Arxiv | Open-Sora Plan | [Open-Sora Plan: Open-Source Large Video Generation Model](https://arxiv.org/abs/2412.00131)  |  | [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Open-Sora-Plan.svg?style=social&label=Official)](https://github.com/PKU-YuanGroup/Open-Sora-Plan) |
 | 2024-10-22 |  | Mochi-1 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.genmo.ai/blog) | [![Code](https://img.shields.io/github/stars/genmoai/mochi.svg?style=social&label=Official)](https://github.com/genmoai/mochi) |
@@ -702,6 +704,13 @@ Hybrid Navigation
 
 + [Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling](https://arxiv.org/abs/2507.07982) (2025-07-10)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://geometryforcing.github.io/)
+
++ [Long-Context Autoregressive Video Modeling with Next-Frame Prediction](https://arxiv.org/abs/2503.19325) (2025-03-25)
+[![Code](https://img.shields.io/github/stars/showlab/FAR.svg?style=social&label=Official)](https://github.com/showlab/FAR)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://farlongctx.github.io/)
+
++ [VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models](https://arxiv.org/abs/2502.02492) (2025-02-04)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://hila-chefer.github.io/videojam-paper.github.io/)
 
 <a name="2.2."></a>
 ## 2.2 Video Generation as World Model in General Scenes
@@ -728,6 +737,9 @@ Hybrid Navigation
 + [GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking](https://arxiv.org/abs/2501.02690) (2025-01-05)
 [![Code (to be released)](https://img.shields.io/github/stars/wkbian/GS-DiT.svg?style=social&label=Official)](https://github.com/wkbian/GS-DiT)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://wkbian.github.io/Projects/GS-DiT/)
+
++ [World-consistent Video Diffusion with Explicit 3D Modeling](https://arxiv.org/abs/2412.01821) (2024-12-02)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://zqh0253.github.io/wvd/)
 
 <a name="2.2.3."></a>
 ### 2.2.3 Physical Prior World Model
@@ -778,8 +790,13 @@ Hybrid Navigation
 <a name="2.2.6."></a>
 ### 2.2.6 Instruction Navigation World Model
 
++ [Video World Models with Long-term Spatial Memory](https://arxiv.org/abs/2506.05284) (2025-06-05)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://spmem.github.io/)
+
+
 + [ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation](https://arxiv.org/abs/2412.18600) (2024-12-24)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://awfuact.github.io/zerohsi/)
+
 + [SlowFast-VGen: Slow-Fast Learning for Action-driven Long Video Generation](https://arxiv.org/abs/2410.23277) (2024-10-30) 
 [![Code (to be released)](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen.svg?style=social&label=Official)](https://github.com/slowfast-vgen/slowfast-vgen)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://slowfast-vgen.github.io/) 
@@ -1032,6 +1049,9 @@ Hybrid Navigation
 + [The World's First AI-Native UGC Game Engine Powered by Real-Time World Model](https://blog.dynamicslab.ai/) (2025-07-03)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://blog.dynamicslab.ai/)
 
++ [Hunyuan-GameCraft: High-dynamic Interactive Game Video Generation with Hybrid History Condition](https://arxiv.org/abs/2506.17201) (2025-06-20)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://hunyuan-gamecraft.github.io/)
+
 + [WORLDMEM: Long-term Consistent World Simulation with Memory](https://arxiv.org/abs/2504.12369) (2025-04-16)
 [![Code](https://img.shields.io/github/stars/xizaoqu/WorldMem.svg?style=social&label=Official)](https://github.com/xizaoqu/WorldMem)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://xizaoqu.github.io/worldmem/)
@@ -1087,6 +1107,8 @@ Hybrid Navigation
 <a name="2.5.2."></a>
 ### 2.5.2 Action Navigation World Model
 + [Accurate and Efficient World Modeling with Masked Latent Transformers](https://arxiv.org/abs/2507.04075) (2025-07-05)
++ [Long-Context State-Space Video World Models](https://www.arxiv.org/abs/2505.20171) (2025-05-26)
++ [![Website](https://img.shields.io/badge/Website-9cf)](https://ryanpo.com/ssm_wm/)
 + [DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning](https://arxiv.org/abs/2411.04983) (2024-11-07)
 
 
@@ -1112,6 +1134,8 @@ Hybrid Navigation
 + [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) (2025-06-11) 
 [![Code](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Official)](https://github.com/facebookresearch/vjepa2)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)
+
++ [Learning 3D Persistent Embodied World Models](https://arxiv.org/abs/2505.05495) (2025-05-05) 
 
 + [Navigation World Models](https://arxiv.org/abs/2412.03572) (2024-12-04)
 [![Code](https://img.shields.io/github/stars/facebookresearch/nwm.svg?style=social&label=Official)](https://github.com/facebookresearch/nwm/)
