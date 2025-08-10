@@ -1280,4 +1280,6 @@ Hybrid Navigation
 [![Website](https://img.shields.io/badge/Website-9cf)](https://phyworld.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/magicr/phyworld)
 
++ [Video as the New Language for Real-World Decision Making](https://arxiv.org/abs/2402.17139) (2024-02-27)
+
 + [A Path Towards Autonomous Machine Intelligence Version](https://openreview.net/pdf?id=BZ5a1r-kVsf) (2022-06-07)
