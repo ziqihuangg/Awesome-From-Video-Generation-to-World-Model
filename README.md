@@ -705,6 +705,10 @@ Hybrid Navigation
 + [Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling](https://arxiv.org/abs/2507.07982) (2025-07-10)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://geometryforcing.github.io/)
 
+
++ [VMoBA: Mixture-of-Block Attention for Video Diffusion Models](https://arxiv.org/abs/2506.23858) (2025-06-30)
+[![Code](https://img.shields.io/github/stars/KwaiVGI/VMoBA.svg?style=social&label=Official)](https://github.com/KwaiVGI/VMoBA)
+
 + [Long-Context Autoregressive Video Modeling with Next-Frame Prediction](https://arxiv.org/abs/2503.19325) (2025-03-25)
 [![Code](https://img.shields.io/github/stars/showlab/FAR.svg?style=social&label=Official)](https://github.com/showlab/FAR)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://farlongctx.github.io/)
