@@ -1231,8 +1231,43 @@ Hybrid Navigation
 
 <a name="5.3."></a>
 ## 5.3 Datasets
++ [Koala-36M: A Large-scale Video Dataset Improving Consistency between Fine-grained Conditions and Video Content](https://arxiv.org/abs/2410.08260) (2024-10-10)
+[![Code](https://img.shields.io/github/stars/snap-research/Panda-70M.svg?style=social&label=Official)](https://github.com/snap-research/Panda-70M)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://koala36m.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/Koala-36M/Koala-36M-v1)
+
++ [VidGen-1M: A Large-Scale Dataset for Text-to-video Generation](https://arxiv.org/abs/2408.02629) (2024-08-05)
+[![Code](https://img.shields.io/github/stars/SAIS-FUXI/VidGen.svg?style=social&label=Official)](https://github.com/SAIS-FUXI/VidGen)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://sais-fuxi.github.io/projects/vidgen-1m/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/Fudan-FUXI/VIDGEN-v1.0)
+
++ [MiraData: A Large-Scale Video Dataset with Long Durations and Structured Captions](https://arxiv.org/abs/2407.06358) (2024-07-08)
+
++ [Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers](https://arxiv.org/abs/2402.19479) (2024-02-29)
+[![Code](https://img.shields.io/github/stars/KwaiVGI/Koala-36M.svg?style=social&label=Official)](https://github.com/KwaiVGI/Koala-36M)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/Panda-70M/)
+
++ [Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions](https://arxiv.org/abs/2111.10337) (2021-11-19)
+
++ [Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval
+](https://arxiv.org/abs/2104.00650) (2021-04-01)
+
++ [HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips](https://arxiv.org/abs/1906.03327) (2019-06-07)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://www.di.ens.fr/willow/research/howto100m/)
+
++ [VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research](https://arxiv.org/abs/1904.03493) (2019-04-06)
 
 
++ [Localizing Moments in Video with Natural Language](https://arxiv.org/abs/1708.01641) (2017-08-04)
+
++ [Towards Automatic Learning of Procedures from Web Instructional Videos](https://arxiv.org/abs/1703.09788) (2017-03-28)
+[![Website](https://img.shields.io/badge/Website-9cf)](http://youcook2.eecs.umich.edu/)
+
++ [MSR-VTT: A Large Video Description Dataset for Bridging Video and Language](https://ieeexplore.ieee.org/document/7780940) (2016-12-12)
+
++ [ActivityNet: A large-scale video benchmark for human activity understanding](https://ieeexplore.ieee.org/document/7298698) (2015-10-15)
+
++ [A Dataset for Movie Description](https://arxiv.org/abs/1501.02530) (2015-01-12)
 
 <a name="6."></a>
 # 6. Study and Rethinking
