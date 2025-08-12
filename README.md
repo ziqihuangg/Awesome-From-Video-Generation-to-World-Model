@@ -776,8 +776,12 @@ Hybrid Navigation
 + [AirScape: An Aerial Generative World Model with Motion Controllability](https://arxiv.org/abs/2507.08885) (2025-07-10)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://embodiedcity.github.io/AirScape/)
 
++ [CamCloneMaster: Enabling Reference-based Camera Control for Video Generation](https://arxiv.org/abs/2506.03140) (2025-06-03)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://camclonemaster.github.io/)
+
 + [Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](https://arxiv.org/abs/2506.03141) (2025-06-03)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://context-as-memory.github.io/)
+
 + [TokenMotion: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation](https://arxiv.org/abs/2504.08181) (2025-04-11)
 
 + [CameraCtrl II: Dynamic Scene Exploration via Camera-controlled Video Diffusion Models](https://arxiv.org/abs/2503.10592) (2025-03-13)
@@ -921,6 +925,10 @@ Hybrid Navigation
 [![Code](https://img.shields.io/github/stars/Zhangwenyao1/DreamVLA.svg?style=social&label=Official)](https://github.com/Zhangwenyao1/DreamVLA)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://zhangwenyao1.github.io/DreamVLA/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/WenyaoZhang/DreamVLA)
+
++ [Learning Video Generation for Robotic Manipulation with Collaborative Trajectory Control](https://arxiv.org/abs/2506.01943?) (2025-06-02)
+[![Code](https://img.shields.io/github/stars/KwaiVGI/RoboMaster.svg?style=social&label=Official)](https://github.com/KwaiVGI/RoboMaster)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://fuxiao0719.github.io/projects/robomaster/) 
 
 + [NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants](https://arxiv.org/abs/2502.13894) (2025-02-19) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://21styouth.github.io/NavigateDiff/) 
