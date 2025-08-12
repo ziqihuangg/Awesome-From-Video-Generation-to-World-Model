@@ -93,6 +93,8 @@ This repository is updated periodically. If you have suggestions for additional 
     - [6.1 Survey](#6.1.)
     - [6.2 Position](#6.2.)
 
+
+
 <a name="1."></a>
 # 1. Generation 1: Faithfulness - Accurate Simulation of the Real World
 <a name="1.1."></a>
@@ -100,6 +102,7 @@ This repository is updated periodically. If you have suggestions for additional 
 |     Date     | Venue | Acronym | Paper | Project | Repo@GitHub | 
 |--------------|-------|---------|-------|---------|-------------|
 | 2024-12-30 | Arxiv | LTX-Video | [LTX-Video: Realtime Video Latent Diffusion](https://arxiv.org/abs/2501.00103) | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.lightricks.com/) | [![Code](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Official)](https://github.com/Lightricks/LTX-Video) |
+| 2024-12-12 | Arxiv | Owl-1 | [Owl-1: Omni World Model for Consistent Long Video Generation](https://arxiv.org/abs/2412.09600) |  | [![Code](https://img.shields.io/github/stars/huang-yh/Owl.svg?style=social&label=Official)](https://github.com/huang-yh/Owl) |
 | 2024-12-10 | Arxiv | STIV | [STIV: Scalable Text and Image Conditioned Video Generation](https://arxiv.org/abs/2412.07730) |  |  |
 | 2024-09-24 |  | JT-CV |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/jiutiancv/JV-CV-T2V) |  |
 | 2024-09 |  | Hailuo AI |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://hailuoai.video/) |  |
@@ -305,8 +308,6 @@ This repository is updated periodically. If you have suggestions for additional 
 
 <a name="1.2.4."></a>
 ### 1.2.4 Autoregressive Based Video Generation
-+ [Owl-1: Omni World Model for Consistent Long Video Generation](https://arxiv.org/abs/2412.09600) (2024-12-12) 
-[![Code](https://img.shields.io/github/stars/huang-yh/Owl.svg?style=social&label=Official)](https://github.com/huang-yh/Owl)
 
 + [From Slow Bidirectional to Fast Autoregressive Video Diffusion Models](https://arxiv.org/abs/2412.07772) (2024-12-10) 
 [![Code](https://img.shields.io/github/stars/tianweiy/CausVid.svg?style=social&label=Official)](https://github.com/tianweiy/CausVid)
@@ -1232,9 +1233,14 @@ Hybrid Navigation
 
 <a name="5.3."></a>
 ## 5.3 Datasets
++ [VIVID-10M: A Dataset and Baseline for Versatile and Interactive Video Local Editing](https://arxiv.org/abs/2411.15260?) (2024-11-22)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://koala36m.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/VIVID-10M)
+
+
 + [Koala-36M: A Large-scale Video Dataset Improving Consistency between Fine-grained Conditions and Video Content](https://arxiv.org/abs/2410.08260) (2024-10-10)
 [![Code](https://img.shields.io/github/stars/snap-research/Panda-70M.svg?style=social&label=Official)](https://github.com/snap-research/Panda-70M)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://koala36m.github.io/)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://kwaivgi.github.io/VIVID/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/Koala-36M/Koala-36M-v1)
 
 + [VidGen-1M: A Large-Scale Dataset for Text-to-video Generation](https://arxiv.org/abs/2408.02629) (2024-08-05)
