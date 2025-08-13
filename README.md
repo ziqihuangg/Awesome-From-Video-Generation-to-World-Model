@@ -1254,6 +1254,9 @@ Hybrid Navigation
 [![Code](https://img.shields.io/github/stars/KwaiVGI/Koala-36M.svg?style=social&label=Official)](https://github.com/KwaiVGI/Koala-36M)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://snap-research.github.io/Panda-70M/)
 
++ [Consistent Video-to-Video Transfer Using Synthetic Dataset](https://arxiv.org/abs/2311.00213) (2023-11-01)
+
+
 + [Advancing High-Resolution Video-Language Representation with Large-Scale Video Transcriptions](https://arxiv.org/abs/2111.10337) (2021-11-19)
 
 + [Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval
