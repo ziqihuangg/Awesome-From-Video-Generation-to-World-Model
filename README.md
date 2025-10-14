@@ -50,10 +50,11 @@ This repository is updated periodically. If you have suggestions for additional 
     - [2.2.1 Geometry Prior World Model](#2.2.1.)
     - [2.2.2 3D Prior World Model](#2.2.2.)
     - [2.2.3 Physical Prior World Model](#2.2.3.)
-    - [2.2.4 Trajectory Navigation World Model](#2.2.4.)
-    - [2.2.5 Camera Motion Navigation World Model](#2.2.5.)
-    - [2.2.6 Instruction Navigation World Model](#2.2.6.)
-    - [2.2.7 Action Navigation World Model](#2.2.7.)
+    - [2.2.4 Audio Driven World Model](#2.2.4.)
+    - [2.2.5 Trajectory Navigation World Model](#2.2.5.)
+    - [2.2.6 Camera Motion Navigation World Model](#2.2.6.)
+    - [2.2.7 Instruction Navigation World Model](#2.2.7.)
+    - [2.2.8 Action Navigation World Model](#2.2.8.)
 
   - [2.3 Video Generation as World Model in Robotics](#2.3.)
     - [2.3.1 Action Navigation World Model](#2.3.1.)
@@ -759,6 +760,18 @@ Hybrid Navigation
 [![Website](https://img.shields.io/badge/Website-9cf)](https://vision-x-nyu.github.io/pisa-experiments.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/nyu-visionx/pisa-experiments)
 + [PhyT2V: LLM-Guided Iterative Self-Refinement for Physics-Grounded Text-to-Video Generation](https://arxiv.org/abs/2412.00596) (2024-11-30)
+
+<a name="2.2.4."></a>
+### 2.2.4 Audio Driven World Model
++ [InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing](https://arxiv.org/abs/2508.14033) (2025-08-19)
+[![Code](https://img.shields.io/github/stars/MeiGen-AI/InfiniteTalk.svg?style=social&label=Official)](https://github.com/MeiGen-AI/InfiniteTalk)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://meigen-ai.github.io/InfiniteTalk/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/MeiGen-AI/InfiniteTalk)
+
++ [Loopy: Taming Audio-Driven Portrait Avatar with Long-Term Motion Dependency](https://arxiv.org/abs/2409.02634) (2024-09-04)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://loopyavatar.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/papers/2409.02634)
+
 <a name="2.2.4."></a>
 ### 2.2.4 Trajectory Navigation World Model
 
