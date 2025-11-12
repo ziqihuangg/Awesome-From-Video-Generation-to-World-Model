@@ -1356,6 +1356,8 @@ Hybrid Navigation
 + [A Path Towards Autonomous Machine Intelligence Version](https://openreview.net/pdf?id=BZ5a1r-kVsf) (2022-06-07)
 
 
+## Citation
+If you find this paper useful, please consider citing:
 
 ```bibtex
 @article{yue2025video,
