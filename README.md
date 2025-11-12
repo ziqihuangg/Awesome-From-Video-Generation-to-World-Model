@@ -1354,3 +1354,14 @@ Hybrid Navigation
 + [Video as the New Language for Real-World Decision Making](https://arxiv.org/abs/2402.17139) (2024-02-27)
 
 + [A Path Towards Autonomous Machine Intelligence Version](https://openreview.net/pdf?id=BZ5a1r-kVsf) (2022-06-07)
+
+
+
+```bibtex
+@article{yue2025video,
+  title={Simulating the World Model with Artificial Intelligence: A Roadmap},
+  author={Jingtong Yue, Ziqi Huang, Zhaoxi Chen, Xintao Wang, Pengfei Wan, Ziwei Liu},
+  journal={arXiv preprint arXiv:2511.08585},
+  year={2025}
+}
+```
