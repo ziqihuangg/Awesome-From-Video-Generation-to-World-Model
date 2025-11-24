@@ -773,8 +773,8 @@ Hybrid Navigation
 [![Website](https://img.shields.io/badge/Website-9cf)](https://loopyavatar.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/papers/2409.02634)
 
-<a name="2.2.4."></a>
-### 2.2.4 Trajectory Navigation World Model
+<a name="2.2.5."></a>
+### 2.2.5 Trajectory Navigation World Model
 
 + [Go-with-the-Flow: Motion-Controllable Video Diffusion Models Using Real-Time Warped Noise](https://arxiv.org/abs/2501.08331) (2025-01-14)
 [![Code](https://img.shields.io/github/stars/Eyeline-Research/Go-with-the-Flow.svg?style=social&label=Official)](https://github.com/Eyeline-Research/Go-with-the-Flow)
@@ -787,8 +787,8 @@ Hybrid Navigation
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/KwaiVGI/3DTrajMaster)
 
 
-<a name="2.2.5."></a>
-### 2.2.5 Camera Motion Navigation World Model
+<a name="2.2.6."></a>
+### 2.2.6 Camera Motion Navigation World Model
 + [AirScape: An Aerial Generative World Model with Motion Controllability](https://arxiv.org/abs/2507.08885) (2025-07-10)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://embodiedcity.github.io/AirScape/)
 
@@ -811,8 +811,8 @@ Hybrid Navigation
 + [Training-free Camera Control for Video Generation](https://arxiv.org/abs/2406.10126) (2024-06-14)
 
 
-<a name="2.2.6."></a>
-### 2.2.6 Instruction Navigation World Model
+<a name="2.2.7."></a>
+### 2.2.7 Instruction Navigation World Model
 
 + [Video World Models with Long-term Spatial Memory](https://arxiv.org/abs/2506.05284) (2025-06-05)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://spmem.github.io/)
@@ -831,8 +831,11 @@ Hybrid Navigation
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/maitrix-org/Pandora)
 
 
-<a name="2.2.7."></a>
-### 2.2.7 Action Navigation World Model
+<a name="2.2.8."></a>
+### 2.2.8 Action Navigation World Model
+
++ [WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions](https://arxiv.org/abs/2505.18151) (2025-05-23)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://kyleleey.github.io/WonderPlay/)
 + [Introducing Multiverse: The First AI Multiplayer World Model](https://enigma-labs.io/blog) (2025-05-08)
 [![Code](https://img.shields.io/github/stars/EnigmaLabsAI/multiverse.svg?style=social&label=Official)](https://github.com/EnigmaLabsAI/multiverse)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://enigma-labs.io/blog)
