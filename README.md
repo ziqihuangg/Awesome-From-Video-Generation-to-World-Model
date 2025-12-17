@@ -1158,6 +1158,12 @@ Hybrid Navigation
 ## 3.1 Macroscopic Scale Planning World Model
 <a name="3.2."></a>
 ## 3.2 Mesoscopic Scale Planning World Model
++ [WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](https://arxiv.org/abs/2512.14614) (2025-12-16) 
+[![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HY-WorldPlay.svg?style=social&label=Official)](https://github.com/Tencent-Hunyuan/HY-WorldPlay)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://3d-models.hunyuan.tencent.com/world/)
+[![Demo](https://img.shields.io/badge/Demo-9cf)](https://3d.hunyuan.tencent.com/login?redirect_url=https%3A%2F%2F3d.hunyuan.tencent.com%2FsceneTo3D)
+
+
 + [MirageLSD: The First Live-Stream Diffusion AI Video Model](https://about.decart.ai/publications/mirage) (2025-07-17) 
 [![Code](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Official)](https://github.com/facebookresearch/vjepa2)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://mirage.decart.ai/)
