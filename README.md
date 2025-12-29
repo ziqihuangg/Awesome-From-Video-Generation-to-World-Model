@@ -675,6 +675,7 @@ Hybrid Navigation
 
 |     Date     | Venue | Acronym | Paper | Project | Repo@GitHub | 
 |--------------|-------|---------|-------|---------|-------------|
+| 2025-12-18 | Arxiv | Kling-Omni | [Kling-Omni Technical Report](https://arxiv.org/abs/2512.16776) | [![Website](https://img.shields.io/badge/Website-9cf)](https://app.klingai.com/global/omni/new) |
 | 2025-06-18 |  | Hailuo 02 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://hailuoai.video/) |
 | 2025-06-10 | Arxiv | Seedance 1.0 | [Seedance 1.0: Exploring the Boundaries of Video Generation Models](https://arxiv.org/abs/2506.09113) | [![Website](https://img.shields.io/badge/Website-9cf)](https://seed.bytedance.com/en/seedance) |  |
 | 2025-06-09 | Arxiv | Self Forcing | [Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion](https://arxiv.org/abs/2506.08009) | [![Website](https://img.shields.io/badge/Website-9cf)](https://self-forcing.github.io/) | [![Code](https://img.shields.io/github/stars/guandeh17/Self-Forcing.svg?style=social&label=Official)](https://github.com/guandeh17/Self-Forcing)  |
@@ -724,7 +725,10 @@ Hybrid Navigation
 ## 2.2 Video Generation as World Model in General Scenes
 <a name="2.2.1."></a>
 ### 2.2.1 Geometry Condition Prior World Model
-
++ [MultiShotMaster: A Controllable Multi-Shot Video Generation Framework](https://arxiv.org/abs/2512.03041) (2025-12-02)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://qinghew.github.io/MultiShotMaster/)
++ [VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning](https://arxiv.org/abs/2510.25772) (2025-10-29)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://libaolu312.github.io/VFXMaster/)
 + [SketchVideo: Sketch-based Video Generation and Editing](https://arxiv.org/abs/2503.23284) (2025-03-30)
 [![Code](https://img.shields.io/github/stars/IGLICT/SketchVideo.svg?style=social&label=Official)](https://github.com/IGLICT/SketchVideo)
 [![Website](https://img.shields.io/badge/Website-9cf)](http://geometrylearning.com/SketchVideo/)
