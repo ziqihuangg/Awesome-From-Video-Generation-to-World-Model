@@ -855,6 +855,9 @@ Hybrid Navigation
 ## 2.3 Video Generation as World Model in Robotics
 <a name="2.3.1."></a>
 ### 2.3.1 Action Navigation World Model
+
++ [Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space](https://arxiv.org/abs/2512.21887) (2025-12-26)
+
 + [MindJourney: Test-Time Scaling with World Models for Spatial Reasoning](https://www.arxiv.org/abs/2507.12508) (2025-07-16)
 [![Code](https://img.shields.io/github/stars/UMass-Embodied-AGI/MindJourney.svg?style=social&label=Official)](https://github.com/UMass-Embodied-AGI/MindJourney)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://umass-embodied-agi.github.io/MindJourney/)
@@ -1163,6 +1166,11 @@ Hybrid Navigation
 ## 3.1 Macroscopic Scale Planning World Model
 <a name="3.2."></a>
 ## 3.2 Mesoscopic Scale Planning World Model
++ [Yume1.5: A Text-Controlled Interactive World Generation Model](https://arxiv.org/abs/2512.22096) (2025-12-26) 
+[![Code](https://img.shields.io/github/stars/stdstu12/YUME.svg?style=social&label=Official)](https://github.com/stdstu12/YUME)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://stdstu12.github.io/YUME-Project/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/stdstu123/Yume-I2V-540P)
+
 + [WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](https://arxiv.org/abs/2512.14614) (2025-12-16) 
 [![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HY-WorldPlay.svg?style=social&label=Official)](https://github.com/Tencent-Hunyuan/HY-WorldPlay)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://3d-models.hunyuan.tencent.com/world/)
