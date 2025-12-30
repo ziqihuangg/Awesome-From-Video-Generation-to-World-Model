@@ -675,7 +675,9 @@ Hybrid Navigation
 
 |     Date     | Venue | Acronym | Paper | Project | Repo@GitHub | 
 |--------------|-------|---------|-------|---------|-------------|
+| 2025-12-23 | Arxiv | SemanticGen | [SemanticGen: Video Generation in Semantic Space](https://arxiv.org/abs/2512.20619) | [![Website](https://img.shields.io/badge/Website-9cf)](https://jianhongbai.github.io/SemanticGen/) |
 | 2025-12-18 | Arxiv | Kling-Omni | [Kling-Omni Technical Report](https://arxiv.org/abs/2512.16776) | [![Website](https://img.shields.io/badge/Website-9cf)](https://app.klingai.com/global/omni/new) |
+| 2025-12-16 | Arxiv | MemFlow | [MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives](https://arxiv.org/abs/2512.14699) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sihuiji.github.io/MemFlow.github.io/) |
 | 2025-06-18 |  | Hailuo 02 |  | [![Website](https://img.shields.io/badge/Website-9cf)](https://hailuoai.video/) |
 | 2025-06-10 | Arxiv | Seedance 1.0 | [Seedance 1.0: Exploring the Boundaries of Video Generation Models](https://arxiv.org/abs/2506.09113) | [![Website](https://img.shields.io/badge/Website-9cf)](https://seed.bytedance.com/en/seedance) |  |
 | 2025-06-09 | Arxiv | Self Forcing | [Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion](https://arxiv.org/abs/2506.08009) | [![Website](https://img.shields.io/badge/Website-9cf)](https://self-forcing.github.io/) | [![Code](https://img.shields.io/github/stars/guandeh17/Self-Forcing.svg?style=social&label=Official)](https://github.com/guandeh17/Self-Forcing)  |
