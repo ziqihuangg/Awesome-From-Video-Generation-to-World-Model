@@ -727,6 +727,10 @@ Hybrid Navigation
 ## 2.2 Video Generation as World Model in General Scenes
 <a name="2.2.1."></a>
 ### 2.2.1 Geometry Condition Prior World Model
++ [UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation](https://arxiv.org/abs/2512.07831) (2025-12-08)
+[![Code](https://img.shields.io/github/stars/dvlab-research/UnityVideo.svg?style=social&label=Official)](https://github.com/dvlab-research/UnityVideo)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://jackailab.github.io/Projects/UnityVideo/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/JackAILab/UnityVideo)
 + [MultiShotMaster: A Controllable Multi-Shot Video Generation Framework](https://arxiv.org/abs/2512.03041) (2025-12-02)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://qinghew.github.io/MultiShotMaster/)
 + [VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning](https://arxiv.org/abs/2510.25772) (2025-10-29)
@@ -1168,10 +1172,11 @@ Hybrid Navigation
 
 <a name="3."></a>
 # 3. Generation 3: Planning - Modeling the Future Evolution of Complex Systems
-<a name="3.1."></a>
-## 3.1 Macroscopic Scale Planning World Model
-<a name="3.2."></a>
-## 3.2 Mesoscopic Scale Planning World Model
++ [Astra: General Interactive World Model with Autoregressive Denoising](https://arxiv.org/abs/2512.08931) (2025-12-09) 
+[![Code](https://img.shields.io/github/stars/EternalEvan/Astra.svg?style=social&label=Official)](https://github.com/EternalEvan/Astra)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://eternalevan.github.io/Astra-project/)
+
+
 + [Yume1.5: A Text-Controlled Interactive World Generation Model](https://arxiv.org/abs/2512.22096) (2025-12-26) 
 [![Code](https://img.shields.io/github/stars/stdstu12/YUME.svg?style=social&label=Official)](https://github.com/stdstu12/YUME)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://stdstu12.github.io/YUME-Project/)
@@ -1198,11 +1203,16 @@ Hybrid Navigation
 [![Website](https://img.shields.io/badge/Website-9cf)](https://www.amirbar.net/nwm/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/facebook/nwm)
 
-<a name="3.3."></a>
-## 3.3 Microscopic Scale Planning World Model
 
 <a name="4."></a>
 # 4. Generation 4: Counterfactual and Outlier Modeling
+<a name="4.1."></a>
+## 4.1 Macroscopic Scale World Model
+<a name="4.2."></a>
+## 4.2 Mesoscopic Scale World Model
+<a name="4.3."></a>
+## 4.3 Microscopic Scale World Model
+
 
 <a name="5."></a>
 # 5. Evaluation and Datasets
