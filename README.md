@@ -962,6 +962,7 @@ Hybrid Navigation
 
 <a name="2.3.4."></a>
 ### 2.3.4 Hybrid Navigation World Model
+
 + [DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge](https://arxiv.org/abs/2507.04447) (2025-07-06) 
 [![Code](https://img.shields.io/github/stars/Zhangwenyao1/DreamVLA.svg?style=social&label=Official)](https://github.com/Zhangwenyao1/DreamVLA)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://zhangwenyao1.github.io/DreamVLA/)
@@ -1223,6 +1224,10 @@ Hybrid Navigation
 
 <a name="5.1."></a>
 ## 5.1 Evaluation Metrics of Video Generation
++ [Towards Video Thinking Test: A Holistic Benchmark for Advanced Video Reasoning and Understanding](https://arxiv.org/abs/2507.15028) (2025-07-20)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://zhangyuanhan-ai.github.io/video-tt/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/lmms-lab/video-tt)
+
 + [VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness](https://arxiv.org/abs/2503.21755) (2025-03-27)
 [![Code](https://img.shields.io/github/stars/Vchitect/VBench.svg?style=social&label=Official)](https://github.com/Vchitect/VBench)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://vchitect.github.io/VBench-2.0-project/)
@@ -1339,6 +1344,10 @@ Hybrid Navigation
 # 6. Study and Rethinking
 <a name="6.1."></a>
 ## 6.1 Survey
++ [3D and 4D World Modeling: A Survey](https://arxiv.org/abs/2509.07996) (2025-09-04)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/worldbench/awesome-3d-4d-world-models)
++ [Reconstructing 4D Spatial Intelligence: A Survey](https://arxiv.org/abs/2507.21045) (2025-07-28)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence)
 + [A Survey: Learning Embodied Intelligence from Physical Simulators and World Models](https://arxiv.org/abs/2507.00917) (2025-07-01)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey)
 
