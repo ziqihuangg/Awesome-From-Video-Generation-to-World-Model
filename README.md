@@ -1344,6 +1344,8 @@ Hybrid Navigation
 # 6. Study and Rethinking
 <a name="6.1."></a>
 ## 6.1 Survey
++ [Video Generation Models in Robotics - Applications, Research Challenges, Future Directions](https://arxiv.org/abs/2601.07823) (2026-01-12)
+
 + [3D and 4D World Modeling: A Survey](https://arxiv.org/abs/2509.07996) (2025-09-04)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/worldbench/awesome-3d-4d-world-models)
 + [Reconstructing 4D Spatial Intelligence: A Survey](https://arxiv.org/abs/2507.21045) (2025-07-28)
