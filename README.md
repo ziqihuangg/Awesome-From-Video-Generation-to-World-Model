@@ -761,6 +761,10 @@ Hybrid Navigation
 
 <a name="2.2.3."></a>
 ### 2.2.3 Physical Prior World Model
++ [Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals](https://arxiv.org/abs/2601.05848) (2026-01-09)
+[![Code](https://img.shields.io/github/stars/brown-palm/goal-force.svg?style=social&label=Official)](https://github.com/brown-palm/goal-force)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://goal-force.github.io/)
+
 + [PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning](https://arxiv.org/abs/2510.13809) (2025-10-15)
 [![Code](https://img.shields.io/github/stars/KlingTeam/PhysMaster.svg?style=social&label=Official)](https://github.com/KlingTeam/PhysMaster)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://sihuiji.github.io/PhysMaster-Page/)
