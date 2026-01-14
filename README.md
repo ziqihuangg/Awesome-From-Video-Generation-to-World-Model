@@ -1217,6 +1217,11 @@ Hybrid Navigation
 ## 4.2 Mesoscopic Scale World Model
 <a name="4.3."></a>
 ## 4.3 Microscopic Scale World Model
++ [WonderZoom: Multi-Scale 3D World Generation](https://arxiv.org/abs/2512.09164) (2025-12-09)
+[![Code](https://img.shields.io/github/stars/jin-cao-tma/WonderZoom.svg?style=social&label=Official)](https://github.com/jin-cao-tma/WonderZoom)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://wonderzoom.github.io/)
+
+
 
 
 <a name="5."></a>
