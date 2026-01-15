@@ -94,6 +94,10 @@ This repository is updated periodically. If you have suggestions for additional 
 - [6. Study and Rethinking](#6.)
     - [6.1 Survey](#6.1.)
     - [6.2 Position](#6.2.)
+ 
+- [7. Downstream Tasks for World Modeling](#7.)
+    - [7.1 World Models as Data Generators](#7.1.)
+    - [7.2 World Models as Reasoning Proxy](#7.2.)
 
 
 
@@ -1037,6 +1041,9 @@ Hybrid Navigation
 
 <a name="2.4.3."></a>
 ### 2.4.3 Trajectory Navigation World Model
++ [MAD: Motion Appearance Decoupling for efficient Driving World Models](https://arxiv.org/abs/2601.09452) (2026-01-14)
+[![Code](https://img.shields.io/github/stars/vita-epfl/MAD-World-Model-Code.svg?style=social&label=Official)](https://github.com/vita-epfl/MAD-World-Model-Code/)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://vita-epfl.github.io/MAD-World-Model/)
 
 + [Epona: Autoregressive Diffusion World Model for Autonomous Driving](https://arxiv.org/abs/2506.24113) (2025-06-30)
 [![Code](https://img.shields.io/github/stars/Kevin-thu/Epona.svg?style=social&label=Official)](https://github.com/Kevin-thu/Epona/)
@@ -1422,6 +1429,17 @@ Hybrid Navigation
 + [Video as the New Language for Real-World Decision Making](https://arxiv.org/abs/2402.17139) (2024-02-27)
 
 + [A Path Towards Autonomous Machine Intelligence Version](https://openreview.net/pdf?id=BZ5a1r-kVsf) (2022-06-07)
+
+<a name="7."></a>
+# 7. Downstream Tasks for World Modeling
+<a name="7.1."></a>
+## 7.1 World Models as Data Generators
+
+
+<a name="7.2."></a>
+## 7.2 World Models as Reasoning Proxy
++ [Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models](https://arxiv.org/abs/2601.08955) (2026-01-13)
+
 
 
 ## Citation
