@@ -811,6 +811,11 @@ Hybrid Navigation
 
 <a name="2.2.6."></a>
 ### 2.2.6 Camera Motion Navigation World Model
++ [VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control](https://arxiv.org/abs/2601.05138) (2026-01-08)
+[![Code](https://img.shields.io/github/stars/TencentARC/VerseCrafter.svg?style=social&label=Official)](https://github.com/TencentARC/VerseCrafter)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://sixiaozheng.github.io/VerseCrafter_page/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/TencentARC/VerseCrafter)
+
 + [AirScape: An Aerial Generative World Model with Motion Controllability](https://arxiv.org/abs/2507.08885) (2025-07-10)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://embodiedcity.github.io/AirScape/)
 
@@ -1280,6 +1285,7 @@ Hybrid Navigation
 
 <a name="5.2."></a>
 ## 5.2 Evaluation Metrics of World Model
++ [Wow, wo, val! A Comprehensive Embodied World Model Evaluation Turing Test](https://arxiv.org/abs/2601.04137) (2026-01-07) 
 + [Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation](https://arxiv.org/abs/2506.21876) (2025-06-27) 
 
 + [Evaluating Robot Policies in a World Model](https://arxiv.org/abs/2506.00613) (2025-05-31) 
@@ -1403,7 +1409,7 @@ Hybrid Navigation
 
 <a name="6.2."></a>
 ## 6.2 Position & Perspective
-
++ [Learning Latent Action World Models In The Wild](https://arxiv.org/abs/2601.05230) (2026-01-08)
 + [General agents need world models](https://arxiv.org/abs/2506.01622) (2025-06-02)
 
 + [Position: Interactive Generative Video as Next-Generation Game Engine](https://arxiv.org/abs/2503.17359) (2025-03-21)
