@@ -1292,6 +1292,12 @@ Hybrid Navigation
 
 <a name="5.2."></a>
 ## 5.2 Evaluation Metrics of World Model
+
++ [DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving](https://arxiv.org/abs/2601.01528) (2026-01-04)
+[![Code](https://img.shields.io/github/stars/youngzhou1999/DrivingGen.svg?style=social&label=Official)](https://github.com/youngzhou1999/DrivingGen)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://drivinggen-bench.github.io/)
+[![Hugging Face Leaderboard](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/yangzhou99/DrivingGen)
+
 + [Wow, wo, val! A Comprehensive Embodied World Model Evaluation Turing Test](https://arxiv.org/abs/2601.04137) (2026-01-07) 
 + [Do Vision-Language Models Have Internal World Models? Towards an Atomic Evaluation](https://arxiv.org/abs/2506.21876) (2025-06-27) 
 
@@ -1316,6 +1322,9 @@ Hybrid Navigation
 
 <a name="5.3."></a>
 ## 5.3 Datasets
++ [Action100M: A Large-scale Video Action Dataset](https://arxiv.org/abs/2601.10592) (2026-01-15)
+[![Dataset](https://img.shields.io/github/stars/facebookresearch/Action100M.svg?style=social&label=Official)](https://github.com/facebookresearch/Action100M)
+
 + [VIVID-10M: A Dataset and Baseline for Versatile and Interactive Video Local Editing](https://arxiv.org/abs/2411.15260?) (2024-11-22)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://koala36m.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/KwaiVGI/VIVID-10M)
@@ -1438,7 +1447,6 @@ Hybrid Navigation
 
 <a name="7.2."></a>
 ## 7.2 World Models as Reasoning Proxy
-+ [Imagine-then-Plan: Agent Learning from Adaptive Lookahead with World Models](https://arxiv.org/abs/2601.08955) (2026-01-13)
 
 
 
