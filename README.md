@@ -849,10 +849,6 @@ Hybrid Navigation
 + [Video World Models with Long-term Spatial Memory](https://arxiv.org/abs/2506.05284) (2025-06-05)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://spmem.github.io/)
 
-
-+ [ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation](https://arxiv.org/abs/2412.18600) (2024-12-24)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://awfuact.github.io/zerohsi/)
-
 + [SlowFast-VGen: Slow-Fast Learning for Action-driven Long Video Generation](https://arxiv.org/abs/2410.23277) (2024-10-30) 
 [![Code (to be released)](https://img.shields.io/github/stars/slowfast-vgen/slowfast-vgen.svg?style=social&label=Official)](https://github.com/slowfast-vgen/slowfast-vgen)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://slowfast-vgen.github.io/) 
@@ -1292,6 +1288,10 @@ Hybrid Navigation
 
 <a name="5.2."></a>
 ## 5.2 Evaluation Metrics of World Model
++ [Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models](https://arxiv.org/abs/2601.19834) (2026-01-27)
+[![Code](https://img.shields.io/github/stars/thuml/Reasoning-Visual-World.svg?style=social&label=Official)](https://github.com/thuml/Reasoning-Visual-World)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://thuml.github.io/Reasoning-Visual-World/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/thuml/VisWorld-Eval)
 
 + [DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving](https://arxiv.org/abs/2601.01528) (2026-01-04)
 [![Code](https://img.shields.io/github/stars/youngzhou1999/DrivingGen.svg?style=social&label=Official)](https://github.com/youngzhou1999/DrivingGen)
@@ -1448,6 +1448,9 @@ Hybrid Navigation
 <a name="7.2."></a>
 ## 7.2 World Models as Reasoning Proxy
 
++ [TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion](https://arxiv.org/abs/2601.18323) (2026-01-26)
+[![Code](https://img.shields.io/github/stars/wsbaiyi/TC-IDM.svg?style=social&label=Official)](https://github.com/wsbaiyi/TC-IDM)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://wsbaiyi.github.io/TC-IDM-Page/)
 
 
 ## Citation
