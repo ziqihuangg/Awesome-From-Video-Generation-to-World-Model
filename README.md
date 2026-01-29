@@ -898,6 +898,8 @@ Hybrid Navigation
 
 + [Consistent World Models via Foresight Diffusion](https://arxiv.org/abs/2505.16474) (2025-05-22)
 
++ [Learning 3D Persistent Embodied World Models](https://arxiv.org/abs/2505.05495) (2025-05-05) 
+
 + [Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control](https://arxiv.org/abs/2503.14492) (2025-03-18)
 [![Code](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-transfer1.svg?style=social&label=Official)](https://github.com/nvidia-cosmos/cosmos-transfer1)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-transfer1/)
@@ -1190,36 +1192,19 @@ Hybrid Navigation
 
 <a name="3."></a>
 # 3. Generation 3: Planning - Modeling the Future Evolution of Complex Systems
-+ [Astra: General Interactive World Model with Autoregressive Denoising](https://arxiv.org/abs/2512.08931) (2025-12-09) 
-[![Code](https://img.shields.io/github/stars/EternalEvan/Astra.svg?style=social&label=Official)](https://github.com/EternalEvan/Astra)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://eternalevan.github.io/Astra-project/)
+
+|     Date     | Venue | Acronym | Paper | Project | Repo@GitHub | 
+|--------------|-------|---------|-------|---------|-------------|
+| 2026-01-28 | Arxiv | LingBot-World | [Advancing Open-source World Models](https://arxiv.org/abs/2601.20540)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://technology.robbyant.com/lingbot-world) | [![Code](https://img.shields.io/github/stars/robbyant/lingbot-world.svg?style=social&label=Official)](https://github.com/robbyant/lingbot-world) |
+| 2025-12-26 | Arxiv | Yume1.5 | [Yume1.5: A Text-Controlled Interactive World Generation Model](https://arxiv.org/abs/2512.22096) | [![Website](https://img.shields.io/badge/Website-9cf)](https://stdstu12.github.io/YUME-Project/) | [![Code](https://img.shields.io/github/stars/stdstu12/YUME.svg?style=social&label=Official)](https://github.com/stdstu12/YUME) |
+| 2025-12-16 | Arxiv | WorldPlay | [WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](https://arxiv.org/abs/2512.14614) | [![Website](https://img.shields.io/badge/Website-9cf)](https://3d-models.hunyuan.tencent.com/world/) | [![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HY-WorldPlay.svg?style=social&label=Official)](https://github.com/Tencent-Hunyuan/HY-WorldPlay) |
+| 2025-12-09 | ICLR26 | Astra | [Astra: General Interactive World Model with Autoregressive Denoising](https://arxiv.org/abs/2512.08931) | [![Website](https://img.shields.io/badge/Website-9cf)](https://eternalevan.github.io/Astra-project/) | [![Code](https://img.shields.io/github/stars/EternalEvan/Astra.svg?style=social&label=Official)](https://github.com/EternalEvan/Astra) |
+| 2025-07-17 | Arxiv | MirageLSD | [MirageLSD: The First Live-Stream Diffusion AI Video Model](https://about.decart.ai/publications/mirage)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://mirage.decart.ai/) |  |
+| 2025-06-11 | Arxiv | V-JEPA 2 | [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) | [![Website](https://img.shields.io/badge/Website-9cf)](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/) | [![Code](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Official)](https://github.com/facebookresearch/vjepa2) |
+| 2024-12-04 | CVPR25 | NWM | [Navigation World Models](https://arxiv.org/abs/2412.03572)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.amirbar.net/nwm/) | [![Code](https://img.shields.io/github/stars/facebookresearch/nwm.svg?style=social&label=Official)](https://github.com/facebookresearch/nwm/) |
 
 
-+ [Yume1.5: A Text-Controlled Interactive World Generation Model](https://arxiv.org/abs/2512.22096) (2025-12-26) 
-[![Code](https://img.shields.io/github/stars/stdstu12/YUME.svg?style=social&label=Official)](https://github.com/stdstu12/YUME)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://stdstu12.github.io/YUME-Project/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/stdstu123/Yume-I2V-540P)
 
-+ [WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling](https://arxiv.org/abs/2512.14614) (2025-12-16) 
-[![Code](https://img.shields.io/github/stars/Tencent-Hunyuan/HY-WorldPlay.svg?style=social&label=Official)](https://github.com/Tencent-Hunyuan/HY-WorldPlay)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://3d-models.hunyuan.tencent.com/world/)
-[![Demo](https://img.shields.io/badge/Demo-9cf)](https://3d.hunyuan.tencent.com/login?redirect_url=https%3A%2F%2F3d.hunyuan.tencent.com%2FsceneTo3D)
-
-
-+ [MirageLSD: The First Live-Stream Diffusion AI Video Model](https://about.decart.ai/publications/mirage) (2025-07-17) 
-[![Code](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Official)](https://github.com/facebookresearch/vjepa2)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://mirage.decart.ai/)
-
-+ [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) (2025-06-11) 
-[![Code](https://img.shields.io/github/stars/facebookresearch/vjepa2.svg?style=social&label=Official)](https://github.com/facebookresearch/vjepa2)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)
-
-+ [Learning 3D Persistent Embodied World Models](https://arxiv.org/abs/2505.05495) (2025-05-05) 
-
-+ [Navigation World Models](https://arxiv.org/abs/2412.03572) (2024-12-04)
-[![Code](https://img.shields.io/github/stars/facebookresearch/nwm.svg?style=social&label=Official)](https://github.com/facebookresearch/nwm/)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://www.amirbar.net/nwm/)
-[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/facebook/nwm)
 
 
 <a name="4."></a>
