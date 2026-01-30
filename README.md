@@ -1288,6 +1288,8 @@ For Robotics:
 [![Website](https://img.shields.io/badge/Website-9cf)](https://thuml.github.io/Reasoning-Visual-World/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/thuml/VisWorld-Eval)
 
++ [PhysicsMind: Sim and Real Mechanics Benchmarking for Physical Reasoning and Prediction in Foundational VLMs and World Models](https://arxiv.org/abs/2601.16007) (2026-01-22)
+
 + [DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving](https://arxiv.org/abs/2601.01528) (2026-01-04)
 [![Code](https://img.shields.io/github/stars/youngzhou1999/DrivingGen.svg?style=social&label=Official)](https://github.com/youngzhou1999/DrivingGen)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://drivinggen-bench.github.io/)
