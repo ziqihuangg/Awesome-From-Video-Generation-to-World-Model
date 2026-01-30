@@ -1274,6 +1274,9 @@ Hybrid Navigation
 
 <a name="5.2."></a>
 ## 5.2 Evaluation Metrics of World Model
++ [WorldBench: Disambiguating Physics for Diagnostic Evaluation of World Models](https://arxiv.org/abs/2601.21282) (2026-01-29)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://world-bench.github.io/)
+
 + [Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models](https://arxiv.org/abs/2601.19834) (2026-01-27)
 [![Code](https://img.shields.io/github/stars/thuml/Reasoning-Visual-World.svg?style=social&label=Official)](https://github.com/thuml/Reasoning-Visual-World)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://thuml.github.io/Reasoning-Visual-World/)
