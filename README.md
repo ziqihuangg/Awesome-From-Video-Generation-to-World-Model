@@ -1073,6 +1073,8 @@ Hybrid Navigation
 
 <a name="2.4.4."></a>
 ### 2.4.4 Action Navigation World Model
++ [Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving](https://arxiv.org/abs/2601.22032) (2026-01-29)
+[![Code](https://img.shields.io/github/stars/linhanwang/Drive-JEPA.svg?style=social&label=Official)](https://github.com/linhanwang/Drive-JEPA)
 
 + [DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers](https://arxiv.org/abs/2412.18607) (2024-12-24)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://rogerchern.github.io/DrivingGPT/)
@@ -1204,7 +1206,11 @@ Hybrid Navigation
 | 2024-12-04 | CVPR25 | NWM | [Navigation World Models](https://arxiv.org/abs/2412.03572)  | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.amirbar.net/nwm/) | [![Code](https://img.shields.io/github/stars/facebookresearch/nwm.svg?style=social&label=Official)](https://github.com/facebookresearch/nwm/) |
 
 
-
+For Robotics:
++ [Causal World Modeling for Robot Control](https://arxiv.org/abs/2601.21998) (2026-01-29)
+[![Code](https://img.shields.io/github/stars/Robbyant/lingbot-va.svg?style=social&label=Official)](https://github.com/Robbyant/lingbot-va)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://technology.robbyant.com/lingbot-va)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/robbyant/lingbot-va)
 
 
 <a name="4."></a>
