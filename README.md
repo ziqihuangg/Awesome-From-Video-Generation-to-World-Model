@@ -927,6 +927,10 @@ Hybrid Navigation
 
 <a name="2.3.2."></a>
 ### 2.3.2 Instruction Navigation World Model
++ [Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning](https://arxiv.org/abs/2601.16163) (2026-01-22) 
+[![Code](https://img.shields.io/github/stars/nvlabs/cosmos-policy.svg?style=social&label=Official)](https://github.com/nvlabs/cosmos-policy)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-policy/) 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/nvidia/cosmos-policy)
 
 + [VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation](https://arxiv.org/abs/2411.09153) (2024-11-14) 
 
@@ -935,9 +939,6 @@ Hybrid Navigation
 + [VideoAgent: Self-Improving Video Generation](https://arxiv.org/abs/2410.10076) (2024-10-14) 
 [![Code](https://img.shields.io/github/stars/Video-as-Agent/VideoAgent.svg?style=social&label=Official)](https://github.com/Video-as-Agent/VideoAgent)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://video-as-agent.github.io/)
-
-
-
 
 + [COMBO: Compositional World Models for Embodied Multi-Agent Cooperation](https://arxiv.org/abs/2404.10775) (2024-04-16) 
 [![Code](https://img.shields.io/github/stars/UMass-Embodied-AGI/COMBO.svg?style=social&label=Official)](https://github.com/UMass-Embodied-AGI/COMBO)
@@ -1372,6 +1373,8 @@ For Robotics:
 # 6. Study and Rethinking
 <a name="6.1."></a>
 ## 6.1 Survey
++ [A Mechanistic View on Video Generation as World Models: State and Dynamics](https://arxiv.org/abs/2601.17067) (2026-01-22)
+
 + [Video Generation Models in Robotics - Applications, Research Challenges, Future Directions](https://arxiv.org/abs/2601.07823) (2026-01-12)
 
 + [3D and 4D World Modeling: A Survey](https://arxiv.org/abs/2509.07996) (2025-09-04)
