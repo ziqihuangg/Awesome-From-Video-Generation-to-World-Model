@@ -728,6 +728,14 @@ Hybrid Navigation
 + [VideoJAM: Joint Appearance-Motion Representations for Enhanced Motion Generation in Video Models](https://arxiv.org/abs/2502.02492) (2025-02-04)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hila-chefer.github.io/videojam-paper.github.io/)
 
+World Model Regulation Methods
+
+Stabilization:
++ [StableWorld: Towards Stable and Consistent Long Interactive Video Generation](https://arxiv.org/abs/2601.15281) (2026-01-21)
+[![Code](https://img.shields.io/github/stars/xbyym/StableWorld.svg?style=social&label=Official)](https://github.com/xbyym/StableWorld)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://sd-world.github.io/)
+
+
 <a name="2.2."></a>
 ## 2.2 Video Generation as World Model in General Scenes
 <a name="2.2.1."></a>
@@ -881,6 +889,10 @@ Hybrid Navigation
 ### 2.3.1 Action Navigation World Model
 
 + [Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space](https://arxiv.org/abs/2512.21887) (2025-12-26)
++ [Walk through Paintings: Egocentric World Models from Internet Priors](https://arxiv.org/abs/2601.15284) (2026-01-21)
+[![Code](https://img.shields.io/github/stars/miccooper9/egowm.svg?style=social&label=Official)](https://github.com/miccooper9/egowm)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://egowm.github.io/)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/anuragba/egowm)
 
 + [MindJourney: Test-Time Scaling with World Models for Spatial Reasoning](https://www.arxiv.org/abs/2507.12508) (2025-07-16)
 [![Code](https://img.shields.io/github/stars/UMass-Embodied-AGI/MindJourney.svg?style=social&label=Official)](https://github.com/UMass-Embodied-AGI/MindJourney)
@@ -931,9 +943,8 @@ Hybrid Navigation
 [![Code](https://img.shields.io/github/stars/nvlabs/cosmos-policy.svg?style=social&label=Official)](https://github.com/nvlabs/cosmos-policy)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-policy/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/nvidia/cosmos-policy)
-
++ [ReWorld: Multi-Dimensional Reward Modeling for Embodied World Models](https://arxiv.org/abs/2601.12428) (2026-01-18) 
 + [VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation](https://arxiv.org/abs/2411.09153) (2024-11-14) 
-
 + [EVA: An Embodied World Model for Future Video Anticipation](https://arxiv.org/abs/2410.15461) (2024-10-20)
   
 + [VideoAgent: Self-Improving Video Generation](https://arxiv.org/abs/2410.10076) (2024-10-14) 
@@ -1212,7 +1223,10 @@ For Robotics:
 [![Code](https://img.shields.io/github/stars/Robbyant/lingbot-va.svg?style=social&label=Official)](https://github.com/Robbyant/lingbot-va)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://technology.robbyant.com/lingbot-va)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/robbyant/lingbot-va)
-
++ [An Efficient and Multi-Modal Navigation System with One-Step World Model](https://arxiv.org/abs/2601.12277) (2026-01-18)
+[![Code](https://img.shields.io/github/stars/robotnav-bot/NOW.svg?style=social&label=Official)](https://github.com/robotnav-bot/NOW)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://robotnav-bot.github.io/nav-onestepwm/)
+ *Note:* Action and goal navigation.
 
 <a name="4."></a>
 # 4. Generation 4: Counterfactual and Outlier Modeling
@@ -1374,6 +1388,7 @@ For Robotics:
 <a name="6.1."></a>
 ## 6.1 Survey
 + [A Mechanistic View on Video Generation as World Models: State and Dynamics](https://arxiv.org/abs/2601.17067) (2026-01-22)
++ [From Generative Engines to Actionable Simulators: The Imperative of Physical Grounding in World Models](https://arxiv.org/abs/2601.15533) (2026-01-21)
 
 + [Video Generation Models in Robotics - Applications, Research Challenges, Future Directions](https://arxiv.org/abs/2601.07823) (2026-01-12)
 
