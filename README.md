@@ -1226,7 +1226,7 @@ For Robotics:
 + [An Efficient and Multi-Modal Navigation System with One-Step World Model](https://arxiv.org/abs/2601.12277) (2026-01-18)
 [![Code](https://img.shields.io/github/stars/robotnav-bot/NOW.svg?style=social&label=Official)](https://github.com/robotnav-bot/NOW)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://robotnav-bot.github.io/nav-onestepwm/)
- *Note:* Action and goal navigation.
+>*Note: Action and goal navigation for robotics.*
 
 <a name="4."></a>
 # 4. Generation 4: Counterfactual and Outlier Modeling
