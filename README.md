@@ -730,10 +730,13 @@ Hybrid Navigation
 
 World Model Regulation Methods
 
-Stabilization:
+*Stabilization:*
 + [StableWorld: Towards Stable and Consistent Long Interactive Video Generation](https://arxiv.org/abs/2601.15281) (2026-01-21)
 [![Code](https://img.shields.io/github/stars/xbyym/StableWorld.svg?style=social&label=Official)](https://github.com/xbyym/StableWorld)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://sd-world.github.io/)
+
+*Inference-time Physics Alignment:* 
++ [Inference-time Physics Alignment of Video Generative Models with Latent World Models](https://arxiv.org/abs/2601.10553) (2026-01-15)
 
 
 <a name="2.2."></a>
