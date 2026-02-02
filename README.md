@@ -946,7 +946,12 @@ World Model Regulation Methods
 [![Code](https://img.shields.io/github/stars/nvlabs/cosmos-policy.svg?style=social&label=Official)](https://github.com/nvlabs/cosmos-policy)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/dir/cosmos-policy/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/collections/nvidia/cosmos-policy)
-+ [ReWorld: Multi-Dimensional Reward Modeling for Embodied World Models](https://arxiv.org/abs/2601.12428) (2026-01-18) 
++ [ReWorld: Multi-Dimensional Reward Modeling for Embodied World Models](https://arxiv.org/abs/2601.12428) (2026-01-18)
++ [InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation](https://arxiv.org/abs/2601.02456) (2026-01-05) 
+[![Code](https://img.shields.io/github/stars/InternRobotics/InternVLA-A1.svg?style=social&label=Official)](https://github.com/InternRobotics/InternVLA-A1)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://internrobotics.github.io/internvla-a1.github.io/) 
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/InternRobotics/InternVLA-A1-3B)
+
 + [VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation](https://arxiv.org/abs/2411.09153) (2024-11-14) 
 + [EVA: An Embodied World Model for Future Video Anticipation](https://arxiv.org/abs/2410.15461) (2024-10-20)
   
@@ -1394,7 +1399,7 @@ For Robotics:
 + [From Generative Engines to Actionable Simulators: The Imperative of Physical Grounding in World Models](https://arxiv.org/abs/2601.15533) (2026-01-21)
 
 + [Video Generation Models in Robotics - Applications, Research Challenges, Future Directions](https://arxiv.org/abs/2601.07823) (2026-01-12)
-
++ [Modeling the Mental World for Embodied AI: A Comprehensive Review](https://arxiv.org/abs/2601.02378) (2025-12-17)
 + [3D and 4D World Modeling: A Survey](https://arxiv.org/abs/2509.07996) (2025-09-04)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/worldbench/awesome-3d-4d-world-models)
 + [Reconstructing 4D Spatial Intelligence: A Survey](https://arxiv.org/abs/2507.21045) (2025-07-28)
