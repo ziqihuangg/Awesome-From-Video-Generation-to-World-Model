@@ -99,6 +99,8 @@ This repository is updated periodically. If you have suggestions for additional 
     - [7.1 World Models as Data Generators](#7.1.)
     - [7.2 World Models as Reasoning Proxy](#7.2.)
 
+- [8. World Modele for Other Application](#8.)
+    - [8.1 World Models for Medicine](#8.1.)
 
 
 <a name="1."></a>
@@ -738,6 +740,10 @@ World Model Regulation Methods
 *Inference-time Physics Alignment:* 
 + [Inference-time Physics Alignment of Video Generative Models with Latent World Models](https://arxiv.org/abs/2601.10553) (2026-01-15)
 
+Long Video Generation Methods
++ [LIVE: Long-horizon Interactive Video World Modeling](https://arxiv.org/abs/2512.07831) (2026-02-03)
+[![Code (coming soon)](https://img.shields.io/github/stars/Junchao-cs/LIVE.svg?style=social&label=Official)](https://github.com/Junchao-cs/LIVE)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://junchao-cs.github.io/LIVE-demo/)
 
 <a name="2.2."></a>
 ## 2.2 Video Generation as World Model in General Scenes
@@ -890,13 +896,15 @@ World Model Regulation Methods
 ## 2.3 Video Generation as World Model in Robotics
 <a name="2.3.1."></a>
 ### 2.3.1 Action Navigation World Model
++ [BridgeV2W: Bridging Video Generation Models to Embodied World Models via Embodiment Masks](https://arxiv.org/abs/2602.03793) (2026-02-03)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://bridgev2w.github.io/)
 
-+ [Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space](https://arxiv.org/abs/2512.21887) (2025-12-26)
 + [Walk through Paintings: Egocentric World Models from Internet Priors](https://arxiv.org/abs/2601.15284) (2026-01-21)
 [![Code](https://img.shields.io/github/stars/miccooper9/egowm.svg?style=social&label=Official)](https://github.com/miccooper9/egowm)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://egowm.github.io/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/anuragba/egowm)
 
++ [Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space](https://arxiv.org/abs/2512.21887) (2025-12-26)
 + [MindJourney: Test-Time Scaling with World Models for Spatial Reasoning](https://www.arxiv.org/abs/2507.12508) (2025-07-16)
 [![Code](https://img.shields.io/github/stars/UMass-Embodied-AGI/MindJourney.svg?style=social&label=Official)](https://github.com/UMass-Embodied-AGI/MindJourney)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://umass-embodied-agi.github.io/MindJourney/)
@@ -1475,11 +1483,15 @@ For Robotics:
 [![Code](https://img.shields.io/github/stars/world-gymnast/world-gymnast.svg?style=social&label=Official)](https://github.com/world-gymnast/world-gymnast)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-gymnast.github.io/)
 
-
 + [TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion](https://arxiv.org/abs/2601.18323) (2026-01-26)
 [![Code](https://img.shields.io/github/stars/wsbaiyi/TC-IDM.svg?style=social&label=Official)](https://github.com/wsbaiyi/TC-IDM)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://wsbaiyi.github.io/TC-IDM-Page/)
 
+<a name="8."></a>
+# 8. World Modele for Other Application
+<a name="7.1."></a>
+## 8.1 World Models for Medicine
++ [EHRWorld: A Patient-Centric Medical World Model for Long-Horizon Clinical Trajectories](https://arxiv.org/abs/2602.03569) (2026-02-03)
 
 ## Citation
 If you find this paper useful, please consider citing:
