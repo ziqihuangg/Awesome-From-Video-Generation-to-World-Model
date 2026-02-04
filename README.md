@@ -1032,6 +1032,9 @@ Long Video Generation Methods
 
 <a name="2.4.1."></a>
 ### 2.4.1 Layout Prior World Model
++ [ConsisDrive: Identity-Preserving Driving World Models for Video Generation by Instance Mask](https://arxiv.org/abs/2602.03213) (2026-02-03)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://shanpoyang654.github.io/ConsisDrive/page.html)
+
 + [Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models](https://arxiv.org/abs/2506.09042v2) (2025-06-10)
 [![Code](https://img.shields.io/github/stars/nv-tlabs/Cosmos-Drive-Dreams.svg?style=social&label=Official)](https://github.com/nv-tlabs/Cosmos-Drive-Dreams)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/)
@@ -1068,6 +1071,10 @@ Long Video Generation Methods
 
 <a name="2.4.3."></a>
 ### 2.4.3 Trajectory Navigation World Model
++ [InstaDrive: Instance-Aware Driving World Models for Realistic and Consistent Video Generation](https://arxiv.org/abs/2602.03242) (2026-02-03)
+[![Code](https://img.shields.io/github/stars/shanpoyang654/InstaDrive.svg?style=social&label=Official)](https://github.com/shanpoyang654/InstaDrive)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://shanpoyang654.github.io/InstaDrive/page.html)
+
 + [MAD: Motion Appearance Decoupling for efficient Driving World Models](https://arxiv.org/abs/2601.09452) (2026-01-14)
 [![Code](https://img.shields.io/github/stars/vita-epfl/MAD-World-Model-Code.svg?style=social&label=Official)](https://github.com/vita-epfl/MAD-World-Model-Code/)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://vita-epfl.github.io/MAD-World-Model/)
