@@ -248,8 +248,6 @@ This repository is updated periodically. If you have suggestions for additional 
 ](https://arxiv.org/abs/2302.03011) (2023-02-06) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://runwayml.com/research/gen-1)
 
-
-
 + [Flexible Diffusion Modeling of Long Videos](https://arxiv.org/abs/2205.11495) (2022-05-23)
 
 + [MCVD: Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation](https://arxiv.org/abs/2205.09853) (2022-05-19)
@@ -1152,6 +1150,10 @@ Long Video Generation Methods
 ## 2.5 Video Generation as World Model in Gaming
 <a name="2.5.1."></a>
 ### 2.5.1 Controller Navigation World Model
+
++ [Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](https://arxiv.org/abs/2602.02393) (2026-02-03)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://rq-wu.github.io/projects/infinite-world/index.html)
+
 + [The World's First AI-Native UGC Game Engine Powered by Real-Time World Model](https://blog.dynamicslab.ai/) (2025-07-03)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://blog.dynamicslab.ai/)
 
@@ -1163,7 +1165,6 @@ Long Video Generation Methods
 [![Website](https://img.shields.io/badge/Website-9cf)](https://xizaoqu.github.io/worldmem/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/spaces/yslan/worldmem)
 
-
 + [MineWorld: a Real-Time and Open-Source Interactive World Model on Minecraft](https://arxiv.org/abs/2504.08388) (2025-04-11)
 [![Code](https://img.shields.io/github/stars/microsoft/MineWorld.svg?style=social&label=Official)](https://github.com/microsoft/MineWorld)
 
@@ -1172,21 +1173,17 @@ Long Video Generation Methods
 + [World and Human Action Models towards gameplay ideation](https://www.nature.com/articles/s41586-025-08600-3) (2025-02-19)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/microsoft/wham)
 
-
 + [GameFactory: Creating New Games with Generative Interactive Videos](https://arxiv.org/abs/2501.08325) (2025-01-14)
 [![Code](https://img.shields.io/github/stars/KwaiVGI/GameFactory.svg?style=social&label=Official)](https://github.com/KwaiVGI/GameFactory)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://yujiwen.github.io/gamefactory/)
 
 + [Genie 2: A large-scale foundation world model](https://deepmind.google/discover/blog/genie-2-a-large-scale-foundation-world-model/) (2024-12-04)
 
-
 + [The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control](https://arxiv.org/abs/2412.03568) (2024-12-04)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://thematrix1999.github.io/)
 
 + [Playable Game Generation](https://arxiv.org/abs/2412.00887) (2024-12-01)
 [![Code](https://img.shields.io/github/stars/GreatX3/Playable-Game-Generation.svg?style=social&label=Official)](https://github.com/GreatX3/Playable-Game-Generation)
-
-
 
 + [GameGen-X: Interactive Open-world Game Video Generation](https://arxiv.org/abs/2411.00769) (2024-11-01)
 [![Code](https://img.shields.io/github/stars/GameGen-X/GameGen-X.svg?style=social&label=Official)](https://github.com/GameGen-X/GameGen-X)
@@ -1204,11 +1201,8 @@ Long Video Generation Methods
 [![Code](https://img.shields.io/github/stars/eloialonso/diamond.svg?style=social&label=Official)](https://github.com/eloialonso/diamond)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://diamond-wm.github.io/)
 
-
 + [Genie: Generative Interactive Environmentsl](https://arxiv.org/abs/2402.15391) (2024-02-23)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/genie-2024/?pli=1)
-
-
 
 <a name="2.5.2."></a>
 ### 2.5.2 Action Navigation World Model
@@ -1217,15 +1211,11 @@ Long Video Generation Methods
 + [![Website](https://img.shields.io/badge/Website-9cf)](https://ryanpo.com/ssm_wm/)
 + [DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning](https://arxiv.org/abs/2411.04983) (2024-11-07)
 
-
 <a name="2.5.3."></a>
 ### 2.5.3 Hybrid Navigation World Model
 + [AdaWorld: Learning Adaptable World Models with Latent Actions](https://arxiv.org/abs/2503.18938) (2025-03-24)
 [![Code](https://img.shields.io/github/stars/Little-Podi/AdaWorld.svg?style=social&label=Official)](https://github.com/Little-Podi/AdaWorld)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://adaptable-world-model.github.io/)
-
-
-
 
 <a name="3."></a>
 # 3. Generation 3: Planning - Modeling the Future Evolution of Complex Systems
