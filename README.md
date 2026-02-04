@@ -1471,6 +1471,11 @@ For Robotics:
 <a name="7.2."></a>
 ## 7.2 World Models as Reasoning Proxy
 
++ [World-Gymnast: Training Robots with Reinforcement Learning in a World Model](https://arxiv.org/abs/2602.02454) (2026-02-02)
+[![Code](https://img.shields.io/github/stars/world-gymnast/world-gymnast.svg?style=social&label=Official)](https://github.com/world-gymnast/world-gymnast)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://world-gymnast.github.io/)
+
+
 + [TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion](https://arxiv.org/abs/2601.18323) (2026-01-26)
 [![Code](https://img.shields.io/github/stars/wsbaiyi/TC-IDM.svg?style=social&label=Official)](https://github.com/wsbaiyi/TC-IDM)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://wsbaiyi.github.io/TC-IDM-Page/)
