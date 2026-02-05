@@ -1454,7 +1454,7 @@ For Robotics:
 <a name="6.2."></a>
 ## 6.2 Position & Perspective
 + [An Empirical Study of World Model Quantization](https://arxiv.org/abs/2602.02110) (2026-02-02)
-[![Code](https://img.shields.io/github/stars/huawei-noah/noah-research/tree/master/QuantWM.svg?style=social&label=Official)](https://github.com/huawei-noah/noah-research/tree/master/QuantWM)
+[![Code](https://img.shields.io/github/stars/huawei-noah/noah-research.svg?style=social&label=Official)](https://github.com/huawei-noah/noah-research/tree/master/QuantWM)
 
 
 + [Learning Latent Action World Models In The Wild](https://arxiv.org/abs/2601.05230) (2026-01-08)
