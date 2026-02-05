@@ -731,12 +731,16 @@ Hybrid Navigation
 World Model Regulation Methods
 
 *Stabilization:*
-+ [StableWorld: Towards Stable and Consistent Long Interactive Video Generation](https://arxiv.org/abs/2601.15281) (2026-01-21)
++ [Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention](https://arxiv.org/abs/2601.15281) (2026-01-21)
 [![Code](https://img.shields.io/github/stars/xbyym/StableWorld.svg?style=social&label=Official)](https://github.com/xbyym/StableWorld)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://sd-world.github.io/)
 
 *Inference-time Physics Alignment:* 
 + [Inference-time Physics Alignment of Video Generative Models with Latent World Models](https://arxiv.org/abs/2601.10553) (2026-01-15)
+
+*Efficiency:* 
++ [StableWorld: Towards Stable and Consistent Long Interactive Video Generation](https://arxiv.org/abs/2602.01801) (2026-02-02)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://dvirsamuel.github.io/fast-auto-regressive-video/)
 
 
 Long Video Generation Methods
@@ -763,7 +767,8 @@ Long Video Generation Methods
 
 <a name="2.2.2."></a>
 ### 2.2.2 3D Condition Prior World Model
-
++ [Learning Physics-Grounded 4D Dynamics with Neural Gaussian Force Fields](https://arxiv.org/abs/2602.00148) (2026-01-29)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://neuralgaussianforcefield.github.io/)
 + [LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion](https://arxiv.org/abs/2507.02813) (2025-07-03)
 [![Code](https://img.shields.io/github/stars/liuff19/LangScene-X.svg?style=social&label=Official)](https://github.com/liuff19/LangScene-X)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://liuff19.github.io/LangScene-X/)
@@ -1073,6 +1078,8 @@ Long Video Generation Methods
 + [InstaDrive: Instance-Aware Driving World Models for Realistic and Consistent Video Generation](https://arxiv.org/abs/2602.03242) (2026-02-03)
 [![Code](https://img.shields.io/github/stars/shanpoyang654/InstaDrive.svg?style=social&label=Official)](https://github.com/shanpoyang654/InstaDrive)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://shanpoyang654.github.io/InstaDrive/page.html)
++ [UniDWM: Towards a Unified Driving World Model via Multifaceted Representation Learning](https://arxiv.org/abs/2602.01536) (2026-02-02)
++ [DISK: Dynamic Inference SKipping for World Models](https://arxiv.org/abs/2602.00440) (2026-01-31)
 
 + [MAD: Motion Appearance Decoupling for efficient Driving World Models](https://arxiv.org/abs/2601.09452) (2026-01-14)
 [![Code](https://img.shields.io/github/stars/vita-epfl/MAD-World-Model-Code.svg?style=social&label=Official)](https://github.com/vita-epfl/MAD-World-Model-Code/)
@@ -1401,6 +1408,7 @@ For Robotics:
 # 6. Study and Rethinking
 <a name="6.1."></a>
 ## 6.1 Survey
++ [From Perception to Action: Spatial AI Agents and World Models](https://arxiv.org/abs/2602.01644) (2026-02-02)
 + [A Mechanistic View on Video Generation as World Models: State and Dynamics](https://arxiv.org/abs/2601.17067) (2026-01-22)
 + [From Generative Engines to Actionable Simulators: The Imperative of Physical Grounding in World Models](https://arxiv.org/abs/2601.15533) (2026-01-21)
 
@@ -1454,6 +1462,7 @@ For Robotics:
 
 <a name="6.2."></a>
 ## 6.2 Position & Perspective
++ [Research on World Models Is Not Merely Injecting World Knowledge into Specific Tasks](https://arxiv.org/abs/2602.01630) (2026-02-02)
 + [An Empirical Study of World Model Quantization](https://arxiv.org/abs/2602.02110) (2026-02-02)
 [![Code](https://img.shields.io/github/stars/huawei-noah/noah-research.svg?style=social&label=Official)](https://github.com/huawei-noah/noah-research/tree/master/QuantWM)
 
@@ -1484,11 +1493,11 @@ For Robotics:
 + [World-Gymnast: Training Robots with Reinforcement Learning in a World Model](https://arxiv.org/abs/2602.02454) (2026-02-02)
 [![Code](https://img.shields.io/github/stars/world-gymnast/world-gymnast.svg?style=social&label=Official)](https://github.com/world-gymnast/world-gymnast)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-gymnast.github.io/)
-
++ [World Models as an Intermediary between Agents and the Real World](https://arxiv.org/abs/2602.00785) (2026-01-31)
 + [TC-IDM: Grounding Video Generation for Executable Zero-shot Robot Motion](https://arxiv.org/abs/2601.18323) (2026-01-26)
 [![Code](https://img.shields.io/github/stars/wsbaiyi/TC-IDM.svg?style=social&label=Official)](https://github.com/wsbaiyi/TC-IDM)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://wsbaiyi.github.io/TC-IDM-Page/)
-
++ [Mirage2Matter: A Physically Grounded Gaussian World Model from Video](https://arxiv.org/abs/2602.00096) (2026-01-24)
 <a name="8."></a>
 # 8. World Modele for Other Application
 <a name="7.1."></a>
