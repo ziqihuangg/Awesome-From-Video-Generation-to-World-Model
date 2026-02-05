@@ -738,6 +738,7 @@ World Model Regulation Methods
 *Inference-time Physics Alignment:* 
 + [Inference-time Physics Alignment of Video Generative Models with Latent World Models](https://arxiv.org/abs/2601.10553) (2026-01-15)
 
+
 Long Video Generation Methods
 + [LIVE: Long-horizon Interactive Video World Modeling](https://arxiv.org/abs/2512.07831) (2026-02-03)
 [![Code (coming soon)](https://img.shields.io/github/stars/Junchao-cs/LIVE.svg?style=social&label=Official)](https://github.com/Junchao-cs/LIVE)
@@ -1032,7 +1033,7 @@ Long Video Generation Methods
 ### 2.4.1 Layout Prior World Model
 + [ConsisDrive: Identity-Preserving Driving World Models for Video Generation by Instance Mask](https://arxiv.org/abs/2602.03213) (2026-02-03)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://shanpoyang654.github.io/ConsisDrive/page.html)
-
++ [UniDriveDreamer: A Single-Stage Multimodal World Model for Autonomous Driving](https://arxiv.org/abs/2602.02002) (2026-02-02)
 + [Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models](https://arxiv.org/abs/2506.09042v2) (2025-06-10)
 [![Code](https://img.shields.io/github/stars/nv-tlabs/Cosmos-Drive-Dreams.svg?style=social&label=Official)](https://github.com/nv-tlabs/Cosmos-Drive-Dreams)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/)
