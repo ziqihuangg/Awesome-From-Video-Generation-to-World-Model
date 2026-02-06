@@ -742,6 +742,9 @@ World Model Regulation Methods
 + [StableWorld: Towards Stable and Consistent Long Interactive Video Generation](https://arxiv.org/abs/2602.01801) (2026-02-02)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://dvirsamuel.github.io/fast-auto-regressive-video/)
 
+*Planning Optimization:*
++ [Parallel Stochastic Gradient-Based Planning for World Models](https://arxiv.org/abs/2602.00475) (2026-01-31)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://www.michaelpsenka.io/grasp/)
 
 Long Video Generation Methods
 + [LIVE: Long-horizon Interactive Video World Modeling](https://arxiv.org/abs/2512.07831) (2026-02-03)
@@ -1006,6 +1009,7 @@ Long Video Generation Methods
 
 <a name="2.3.4."></a>
 ### 2.3.4 Hybrid Navigation World Model
++ [Visuo-Tactile World Models](https://arxiv.org/abs/2602.06001) (2026-02-05) 
 
 + [DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge](https://arxiv.org/abs/2507.04447) (2025-07-06) 
 [![Code](https://img.shields.io/github/stars/Zhangwenyao1/DreamVLA.svg?style=social&label=Official)](https://github.com/Zhangwenyao1/DreamVLA)
