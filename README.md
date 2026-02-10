@@ -1320,6 +1320,7 @@ For Robotics:
 
 <a name="5.2."></a>
 ## 5.2 Evaluation Metrics of World Model
++ [WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models](https://arxiv.org/abs/2602.08971) (2026-02-09)
 + [WorldBench: Disambiguating Physics for Diagnostic Evaluation of World Models](https://arxiv.org/abs/2601.21282) (2026-01-29)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-bench.github.io/)
 
