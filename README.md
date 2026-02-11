@@ -679,6 +679,7 @@ Hybrid Navigation
 
 |     Date     | Venue | Acronym | Paper | Project | Repo@GitHub | 
 |--------------|-------|---------|-------|---------|-------------|
+| 2026-02-02 | Arxiv | Causal Forcing | [Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation](https://arxiv.org/abs/2602.02214) | [![Website](https://img.shields.io/badge/Website-9cf)](https://thu-ml.github.io/CausalForcing.github.io/) | [![Code](https://img.shields.io/github/stars/thu-ml/Causal-Forcing.svg?style=social&label=Official)](https://github.com/thu-ml/Causal-Forcing) |
 | 2026-01-24 | Arxiv | SkyReels-V3 | [SkyReels-V3 Technique Report](https://arxiv.org/abs/2601.17323) | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.apifree.ai/explore) | [![Code](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V3.svg?style=social&label=Official)](https://github.com/SkyworkAI/SkyReels-V3) |
 | 2025-12-23 | Arxiv | SemanticGen | [SemanticGen: Video Generation in Semantic Space](https://arxiv.org/abs/2512.20619) | [![Website](https://img.shields.io/badge/Website-9cf)](https://jianhongbai.github.io/SemanticGen/) |
 | 2025-12-18 | Arxiv | Kling-Omni | [Kling-Omni Technical Report](https://arxiv.org/abs/2512.16776) | [![Website](https://img.shields.io/badge/Website-9cf)](https://app.klingai.com/global/omni/new) |
