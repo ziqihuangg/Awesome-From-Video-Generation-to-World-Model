@@ -109,6 +109,7 @@ This repository is updated periodically. If you have suggestions for additional 
 ## 1.1 Video Foundation Model
 |     Date     | Venue | Acronym | Paper | Project | Repo@GitHub | 
 |--------------|-------|---------|-------|---------|-------------|
+| 2025-03-04 | Arxiv | Helios | [Helios: Real Real-Time Long Video Generation Model](https://arxiv.org/abs/2603.04379) | [![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/Helios-Page/) | [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Helios.svg?style=social&label=Official)](https://github.com/PKU-YuanGroup/Helios) |
 | 2024-12-30 | Arxiv | LTX-Video | [LTX-Video: Realtime Video Latent Diffusion](https://arxiv.org/abs/2501.00103) | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.lightricks.com/) | [![Code](https://img.shields.io/github/stars/Lightricks/LTX-Video.svg?style=social&label=Official)](https://github.com/Lightricks/LTX-Video) |
 | 2024-12-12 | Arxiv | Owl-1 | [Owl-1: Omni World Model for Consistent Long Video Generation](https://arxiv.org/abs/2412.09600) |  | [![Code](https://img.shields.io/github/stars/huang-yh/Owl.svg?style=social&label=Official)](https://github.com/huang-yh/Owl) |
 | 2024-12-10 | Arxiv | STIV | [STIV: Scalable Text and Image Conditioned Video Generation](https://arxiv.org/abs/2412.07730) |  |  |
@@ -679,6 +680,7 @@ Hybrid Navigation
 
 |     Date     | Venue | Acronym | Paper | Project | Repo@GitHub | 
 |--------------|-------|---------|-------|---------|-------------|
+| 2026-03-04 | Arxiv | Helios | [Helios: Real Real-Time Long Video Generation Model](https://arxiv.org/abs/2603.04379) | [![Website](https://img.shields.io/badge/Website-9cf)](https://pku-yuangroup.github.io/Helios-Page/) | [![Code](https://img.shields.io/github/stars/PKU-YuanGroup/Helios.svg?style=social&label=Official)](https://github.com/PKU-YuanGroup/Helios) |
 | 2026-02-02 | Arxiv | Causal Forcing | [Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation](https://arxiv.org/abs/2602.02214) | [![Website](https://img.shields.io/badge/Website-9cf)](https://thu-ml.github.io/CausalForcing.github.io/) | [![Code](https://img.shields.io/github/stars/thu-ml/Causal-Forcing.svg?style=social&label=Official)](https://github.com/thu-ml/Causal-Forcing) |
 | 2026-01-24 | Arxiv | SkyReels-V3 | [SkyReels-V3 Technique Report](https://arxiv.org/abs/2601.17323) | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.apifree.ai/explore) | [![Code](https://img.shields.io/github/stars/SkyworkAI/SkyReels-V3.svg?style=social&label=Official)](https://github.com/SkyworkAI/SkyReels-V3) |
 | 2025-12-23 | Arxiv | SemanticGen | [SemanticGen: Video Generation in Semantic Space](https://arxiv.org/abs/2512.20619) | [![Website](https://img.shields.io/badge/Website-9cf)](https://jianhongbai.github.io/SemanticGen/) |
