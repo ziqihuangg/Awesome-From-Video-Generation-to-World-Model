@@ -906,6 +906,10 @@ Long Video Generation Methods
 ## 2.3 Video Generation as World Model in Robotics
 <a name="2.3.1."></a>
 ### 2.3.1 Action Navigation World Model
++ [Interactive World Simulator for Robot Policy Training and Evaluation](https://arxiv.org/abs/2603.08546) (2026-03-09)
+[![Code](https://img.shields.io/github/stars/WangYixuan12/interactive_world_sim.svg?style=social&label=Official)](https://github.com/WangYixuan12/interactive_world_sim)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://www.yixuanwang.me/interactive_world_sim/)
+
 + [BridgeV2W: Bridging Video Generation Models to Embodied World Models via Embodiment Masks](https://arxiv.org/abs/2602.03793) (2026-02-03)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://bridgev2w.github.io/)
 
