@@ -717,6 +717,8 @@ Hybrid Navigation
 | 2024-05-07 | Arxiv | Vidu |  [Vidu: a Highly Consistent, Dynamic and Skilled Text-to-Video Generator with Diffusion Models](https://arxiv.org/abs/2405.04233) | [![Website](https://img.shields.io/badge/Website-9cf)](https://www.vidu.com/zh) |  |
 | 2024-02-15 |  | Sora | [Video generation models as world simulators](https://openai.com/index/video-generation-models-as-world-simulators/) | [![Website](https://img.shields.io/badge/Website-9cf)](https://sora.com/library) |  |
 
++ [SPIRAL: A Closed-Loop Framework for Self-Improving Action World Models via Reflective Planning Agents](https://arxiv.org/abs/2603.08403) (2026-03-09)
+
 + [Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling](https://arxiv.org/abs/2507.07982) (2025-07-10)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://geometryforcing.github.io/)
 
@@ -1140,7 +1142,7 @@ Long Video Generation Methods
 
 <a name="2.4.5."></a>
 ### 2.4.5 Hybrid Navigation World Model
-
++ [SAMoE-VLA: A Scene Adaptive Mixture-of-Experts Vision-Language-Action Model for Autonomous Driving](https://arxiv.org/abs/2603.08113) (2026-03-09)
 + [GAIA-2: A Controllable Multi-View Generative World Model for Autonomous Driving](https://arxiv.org/abs/2503.20523) (2025-03-26)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://wayve.ai/thinking/gaia-2/)
 
