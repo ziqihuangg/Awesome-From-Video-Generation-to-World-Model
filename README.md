@@ -908,6 +908,10 @@ Long Video Generation Methods
 ## 2.3 Video Generation as World Model in Robotics
 <a name="2.3.1."></a>
 ### 2.3.1 Action Navigation World Model
++ [Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation](https://arxiv.org/abs/2603.16669) (2026-03-17)
+[![Code](https://img.shields.io/github/stars/mutianxu/Kinema4D.svg?style=social&label=Official)](https://github.com/mutianxu/Kinema4D)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://mutianxu.github.io/Kinema4D-project-page/)
+
 + [Interactive World Simulator for Robot Policy Training and Evaluation](https://arxiv.org/abs/2603.08546) (2026-03-09)
 [![Code](https://img.shields.io/github/stars/WangYixuan12/interactive_world_sim.svg?style=social&label=Official)](https://github.com/WangYixuan12/interactive_world_sim)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://www.yixuanwang.me/interactive_world_sim/)
@@ -1049,6 +1053,7 @@ Long Video Generation Methods
 
 <a name="2.4.1."></a>
 ### 2.4.1 Layout Prior World Model
++ [DriveFix: Spatio-Temporally Coherent Driving Scene Restoration](https://arxiv.org/abs/2603.16306) (2026-03-17)
 + [ConsisDrive: Identity-Preserving Driving World Models for Video Generation by Instance Mask](https://arxiv.org/abs/2602.03213) (2026-02-03)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://shanpoyang654.github.io/ConsisDrive/page.html)
 + [UniDriveDreamer: A Single-Stage Multimodal World Model for Autonomous Driving](https://arxiv.org/abs/2602.02002) (2026-02-02)
@@ -1171,6 +1176,9 @@ Long Video Generation Methods
 ## 2.5 Video Generation as World Model in Gaming
 <a name="2.5.1."></a>
 ### 2.5.1 Controller Navigation World Model
++ [WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation](https://arxiv.org/abs/2603.16871) (2026-03-17)
+[![Code](https://img.shields.io/github/stars/cvlab-kaist/WorldCam.svg?style=social&label=Official)](https://github.com/cvlab-kaist/WorldCam)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://cvlab-kaist.github.io/WorldCam/)
 
 + [Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory](https://arxiv.org/abs/2602.02393) (2026-02-03)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://rq-wu.github.io/projects/infinite-world/index.html)
@@ -1503,7 +1511,8 @@ For Robotics:
 
 <a name="7.2."></a>
 ## 7.2 World Models as Reasoning Proxy
-
++ [DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models](https://arxiv.org/abs/2603.16860) (2026-03-17)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://psi-lab.ai/DreamPlan/)
 + [World-Gymnast: Training Robots with Reinforcement Learning in a World Model](https://arxiv.org/abs/2602.02454) (2026-02-02)
 [![Code](https://img.shields.io/github/stars/world-gymnast/world-gymnast.svg?style=social&label=Official)](https://github.com/world-gymnast/world-gymnast)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-gymnast.github.io/)
