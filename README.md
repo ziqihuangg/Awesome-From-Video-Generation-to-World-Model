@@ -891,7 +891,9 @@ Long Video Generation Methods
 
 <a name="2.2.8."></a>
 ### 2.2.8 Action Navigation World Model
-
++ [Grounding World Simulation Models in a Real-World Metropolis](https://arxiv.org/abs/2603.15583) (2026-03-16)
+[![Code](https://img.shields.io/github/stars/naver-ai/seoul-world-model.svg?style=social&label=Official)](https://github.com/naver-ai/seoul-world-model)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://seoul-world-model.github.io/)
 + [WonderPlay: Dynamic 3D Scene Generation from a Single Image and Actions](https://arxiv.org/abs/2505.18151) (2025-05-23)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://kyleleey.github.io/WonderPlay/)
 + [Introducing Multiverse: The First AI Multiplayer World Model](https://enigma-labs.io/blog) (2025-05-08)
@@ -1513,6 +1515,7 @@ For Robotics:
 ## 7.2 World Models as Reasoning Proxy
 + [DreamPlan: Efficient Reinforcement Fine-Tuning of Vision-Language Planners via Video World Models](https://arxiv.org/abs/2603.16860) (2026-03-17)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://psi-lab.ai/DreamPlan/)
++ [NavThinker: Action-Conditioned World Models for Coupled Prediction and Planning in Social Navigation](https://arxiv.org/abs/2603.15359) (2026-03-16)
 + [World-Gymnast: Training Robots with Reinforcement Learning in a World Model](https://arxiv.org/abs/2602.02454) (2026-02-02)
 [![Code](https://img.shields.io/github/stars/world-gymnast/world-gymnast.svg?style=social&label=Official)](https://github.com/world-gymnast/world-gymnast)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-gymnast.github.io/)
