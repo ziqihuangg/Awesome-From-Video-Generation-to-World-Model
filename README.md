@@ -742,6 +742,7 @@ World Model Regulation Methods
 
 *Inference-time Physics Alignment:* 
 + [Inference-time Physics Alignment of Video Generative Models with Latent World Models](https://arxiv.org/abs/2601.10553) (2026-01-15)
+[![Code](https://img.shields.io/github/stars/facebookresearch/WMReward.svg?style=social&label=Official)](https://github.com/facebookresearch/WMReward)
 
 *Efficiency:* 
 + [StableWorld: Towards Stable and Consistent Long Interactive Video Generation](https://arxiv.org/abs/2602.01801) (2026-02-02)
