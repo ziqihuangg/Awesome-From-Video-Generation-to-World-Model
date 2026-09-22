@@ -1134,6 +1134,9 @@ Long Video Generation Methods
 
 <a name="2.4.4."></a>
 ### 2.4.4 Action Navigation World Model
++ [DriveVA: Video Action Models are Zero-Shot Drivers](https://link.springer.com/chapter/10.1007/978-3-032-37718-0_19) (2026-04-05, ECCV 2026)
+[![Code](https://img.shields.io/github/stars/xiaomi-mlab/DriveVA.svg?style=social&label=Official)](https://github.com/xiaomi-mlab/DriveVA)
+
 + [Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving](https://arxiv.org/abs/2601.22032) (2026-01-29)
 [![Code](https://img.shields.io/github/stars/linhanwang/Drive-JEPA.svg?style=social&label=Official)](https://github.com/linhanwang/Drive-JEPA)
 
