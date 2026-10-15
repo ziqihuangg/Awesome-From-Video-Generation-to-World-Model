@@ -1295,6 +1295,10 @@ For Robotics:
 
 <a name="5.1."></a>
 ## 5.1 Evaluation Metrics of Video Generation
++ [VideoScore2: Think before You Score in Generative Video Evaluation](https://arxiv.org/abs/2509.22799) (2025-09-26)
+[![Code](https://img.shields.io/github/stars/TIGER-AI-Lab/VideoScore2.svg?style=social&label=Official)](https://github.com/TIGER-AI-Lab/VideoScore2)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://tiger-ai-lab.github.io/VideoScore2/)
+
 + [Towards Video Thinking Test: A Holistic Benchmark for Advanced Video Reasoning and Understanding](https://arxiv.org/abs/2507.15028) (2025-07-20)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://zhangyuanhan-ai.github.io/video-tt/)
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/datasets/lmms-lab/video-tt)
