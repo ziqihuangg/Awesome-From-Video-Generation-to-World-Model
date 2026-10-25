@@ -888,6 +888,13 @@ Long Video Generation Methods
 [![Website](https://img.shields.io/badge/Website-9cf)](https://world-model.maitrix.org/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/maitrix-org/Pandora)
 
++ [WorldGPT: Empowering LLM as Multimodal World Model](https://arxiv.org/abs/2404.18202) (2024-04-28)
+[![Code](https://img.shields.io/github/stars/ZJU4EmbodiedAI/WorldGPT.svg?style=social&label=Official)](https://github.com/ZJU4EmbodiedAI/WorldGPT)
+
++ [WorldGPT: A Sora-Inspired Video AI Agent as Rich World Models from Text and Image Inputs](https://arxiv.org/abs/2403.07944) (2024-03-10)
+
+
+
 
 <a name="2.2.8."></a>
 ### 2.2.8 Action Navigation World Model
@@ -927,6 +934,8 @@ Long Video Generation Methods
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/anuragba/egowm)
 
 + [Aerial World Model for Long-horizon Visual Generation and Navigation in 3D Space](https://arxiv.org/abs/2512.21887) (2025-12-26)
++ [Latent Action Pretraining Through World Modeling](https://arxiv.org/abs/2509.18428) (2025-09-22)
+
 + [MindJourney: Test-Time Scaling with World Models for Spatial Reasoning](https://www.arxiv.org/abs/2507.12508) (2025-07-16)
 [![Code](https://img.shields.io/github/stars/UMass-Embodied-AGI/MindJourney.svg?style=social&label=Official)](https://github.com/UMass-Embodied-AGI/MindJourney)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://umass-embodied-agi.github.io/MindJourney/)
@@ -942,6 +951,8 @@ Long Video Generation Methods
 
 
 + [Consistent World Models via Foresight Diffusion](https://arxiv.org/abs/2505.16474) (2025-05-22)
+
++ [DreamGen: Unlocking Generalization in Robot Learning through Video World Models](https://arxiv.org/abs/2505.12705) (2025-05-19)
 
 + [Learning 3D Persistent Embodied World Models](https://arxiv.org/abs/2505.05495) (2025-05-05) 
 
@@ -961,9 +972,15 @@ Long Video Generation Methods
 [![Website](https://img.shields.io/badge/Website-9cf)](https://liruiw.github.io/hma/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/liruiw/hma-base-disc)
 
++ [EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation](https://arxiv.org/abs/2501.01895) (2025-01-03)
+[![Code](https://img.shields.io/github/stars/AgibotTech/EnerVerse-AC.svg?style=social&label=Official)](https://github.com/AgibotTech/EnerVerse-AC)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/enerverse)
+
 + [Prediction with Action: Visual Policy Learning via Joint Denoising Process](https://arxiv.org/abs/2411.18179) (2024-11-27)
 [![Code](https://img.shields.io/github/stars/Robert-gyj/Prediction_with_Action.svg?style=social&label=Official)](https://github.com/Robert-gyj/Prediction_with_Action)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://sites.google.com/view/pad-paper)
+
++ [Latent Action Pretraining from Videos](https://arxiv.org/abs/2410.11758) (2024-10-15)
 
 + [IRASim: Learning Interactive Real-Robot Action Simulators](https://arxiv.org/abs/2406.14540) (2024-06-20)
 [![Code](https://img.shields.io/github/stars/bytedance/IRASim.svg?style=social&label=Official)](https://github.com/bytedance/IRASim)
@@ -981,6 +998,9 @@ Long Video Generation Methods
 [![Code](https://img.shields.io/github/stars/InternRobotics/InternVLA-A1.svg?style=social&label=Official)](https://github.com/InternRobotics/InternVLA-A1)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://internrobotics.github.io/internvla-a1.github.io/) 
 [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue)](https://huggingface.co/InternRobotics/InternVLA-A1-3B)
+
++ [Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](https://arxiv.org/abs/2508.05635) (2025-08-07)
+[![Code](https://img.shields.io/github/stars/AgibotTech/Genie-Envisioner-V1.svg?style=social&label=Official)](https://github.com/AgibotTech/Genie-Envisioner-V1)
 
 + [VidMan: Exploiting Implicit Dynamics from Video Diffusion Model for Effective Robot Manipulation](https://arxiv.org/abs/2411.09153) (2024-11-14) 
 + [EVA: An Embodied World Model for Future Video Anticipation](https://arxiv.org/abs/2410.15461) (2024-10-20)
