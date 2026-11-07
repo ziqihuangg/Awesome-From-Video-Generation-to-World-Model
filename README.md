@@ -179,6 +179,10 @@ This repository is updated periodically. If you have suggestions for additional 
 + [Temporal texture modeling](https://ieeexplore.ieee.org/abstract/document/560871) (2002-08-06) 
 <a name="1.2.2."></a>
 ### 1.2.2 U-Net Based Video Generation
++ [Motion-aware generative frame interpolation](https://arxiv.org/abs/2501.03699) (2025-01-07)
+[![Code](https://img.shields.io/github/stars/MCG-NJU/MoG-VFI.svg?style=social&label=Official)](https://github.com/MCG-NJU/MoG-VFI)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://mcg-nju.github.io/MoG_Web/)
+
 + [ZoLA: Zero-Shot Creative Long Animation Generation with Short Video Model](https://link.springer.com/chapter/10.1007/978-3-031-72995-9_19) (2024-11-24) 
 [![Website](https://img.shields.io/badge/Website-9cf)](https://gen-l-2.github.io/) 
 
