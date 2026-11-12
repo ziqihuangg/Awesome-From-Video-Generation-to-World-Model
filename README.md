@@ -891,6 +891,8 @@ Long Video Generation Methods
 
 <a name="2.2.8."></a>
 ### 2.2.8 Action Navigation World Model
++ [FlockWorld: Toward Population-Scale Multi-Agent Video World Models through Artificial Life Simulation](https://arxiv.org/abs/2610.34564) (2026-10-25)
+[![Code](https://img.shields.io/github/stars/wangyz1999/flockworld.svg?style=social&label=Official)](https://github.com/wangyz1999/flockworld)
 + [Grounding World Simulation Models in a Real-World Metropolis](https://arxiv.org/abs/2603.15583) (2026-03-16)
 [![Code](https://img.shields.io/github/stars/naver-ai/seoul-world-model.svg?style=social&label=Official)](https://github.com/naver-ai/seoul-world-model)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://seoul-world-model.github.io/)
